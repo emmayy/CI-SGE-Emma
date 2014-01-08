@@ -314,7 +314,8 @@ runEncodeOneCase()
 	local CodecDir=$1
 	local TempDir=""
 	local CaseInfo=""
-	
+	local Coml=""
+
 	cd  ${CodecDir}
 	TempDir=`pwd`
 	
@@ -322,8 +323,10 @@ runEncodeOneCase()
 	if [[ ${CodecFolder} =~ codec_benchmark  ]]
 	then
 		BitStreamFile=${BitstreamBenchmark}
+		Coml="./welsenc.exe"
 	else
 		BitStreamFile=${BitstreamTarget}
+		Coml="./h264enc"
 	fi
 	
 	
@@ -350,7 +353,10 @@ runEncodeOneCase()
 	echo "case line is :"
 	echo "${CaseCommand}"
 	
-	./welsenc.exe   ${CaseCommand}    		  \
+	local CurrDir=`pwd`
+	echo "Curr path is $CurrDir -------------"
+	echo "BitStreamFile is ${BitStreamFile} -------------"
+	${Coml} ${CaseCommand}    		  \
 					-bf   ${BitStreamFile}    \
 					-org  0 ${SequencePath}   \
 					-drec 0 ${RecYUVFile}     
@@ -375,6 +381,7 @@ runMultiCodecCompare()
 
 	local BenchmarkFolder=$1
 	local TargetFolder=$2
+	local BitFile=""
 	
 	echo ""
 	echo "******************************************"
@@ -383,9 +390,16 @@ runMultiCodecCompare()
 		
 	if [  -s ${DiffInfo} ]
 	then 
+		BitFile=`echo ${BitStreamFile} | awk 'BEGIN {FS="[/]"} {i=NF; printf("%s",$i)}'`
 		echo "diff info:  bitsteam not matched "
-		cp -f ${BitstreamBenchmark}         ${IssueDataPath}/${BitStreamFile}
-		cp -f ${BitstreamTarget}            ${IssueDataPath}/${BitStreamFile}_diff
+		#echo "***                           *** 0 "
+		#echo "cp -f ${BitstreamBenchmark}    ------  ${IssueDataPath}/????${BitFile}"
+		#echo "***                           *** 1 "
+		cp -f ${BitstreamBenchmark}         ${IssueDataPath}/${BitFile}
+		#echo "***                           *** 2 "
+		#echo "cp -f ${BitstreamTarget}  -----------   ${IssueDataPath}/????${BitFile}_diff"
+		#echo "***                           *** 3 "
+		cp -f ${BitstreamTarget}            ${IssueDataPath}/${BitFile}_diff
 		DiffFlag="1:unpassed!"
 		let "UnpassCaseNum++"
 		
@@ -485,7 +499,7 @@ runMain()
 	FlagFile=""
 	
 	#run all cases
-	runAllCaseTest>${AllCaseConsoleLogFile}
+	runAllCaseTest >${AllCaseConsoleLogFile}
 	
 	
 	# output file locate in ../result
