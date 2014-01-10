@@ -56,10 +56,10 @@ def main(runAnchor = False,comparewithanchor = True,output = True, PSNRcalc = Tr
         config.PSNRcalc = PSNRcalc
         config.PSNRcalc_dir = PSNRcalc_dir
         config.ltrnum = (1,)   
-        config.gopList = (1,)
+        config.gopList = (1,)   #config.gopList = (1,2,4,8)
         config.qpList = (20,22,27,32,37,42)           
-        config.rc = RC_test
-        config.brList = (256,384,512,768,1024,1536,2048)
+        config.rc = RC_test  #config.rc = (0,1) rc1的时候 config.brList = (256,384,512,768,1024,1536,2048)
+        config.brList = (256,384,512,768,1024,1536,2048)  #rc1的时候 config.brList = (256,384,512,768,1024,1536,2048)
         config.me16x16 = 3
         config.me8x8 = 7
         config.fmehash = 0
