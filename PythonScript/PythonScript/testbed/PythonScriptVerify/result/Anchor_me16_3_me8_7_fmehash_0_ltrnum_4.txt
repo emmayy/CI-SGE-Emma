@@ -1,0 +1,192 @@
+ FourPeople                      	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ FourPeople                      	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ FourPeople                      	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ FourPeople                      	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ FourPeople                      	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PeopleOnStreet_2560x            	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PeopleOnStreet_2560x            	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PeopleOnStreet_2560x            	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PeopleOnStreet_2560x            	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PeopleOnStreet_2560x            	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideShow                       	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideShow                       	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideShow                       	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideShow                       	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideShow                       	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BlowingBubble                   	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BlowingBubble                   	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BlowingBubble                   	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BlowingBubble                   	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BlowingBubble                   	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Traffic_2560x                   	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Traffic_2560x                   	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Traffic_2560x                   	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Traffic_2560x                   	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Traffic_2560x                   	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballPas                   	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballPas                   	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballPas                   	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballPas                   	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballPas                   	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideEditing                    	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideEditing                    	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideEditing                    	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideEditing                    	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ SlideEditing                    	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PartyScen                       	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PartyScen                       	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PartyScen                       	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PartyScen                       	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ PartyScen                       	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQSquar                         	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQSquar                         	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQSquar                         	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQSquar                         	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQSquar                         	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQTerrace_                      	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQTerrace_                      	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQTerrace_                      	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQTerrace_                      	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQTerrace_                      	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDrillTex              	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDrillTex              	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDrillTex              	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDrillTex              	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDrillTex              	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Johnny                          	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Johnny                          	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Johnny                          	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Johnny                          	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Johnny                          	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ RaceHorse                       	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ RaceHorse                       	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ RaceHorse                       	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ RaceHorse                       	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ RaceHorse                       	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ ParkScene_                      	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ ParkScene_                      	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ ParkScene_                      	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ ParkScene_                      	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ ParkScene_                      	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDril                  	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDril                  	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDril                  	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDril                  	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BasketballDril                  	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Kimono_                         	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Kimono_                         	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Kimono_                         	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Kimono_                         	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Kimono_                         	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ KristenAndSara                  	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ KristenAndSara                  	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ KristenAndSara                  	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ KristenAndSara                  	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ KristenAndSara                  	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cactus_                         	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cactus_                         	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cactus_                         	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cactus_                         	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cactus_                         	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQMal                           	QP =	  0	 GOP =	0	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQMal                           	QP =	1000	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQMal                           	QP =	400	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQMal                           	QP =	2500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ BQMal                           	QP =	1500	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+sequence                           	qp 	gop	FPS                                	BitRate                            	YPSNR                              	
+ FourPeople                         	  0	  0	164.698	2099.580	41.198    	     0	
+                                    	1000	  1	157.340	1004.230	29.585    	     0	
+                                    	400	  1	204.532	413.770	26.954    	     0	
+                                    	2500	  1	155.336	2502.260	40.529    	     0	
+                                    	1500	  1	160.933	1505.740	35.043    	     0	
+ PeopleOnStreet_2560x               	  0	  0	12.078	69981.080	40.529    	     0	
+                                    	1000	  1	14.384	17410.350	12.549    	     0	
+                                    	400	  1	14.956	17410.350	12.549    	     0	
+                                    	2500	  1	14.314	17410.350	12.549    	     0	
+                                    	1500	  1	13.423	17410.350	12.549    	     0	
+ SlideShow                          	  0	  0	197.135	2355.010	47.120    	     0	
+                                    	1000	  1	183.959	1125.230	11.149    	     0	
+                                    	400	  1	193.850	1023.820	9.266     	     0	
+                                    	2500	  1	191.003	1536.280	17.612    	     0	
+                                    	1500	  1	187.393	1244.200	12.639    	     0	
+ BlowingBubble                      	  0	  0	532.770	2610.780	37.889    	     0	
+                                    	1000	  1	575.072	1014.110	28.584    	     0	
+                                    	400	  1	804.147	424.260	20.690    	     0	
+                                    	2500	  1	514.689	2509.380	37.319    	     0	
+                                    	1500	  1	555.519	1510.560	34.943    	     0	
+ Traffic_2560x                      	  0	  0	19.137	29676.960	40.790    	     0	
+                                    	1000	  1	23.587	4247.660	17.549    	     0	
+                                    	400	  1	25.058	4245.720	17.549    	     0	
+                                    	2500	  1	26.378	3322.690	18.355    	     0	
+                                    	1500	  1	23.439	4247.260	17.549    	     0	
+ BasketballPas                      	  0	  0	567.808	1936.580	40.243    	     0	
+                                    	1000	  1	567.433	1004.980	36.322    	     0	
+                                    	400	  1	738.814	443.030	19.353    	     0	
+                                    	2500	  1	352.803	2465.820	41.073    	     0	
+                                    	1500	  1	566.076	1499.960	38.413    	     0	
+ SlideEditing                       	  0	  0	277.647	738.230	43.865    	     0	
+                                    	1000	  1	278.433	747.890	24.390    	     0	
+                                    	400	  1	172.854	703.470	19.444    	     0	
+                                    	2500	  1	261.699	921.040	30.690    	     0	
+                                    	1500	  1	243.085	797.430	28.684    	     0	
+ PartyScen                          	  0	  0	96.255	12685.740	38.516    	     0	
+                                    	1000	  1	165.434	1657.800	14.806    	     0	
+                                    	400	  1	128.530	1820.500	14.857    	     0	
+                                    	2500	  1	163.643	2565.620	18.326    	     0	
+                                    	1500	  1	177.675	1672.170	16.188    	     0	
+ BQSquar                            	  0	  0	469.102	3306.540	38.494    	     0	
+                                    	1000	  1	520.933	1006.230	25.374    	     0	
+                                    	400	  1	775.208	417.520	15.623    	     0	
+                                    	2500	  1	298.158	2496.500	36.544    	     0	
+                                    	1500	  1	549.641	1504.700	33.755    	     0	
+ BQTerrace_                         	  0	  0	0.000	0.000	0.000     	     0	
+                                    	1000	  1	0.000	0.000	0.000     	     0	
+                                    	400	  1	0.000	0.000	0.000     	     0	
+                                    	2500	  1	0.000	0.000	0.000     	     0	
+                                    	1500	  1	0.000	0.000	0.000     	     0	
+ BasketballDrillTex                 	  0	  0	179.852	5466.970	39.717    	     0	
+                                    	1000	  1	214.622	1048.780	18.163    	     0	
+                                    	400	  1	199.086	1217.890	17.994    	     0	
+                                    	2500	  1	205.222	2519.840	35.734    	     0	
+                                    	1500	  1	226.223	1527.610	19.003    	     0	
+ Johnny                             	  0	  0	175.518	1881.240	41.454    	     0	
+                                    	1000	  1	138.690	1006.260	37.977    	     0	
+                                    	400	  1	204.425	407.530	29.997    	     0	
+                                    	2500	  1	153.734	2502.250	41.411    	     0	
+                                    	1500	  1	131.009	1503.080	40.395    	     0	
+ RaceHorse                          	  0	  0	411.611	2647.660	40.252    	     0	
+                                    	1000	  1	540.894	1010.470	19.250    	     0	
+                                    	400	  1	267.932	487.530	14.366    	     0	
+                                    	2500	  1	424.750	2506.720	39.591    	     0	
+                                    	1500	  1	238.859	1505.410	36.490    	     0	
+ ParkScene_                         	  0	  0	0.000	0.000	0.000     	     0	
+                                    	1000	  1	0.000	0.000	0.000     	     0	
+                                    	400	  1	0.000	0.000	0.000     	     0	
+                                    	2500	  1	0.000	0.000	0.000     	     0	
+                                    	1500	  1	0.000	0.000	0.000     	     0	
+ BasketballDril                     	  0	  0	181.826	5134.520	39.562    	     0	
+                                    	1000	  1	236.485	1033.910	19.295    	     0	
+                                    	400	  1	220.526	1120.220	18.818    	     0	
+                                    	2500	  1	205.826	2528.820	23.419    	     0	
+                                    	1500	  1	180.519	1528.140	19.988    	     0	
+ Kimono_                            	  0	  0	0.000	0.000	0.000     	     0	
+                                    	1000	  1	0.000	0.000	0.000     	     0	
+                                    	400	  1	0.000	0.000	0.000     	     0	
+                                    	2500	  1	0.000	0.000	0.000     	     0	
+                                    	1500	  1	0.000	0.000	0.000     	     0	
+ KristenAndSara                     	  0	  0	134.391	2314.490	42.159    	     0	
+                                    	1000	  1	143.246	1003.700	32.808    	     0	
+                                    	400	  1	138.170	412.050	26.086    	     0	
+                                    	2500	  1	134.933	2500.290	41.639    	     0	
+                                    	1500	  1	141.622	1500.420	41.069    	     0	
+ Cactus_                            	  0	  0	0.000	0.000	0.000     	     0	
+                                    	1000	  1	0.000	0.000	0.000     	     0	
+                                    	400	  1	0.000	0.000	0.000     	     0	
+                                    	2500	  1	0.000	0.000	0.000     	     0	
+                                    	1500	  1	0.000	0.000	0.000     	     0	
+ BQMal                              	  0	  0	135.457	5076.640	40.112    	     0	
+                                    	1000	  1	159.763	1048.360	13.966    	     0	
+                                    	400	  1	171.116	980.300	12.848    	     0	
+                                    	2500	  1	162.204	2519.170	21.598    	     0	
+                                    	1500	  1	180.278	1524.480	17.566    	     0	
+sequence                                                     :	ratio	fpsRatio	psnrDelta	

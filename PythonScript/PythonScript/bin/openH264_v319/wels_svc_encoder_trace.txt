@@ -1,0 +1,4 @@
+[0x0063E9A0 @ Wels Encoder v0.0.1 13-12-04 11:52:08.428]: INFO WelsInitEncoderExt() exit, overall memory usage: 16903801 bytes
+[0x0063E9A0 @ Wels Encoder v0.0.1 13-12-04 11:52:08.428]: DBUG WelsInitEncoderExt(), pCtx= 0x0063E9A0.
+[0x0063E9A0 @ Wels Encoder v0.0.1 13-12-04 11:52:34.605]: INFO CWbxH264SVCEncoder::Unintialize()..
+[0x0063E9A0 @ Wels Encoder v0.0.1 13-12-04 11:52:34.605]: INFO WelsUninitEncoderExt(), pCtx= 0063E9A0, iThreadCount= 1, iMultipleThreadIdc= 1.

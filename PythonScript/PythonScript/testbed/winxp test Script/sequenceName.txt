@@ -1,0 +1,14 @@
+dat\Doc_simple_1024x768_noDuplicate             
+dat\Excel_sample_a_1024x768_noDuplicate         
+dat\SlideEditing_1280x720_30_noDuplicate        
+dat\SlideShow_1280x720_20_noDuplicate           
+dat\Doc_complex_1920x1080_noDuplicate           
+dat\Adobe_PDF_sample_a_1024x768_noDuplicate     
+dat\Web_BJUT_1280x720_noDuplicate               
+dat\Web_twoScreen_1920x1080_noDuplicate         
+dat\ScreenCaptureDocEditing_1280x720_noDuplicate
+dat\desktop_web_1920x1080_i420_noDuplicate      
+dat\BasketballDrillText_832x480_50_noDuplicate  
+dat\ChinaSpeed_1024x768_30_noDuplicate          
+dat\Switch_sample_a_1024x768_noDuplicate        
+dat\Switch_share_sample_b_1024x768_noDuplicate  

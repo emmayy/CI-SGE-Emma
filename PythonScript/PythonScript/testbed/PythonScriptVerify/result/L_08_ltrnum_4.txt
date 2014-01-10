@@ -1,0 +1,1 @@
+ Adobe_PDF_sample_a_1024x768       QP =  24 GOP = 1  desktop_dialog_1920x1080_i420     QP =  24 GOP = 1  desktop_ppt_1920x1080_i420        QP =  24 GOP = 1  desktop_text_1920x1080_i420       QP =  24 GOP = 1  Adobe_PDF_sample_b_1024x768       QP =  24 GOP = 1 

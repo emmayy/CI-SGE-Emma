@@ -1,0 +1,752 @@
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.417]: INFO WelsInitEncoderExt() exit, overall memory usage: 16903801 bytes
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.417]: DBUG WelsInitEncoderExt(), pCtx= 0x0024E950.
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.432]: INFO [Rc] encoding_qp0, qp =  30, index =        0, iTid = 0, used =   229440, target =   273066, remaingbits =   316693
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.448]: INFO [Rc] encoding_qp0, qp =  27, index =        1, iTid = 0, used =    46864, target =    45241, remaingbits =   269829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.448]: INFO [Rc] encoding_qp0, qp =  26, index =        2, iTid = 0, used =    48744, target =    44971, remaingbits =   221085
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.464]: INFO [Rc] encoding_qp0, qp =  26, index =        3, iTid = 0, used =    44064, target =    44217, remaingbits =   177021
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.464]: INFO [Rc] encoding_qp0, qp =  25, index =        4, iTid = 0, used =    47600, target =    44255, remaingbits =   129421
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.464]: INFO [Rc] encoding_qp0, qp =  26, index =        5, iTid = 0, used =    27384, target =    43140, remaingbits =   102037
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.479]: INFO [Rc] encoding_qp0, qp =  25, index =        6, iTid = 0, used =    53256, target =    51018, remaingbits =    48781
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.479]: INFO [Rc] encoding_qp0, qp =  25, index =        7, iTid = 0, used =    44992, target =    48781, remaingbits =     3789
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.479]: INFO [Rc] VGOPbitrate0: 2033790 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.479]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.495]: INFO [Rc] encoding_qp0, qp =  25, index =        8, iTid = 0, used =    73328, target =    68266, remaingbits =   472805
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.495]: INFO [Rc] encoding_qp0, qp =  24, index =        9, iTid = 0, used =    69688, target =    67543, remaingbits =   403117
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.510]: INFO [Rc] encoding_qp0, qp =  24, index =       10, iTid = 0, used =    72152, target =    67186, remaingbits =   330965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.510]: INFO [Rc] encoding_qp0, qp =  24, index =       11, iTid = 0, used =    69408, target =    66193, remaingbits =   261557
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.526]: INFO [Rc] encoding_qp0, qp =  24, index =       12, iTid = 0, used =    47576, target =    65389, remaingbits =   213981
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.526]: INFO [Rc] encoding_qp0, qp =  24, index =       13, iTid = 0, used =    71376, target =    71327, remaingbits =   142605
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.542]: INFO [Rc] encoding_qp0, qp =  23, index =       14, iTid = 0, used =    70584, target =    71302, remaingbits =    72021
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.542]: INFO [Rc] encoding_qp0, qp =  23, index =       15, iTid = 0, used =    75560, target =    72021, remaingbits =    -3539
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.557]: INFO [Rc] VGOPbitrate0: 2061270 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.557]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.557]: INFO [Rc] encoding_qp0, qp =  24, index =       16, iTid = 0, used =    48488, target =    68266, remaingbits =   497645
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.557]: INFO [Rc] encoding_qp0, qp =  24, index =       17, iTid = 0, used =    67744, target =    71092, remaingbits =   429901
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.573]: INFO [Rc] encoding_qp0, qp =  23, index =       18, iTid = 0, used =    73904, target =    71650, remaingbits =   355997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.573]: INFO [Rc] encoding_qp0, qp =  23, index =       19, iTid = 0, used =    74976, target =    71199, remaingbits =   281021
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.588]: INFO [Rc] encoding_qp0, qp =  24, index =       20, iTid = 0, used =    48600, target =    70255, remaingbits =   232421
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.588]: INFO [Rc] encoding_qp0, qp =  23, index =       21, iTid = 0, used =    81760, target =    77473, remaingbits =   150661
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.604]: INFO [Rc] encoding_qp0, qp =  24, index =       22, iTid = 0, used =    80376, target =    75330, remaingbits =    70285
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.604]: INFO [Rc] encoding_qp0, qp =  25, index =       23, iTid = 0, used =    64456, target =    70285, remaingbits =     5829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.620]: INFO [Rc] VGOPbitrate0: 2026140 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.620]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.620]: INFO [Rc] encoding_qp0, qp =  24, index =       24, iTid = 0, used =    58120, target =    68266, remaingbits =   488013
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.620]: INFO [Rc] encoding_qp0, qp =  24, index =       25, iTid = 0, used =    56840, target =    69716, remaingbits =   431173
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.635]: INFO [Rc] encoding_qp0, qp =  24, index =       26, iTid = 0, used =    77192, target =    71862, remaingbits =   353981
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.635]: INFO [Rc] encoding_qp0, qp =  25, index =       27, iTid = 0, used =    66104, target =    70796, remaingbits =   287877
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.651]: INFO [Rc] encoding_qp0, qp =  25, index =       28, iTid = 0, used =    59952, target =    71969, remaingbits =   227925
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.666]: INFO [Rc] encoding_qp0, qp =  24, index =       29, iTid = 0, used =    76960, target =    75975, remaingbits =   150965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.666]: INFO [Rc] encoding_qp0, qp =  24, index =       30, iTid = 0, used =    75968, target =    75482, remaingbits =    74997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.682]: INFO [Rc] encoding_qp0, qp =  25, index =       31, iTid = 0, used =    57312, target =    74997, remaingbits =    17685
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.682]: INFO [Rc] VGOPbitrate0: 1981680 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.682]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.682]: INFO [Rc] encoding_qp0, qp =  25, index =       32, iTid = 0, used =    54376, target =    68266, remaingbits =   491757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.698]: INFO [Rc] encoding_qp0, qp =  25, index =       33, iTid = 0, used =    55192, target =    70251, remaingbits =   436565
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.698]: INFO [Rc] encoding_qp0, qp =  24, index =       34, iTid = 0, used =    77616, target =    72760, remaingbits =   358949
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.713]: INFO [Rc] encoding_qp0, qp =  25, index =       35, iTid = 0, used =    55064, target =    71789, remaingbits =   303885
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.713]: INFO [Rc] encoding_qp0, qp =  24, index =       36, iTid = 0, used =    81176, target =    75971, remaingbits =   222709
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.729]: INFO [Rc] encoding_qp0, qp =  25, index =       37, iTid = 0, used =    77208, target =    74236, remaingbits =   145501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.729]: INFO [Rc] encoding_qp0, qp =  25, index =       38, iTid = 0, used =    70160, target =    72750, remaingbits =    75341
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.744]: INFO [Rc] encoding_qp0, qp =  25, index =       39, iTid = 0, used =    79112, target =    75341, remaingbits =    -3771
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.744]: INFO [Rc] VGOPbitrate0: 2062140 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.744]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.744]: INFO [Rc] encoding_qp0, qp =  25, index =       40, iTid = 0, used =    67224, target =    68266, remaingbits =   478909
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.760]: INFO [Rc] encoding_qp0, qp =  25, index =       41, iTid = 0, used =    66968, target =    68415, remaingbits =   411941
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.760]: INFO [Rc] encoding_qp0, qp =  25, index =       42, iTid = 0, used =    65200, target =    68656, remaingbits =   346741
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.776]: INFO [Rc] encoding_qp0, qp =  25, index =       43, iTid = 0, used =    69048, target =    69348, remaingbits =   277693
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.776]: INFO [Rc] encoding_qp0, qp =  26, index =       44, iTid = 0, used =    55376, target =    69423, remaingbits =   222317
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.791]: INFO [Rc] encoding_qp0, qp =  25, index =       45, iTid = 0, used =    70000, target =    74105, remaingbits =   152317
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.791]: INFO [Rc] encoding_qp0, qp =  25, index =       46, iTid = 0, used =    66920, target =    76158, remaingbits =    85397
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.807]: INFO [Rc] encoding_qp0, qp =  24, index =       47, iTid = 0, used =    88992, target =    85397, remaingbits =    -3595
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.807]: INFO [Rc] VGOPbitrate0: 2061480 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.807]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.807]: INFO [Rc] encoding_qp0, qp =  26, index =       48, iTid = 0, used =    46728, target =    68266, remaingbits =   499405
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.822]: INFO [Rc] encoding_qp0, qp =  25, index =       49, iTid = 0, used =    63560, target =    71343, remaingbits =   435845
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.822]: INFO [Rc] encoding_qp0, qp =  25, index =       50, iTid = 0, used =    66024, target =    72640, remaingbits =   369821
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.838]: INFO [Rc] encoding_qp0, qp =  25, index =       51, iTid = 0, used =    67816, target =    73964, remaingbits =   302005
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.838]: INFO [Rc] encoding_qp0, qp =  25, index =       52, iTid = 0, used =    66000, target =    75501, remaingbits =   236005
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.854]: INFO [Rc] encoding_qp0, qp =  24, index =       53, iTid = 0, used =    83280, target =    78668, remaingbits =   152725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.854]: INFO [Rc] encoding_qp0, qp =  25, index =       54, iTid = 0, used =    61600, target =    76362, remaingbits =    91125
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.869]: INFO [Rc] encoding_qp0, qp =  24, index =       55, iTid = 0, used =    96480, target =    91125, remaingbits =    -5355
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.869]: INFO [Rc] VGOPbitrate0: 2068080 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.869]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.869]: INFO [Rc] encoding_qp0, qp =  25, index =       56, iTid = 0, used =    62504, target =    68266, remaingbits =   483629
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.885]: INFO [Rc] encoding_qp0, qp =  25, index =       57, iTid = 0, used =    66664, target =    69089, remaingbits =   416965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.885]: INFO [Rc] encoding_qp0, qp =  25, index =       58, iTid = 0, used =    73640, target =    69494, remaingbits =   343325
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.900]: INFO [Rc] encoding_qp0, qp =  25, index =       59, iTid = 0, used =    72776, target =    68665, remaingbits =   270549
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.916]: INFO [Rc] encoding_qp0, qp =  25, index =       60, iTid = 0, used =    68648, target =    67637, remaingbits =   201901
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.916]: INFO [Rc] encoding_qp0, qp =  25, index =       61, iTid = 0, used =    71296, target =    67300, remaingbits =   130605
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.932]: INFO [Rc] encoding_qp0, qp =  25, index =       62, iTid = 0, used =    66256, target =    65302, remaingbits =    64349
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.932]: INFO [Rc] encoding_qp0, qp =  25, index =       63, iTid = 0, used =    67192, target =    64349, remaingbits =    -2843
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.932]: INFO [Rc] VGOPbitrate0: 2058660 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.932]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.947]: INFO [Rc] encoding_qp0, qp =  25, index =       64, iTid = 0, used =    69768, target =    68266, remaingbits =   476365
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.947]: INFO [Rc] encoding_qp0, qp =  25, index =       65, iTid = 0, used =    69616, target =    68052, remaingbits =   406749
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.963]: INFO [Rc] encoding_qp0, qp =  25, index =       66, iTid = 0, used =    69600, target =    67791, remaingbits =   337149
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.963]: INFO [Rc] encoding_qp0, qp =  25, index =       67, iTid = 0, used =    69392, target =    67429, remaingbits =   267757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.978]: INFO [Rc] encoding_qp0, qp =  25, index =       68, iTid = 0, used =    70040, target =    66939, remaingbits =   197717
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.978]: INFO [Rc] encoding_qp0, qp =  25, index =       69, iTid = 0, used =    68184, target =    65905, remaingbits =   129533
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.978]: INFO [Rc] encoding_qp0, qp =  25, index =       70, iTid = 0, used =    67768, target =    64766, remaingbits =    61765
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.994]: INFO [Rc] encoding_qp0, qp =  25, index =       71, iTid = 0, used =    67512, target =    61765, remaingbits =    -5747
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.994]: INFO [Rc] VGOPbitrate0: 2069550 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.994]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:14.994]: INFO [Rc] encoding_qp0, qp =  25, index =       72, iTid = 0, used =    74456, target =    68266, remaingbits =   471677
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.010]: INFO [Rc] encoding_qp0, qp =  25, index =       73, iTid = 0, used =    73368, target =    67382, remaingbits =   398309
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.010]: INFO [Rc] encoding_qp0, qp =  25, index =       74, iTid = 0, used =    74312, target =    66384, remaingbits =   323997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.025]: INFO [Rc] encoding_qp0, qp =  25, index =       75, iTid = 0, used =    70488, target =    64799, remaingbits =   253509
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.025]: INFO [Rc] encoding_qp0, qp =  25, index =       76, iTid = 0, used =    66112, target =    63377, remaingbits =   187397
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.041]: INFO [Rc] encoding_qp0, qp =  25, index =       77, iTid = 0, used =    68256, target =    62465, remaingbits =   119141
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.041]: INFO [Rc] encoding_qp0, qp =  25, index =       78, iTid = 0, used =    62912, target =    59570, remaingbits =    56229
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.056]: INFO [Rc] encoding_qp0, qp =  25, index =       79, iTid = 0, used =    60064, target =    56229, remaingbits =    -3835
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.056]: INFO [Rc] VGOPbitrate0: 2062380 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.056]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.056]: INFO [Rc] encoding_qp0, qp =  25, index =       80, iTid = 0, used =    74152, target =    68266, remaingbits =   471981
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.072]: INFO [Rc] encoding_qp0, qp =  25, index =       81, iTid = 0, used =    71120, target =    67425, remaingbits =   400861
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.072]: INFO [Rc] encoding_qp0, qp =  24, index =       82, iTid = 0, used =    71736, target =    66810, remaingbits =   329125
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.088]: INFO [Rc] encoding_qp0, qp =  25, index =       83, iTid = 0, used =    77232, target =    65825, remaingbits =   251893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.088]: INFO [Rc] encoding_qp0, qp =  25, index =       84, iTid = 0, used =    64264, target =    62973, remaingbits =   187629
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.088]: INFO [Rc] encoding_qp0, qp =  25, index =       85, iTid = 0, used =    65352, target =    62543, remaingbits =   122277
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.103]: INFO [Rc] encoding_qp0, qp =  25, index =       86, iTid = 0, used =    62528, target =    61138, remaingbits =    59749
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.103]: INFO [Rc] encoding_qp0, qp =  25, index =       87, iTid = 0, used =    60488, target =    59749, remaingbits =     -739
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.103]: INFO [Rc] VGOPbitrate0: 2050770 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.103]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.119]: INFO [Rc] encoding_qp0, qp =  24, index =       88, iTid = 0, used =    71600, target =    68266, remaingbits =   474533
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.119]: INFO [Rc] encoding_qp0, qp =  25, index =       89, iTid = 0, used =    68856, target =    67790, remaingbits =   405677
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.134]: INFO [Rc] encoding_qp0, qp =  24, index =       90, iTid = 0, used =    68944, target =    67612, remaingbits =   336733
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.134]: INFO [Rc] encoding_qp0, qp =  24, index =       91, iTid = 0, used =    68320, target =    67346, remaingbits =   268413
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.150]: INFO [Rc] encoding_qp0, qp =  24, index =       92, iTid = 0, used =    67816, target =    67103, remaingbits =   200597
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.150]: INFO [Rc] encoding_qp0, qp =  25, index =       93, iTid = 0, used =    70304, target =    66865, remaingbits =   130293
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.166]: INFO [Rc] encoding_qp0, qp =  24, index =       94, iTid = 0, used =    66456, target =    65146, remaingbits =    63837
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.166]: INFO [Rc] encoding_qp0, qp =  24, index =       95, iTid = 0, used =    65360, target =    63837, remaingbits =    -1523
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.166]: INFO [Rc] VGOPbitrate0: 2053710 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.166]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.181]: INFO [Rc] encoding_qp0, qp =  24, index =       96, iTid = 0, used =    69264, target =    68266, remaingbits =   476869
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.181]: INFO [Rc] encoding_qp0, qp =  24, index =       97, iTid = 0, used =    68808, target =    68124, remaingbits =   408061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.181]: INFO [Rc] encoding_qp0, qp =  24, index =       98, iTid = 0, used =    70328, target =    68010, remaingbits =   337733
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.197]: INFO [Rc] encoding_qp0, qp =  24, index =       99, iTid = 0, used =    67824, target =    67546, remaingbits =   269909
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.197]: INFO [Rc] encoding_qp0, qp =  23, index =      100, iTid = 0, used =    68328, target =    67477, remaingbits =   201581
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.212]: INFO [Rc] encoding_qp0, qp =  23, index =      101, iTid = 0, used =    73680, target =    67193, remaingbits =   127901
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.212]: INFO [Rc] encoding_qp0, qp =  23, index =      102, iTid = 0, used =    67304, target =    63950, remaingbits =    60597
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.228]: INFO [Rc] encoding_qp0, qp =  23, index =      103, iTid = 0, used =    59600, target =    60597, remaingbits =      997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.228]: INFO [Rc] VGOPbitrate0: 2044260 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.228]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.228]: INFO [Rc] encoding_qp0, qp =  23, index =      104, iTid = 0, used =    70488, target =    68266, remaingbits =   475645
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.228]: INFO [Rc] encoding_qp0, qp =  24, index =      105, iTid = 0, used =    68968, target =    67949, remaingbits =   406677
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.244]: INFO [Rc] encoding_qp0, qp =  23, index =      106, iTid = 0, used =    69464, target =    67779, remaingbits =   337213
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.244]: INFO [Rc] encoding_qp0, qp =  23, index =      107, iTid = 0, used =    72408, target =    67442, remaingbits =   264805
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.259]: INFO [Rc] encoding_qp0, qp =  23, index =      108, iTid = 0, used =    67640, target =    66201, remaingbits =   197165
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.259]: INFO [Rc] encoding_qp0, qp =  23, index =      109, iTid = 0, used =    66104, target =    65721, remaingbits =   131061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.259]: INFO [Rc] encoding_qp0, qp =  23, index =      110, iTid = 0, used =    68688, target =    65530, remaingbits =    62373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.275]: INFO [Rc] encoding_qp0, qp =  23, index =      111, iTid = 0, used =    63320, target =    62373, remaingbits =     -947
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.275]: INFO [Rc] VGOPbitrate0: 2051550 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.275]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.275]: INFO [Rc] encoding_qp0, qp =  23, index =      112, iTid = 0, used =    69528, target =    68266, remaingbits =   476605
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.290]: INFO [Rc] encoding_qp0, qp =  24, index =      113, iTid = 0, used =    68712, target =    68086, remaingbits =   407893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.290]: INFO [Rc] encoding_qp0, qp =  23, index =      114, iTid = 0, used =    68584, target =    67982, remaingbits =   339309
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.306]: INFO [Rc] encoding_qp0, qp =  24, index =      115, iTid = 0, used =    68936, target =    67861, remaingbits =   270373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.306]: INFO [Rc] encoding_qp0, qp =  23, index =      116, iTid = 0, used =    67912, target =    67593, remaingbits =   202461
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.306]: INFO [Rc] encoding_qp0, qp =  24, index =      117, iTid = 0, used =    70552, target =    67487, remaingbits =   131909
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.322]: INFO [Rc] encoding_qp0, qp =  24, index =      118, iTid = 0, used =    68920, target =    65954, remaingbits =    62989
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.322]: INFO [Rc] encoding_qp0, qp =  24, index =      119, iTid = 0, used =    67536, target =    62989, remaingbits =    -4547
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.322]: INFO [Rc] VGOPbitrate0: 2065050 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.322]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.337]: INFO [Rc] encoding_qp0, qp =  23, index =      120, iTid = 0, used =    72736, target =    68266, remaingbits =   473397
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.337]: INFO [Rc] encoding_qp0, qp =  24, index =      121, iTid = 0, used =    71688, target =    67628, remaingbits =   401709
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.353]: INFO [Rc] encoding_qp0, qp =  23, index =      122, iTid = 0, used =    72712, target =    66951, remaingbits =   328997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.353]: INFO [Rc] encoding_qp0, qp =  23, index =      123, iTid = 0, used =    69784, target =    65799, remaingbits =   259213
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.353]: INFO [Rc] encoding_qp0, qp =  24, index =      124, iTid = 0, used =    69176, target =    64803, remaingbits =   190037
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.368]: INFO [Rc] encoding_qp0, qp =  24, index =      125, iTid = 0, used =    68648, target =    63345, remaingbits =   121389
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.368]: INFO [Rc] encoding_qp0, qp =  24, index =      126, iTid = 0, used =    66088, target =    60694, remaingbits =    55301
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.384]: INFO [Rc] encoding_qp0, qp =  25, index =      127, iTid = 0, used =    57320, target =    55301, remaingbits =    -2019
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.384]: INFO [Rc] VGOPbitrate0: 2055570 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.384]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.384]: INFO [Rc] encoding_qp0, qp =  24, index =      128, iTid = 0, used =    69760, target =    68266, remaingbits =   476373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.400]: INFO [Rc] encoding_qp0, qp =  24, index =      129, iTid = 0, used =    69888, target =    68053, remaingbits =   406485
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.400]: INFO [Rc] encoding_qp0, qp =  24, index =      130, iTid = 0, used =    68872, target =    67747, remaingbits =   337613
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.415]: INFO [Rc] encoding_qp0, qp =  24, index =      131, iTid = 0, used =    72040, target =    67522, remaingbits =   265573
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.415]: INFO [Rc] encoding_qp0, qp =  24, index =      132, iTid = 0, used =    68104, target =    66393, remaingbits =   197469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.431]: INFO [Rc] encoding_qp0, qp =  24, index =      133, iTid = 0, used =    70512, target =    65823, remaingbits =   126957
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.431]: INFO [Rc] encoding_qp0, qp =  24, index =      134, iTid = 0, used =    64480, target =    63478, remaingbits =    62477
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.431]: INFO [Rc] encoding_qp0, qp =  24, index =      135, iTid = 0, used =    63704, target =    62477, remaingbits =    -1227
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.446]: INFO [Rc] VGOPbitrate0: 2052600 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.446]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.446]: INFO [Rc] encoding_qp0, qp =  24, index =      136, iTid = 0, used =    70168, target =    68266, remaingbits =   475965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.446]: INFO [Rc] encoding_qp0, qp =  24, index =      137, iTid = 0, used =    70544, target =    67995, remaingbits =   405421
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.462]: INFO [Rc] encoding_qp0, qp =  24, index =      138, iTid = 0, used =    70040, target =    67570, remaingbits =   335381
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.462]: INFO [Rc] encoding_qp0, qp =  24, index =      139, iTid = 0, used =    69416, target =    67076, remaingbits =   265965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.478]: INFO [Rc] encoding_qp0, qp =  24, index =      140, iTid = 0, used =    69960, target =    66491, remaingbits =   196005
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.478]: INFO [Rc] encoding_qp0, qp =  24, index =      141, iTid = 0, used =    68960, target =    65335, remaingbits =   127045
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.493]: INFO [Rc] encoding_qp0, qp =  24, index =      142, iTid = 0, used =    67072, target =    63522, remaingbits =    59973
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.493]: INFO [Rc] encoding_qp0, qp =  25, index =      143, iTid = 0, used =    62328, target =    59973, remaingbits =    -2355
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.493]: INFO [Rc] VGOPbitrate0: 2056830 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.493]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.509]: INFO [Rc] encoding_qp0, qp =  24, index =      144, iTid = 0, used =    70376, target =    68266, remaingbits =   475757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.509]: INFO [Rc] encoding_qp0, qp =  24, index =      145, iTid = 0, used =    68848, target =    67965, remaingbits =   406909
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.524]: INFO [Rc] encoding_qp0, qp =  24, index =      146, iTid = 0, used =    68352, target =    67818, remaingbits =   338557
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.524]: INFO [Rc] encoding_qp0, qp =  24, index =      147, iTid = 0, used =    70120, target =    67711, remaingbits =   268437
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.540]: INFO [Rc] encoding_qp0, qp =  24, index =      148, iTid = 0, used =    68872, target =    67109, remaingbits =   199565
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.540]: INFO [Rc] encoding_qp0, qp =  24, index =      149, iTid = 0, used =    67952, target =    66521, remaingbits =   131613
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.540]: INFO [Rc] encoding_qp0, qp =  24, index =      150, iTid = 0, used =    67256, target =    65806, remaingbits =    64357
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.556]: INFO [Rc] encoding_qp0, qp =  24, index =      151, iTid = 0, used =    66592, target =    64357, remaingbits =    -2235
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.556]: INFO [Rc] VGOPbitrate0: 2056380 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.556]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.556]: INFO [Rc] encoding_qp0, qp =  23, index =      152, iTid = 0, used =    70712, target =    68266, remaingbits =   475421
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.571]: INFO [Rc] encoding_qp0, qp =  24, index =      153, iTid = 0, used =    68728, target =    67917, remaingbits =   406693
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.571]: INFO [Rc] encoding_qp0, qp =  24, index =      154, iTid = 0, used =    68560, target =    67782, remaingbits =   338133
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.587]: INFO [Rc] encoding_qp0, qp =  24, index =      155, iTid = 0, used =    68112, target =    67626, remaingbits =   270021
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.587]: INFO [Rc] encoding_qp0, qp =  23, index =      156, iTid = 0, used =    72064, target =    67505, remaingbits =   197957
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.602]: INFO [Rc] encoding_qp0, qp =  24, index =      157, iTid = 0, used =    66928, target =    65985, remaingbits =   131029
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.602]: INFO [Rc] encoding_qp0, qp =  23, index =      158, iTid = 0, used =    69144, target =    65514, remaingbits =    61885
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.618]: INFO [Rc] encoding_qp0, qp =  23, index =      159, iTid = 0, used =    63840, target =    61885, remaingbits =    -1955
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.618]: INFO [Rc] VGOPbitrate0: 2055330 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.618]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.618]: INFO [Rc] encoding_qp0, qp =  23, index =      160, iTid = 0, used =    72592, target =    68266, remaingbits =   473541
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.618]: INFO [Rc] encoding_qp0, qp =  23, index =      161, iTid = 0, used =    71720, target =    67648, remaingbits =   401821
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.634]: INFO [Rc] encoding_qp0, qp =  23, index =      162, iTid = 0, used =    70480, target =    66970, remaingbits =   331341
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.634]: INFO [Rc] encoding_qp0, qp =  23, index =      163, iTid = 0, used =    69280, target =    66268, remaingbits =   262061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.649]: INFO [Rc] encoding_qp0, qp =  23, index =      164, iTid = 0, used =    67416, target =    65515, remaingbits =   194645
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.649]: INFO [Rc] encoding_qp0, qp =  23, index =      165, iTid = 0, used =    70416, target =    64881, remaingbits =   124229
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.665]: INFO [Rc] encoding_qp0, qp =  24, index =      166, iTid = 0, used =    63816, target =    62114, remaingbits =    60413
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.665]: INFO [Rc] encoding_qp0, qp =  23, index =      167, iTid = 0, used =    68728, target =    60413, remaingbits =    -8315
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.665]: INFO [Rc] VGOPbitrate0: 2079180 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.665]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.680]: INFO [Rc] encoding_qp0, qp =  23, index =      168, iTid = 0, used =    70936, target =    68266, remaingbits =   475197
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.680]: INFO [Rc] encoding_qp0, qp =  23, index =      169, iTid = 0, used =    71224, target =    67885, remaingbits =   403973
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.680]: INFO [Rc] encoding_qp0, qp =  23, index =      170, iTid = 0, used =    72776, target =    67328, remaingbits =   331197
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.696]: INFO [Rc] encoding_qp0, qp =  23, index =      171, iTid = 0, used =    68576, target =    66239, remaingbits =   262621
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.696]: INFO [Rc] encoding_qp0, qp =  22, index =      172, iTid = 0, used =    69928, target =    65655, remaingbits =   192693
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.712]: INFO [Rc] encoding_qp0, qp =  22, index =      173, iTid = 0, used =    66560, target =    64231, remaingbits =   126133
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.712]: INFO [Rc] encoding_qp0, qp =  22, index =      174, iTid = 0, used =    67168, target =    63066, remaingbits =    58965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.712]: INFO [Rc] encoding_qp0, qp =  22, index =      175, iTid = 0, used =    59712, target =    58965, remaingbits =     -747
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.727]: INFO [Rc] VGOPbitrate0: 2050800 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.727]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.727]: INFO [Rc] encoding_qp0, qp =  20, index =      176, iTid = 0, used =    85184, target =    68266, remaingbits =   460949
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.727]: INFO [Rc] encoding_qp0, qp =  21, index =      177, iTid = 0, used =    72096, target =    65849, remaingbits =   388853
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.743]: INFO [Rc] encoding_qp0, qp =  21, index =      178, iTid = 0, used =    65728, target =    64808, remaingbits =   323125
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.743]: INFO [Rc] encoding_qp0, qp =  21, index =      179, iTid = 0, used =    70720, target =    64625, remaingbits =   252405
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.758]: INFO [Rc] encoding_qp0, qp =  22, index =      180, iTid = 0, used =    67184, target =    63101, remaingbits =   185221
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.758]: INFO [Rc] encoding_qp0, qp =  22, index =      181, iTid = 0, used =    67200, target =    61740, remaingbits =   118021
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.758]: INFO [Rc] encoding_qp0, qp =  22, index =      182, iTid = 0, used =    61936, target =    59010, remaingbits =    56085
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.774]: INFO [Rc] encoding_qp0, qp =  22, index =      183, iTid = 0, used =    64752, target =    56085, remaingbits =    -8667
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.774]: INFO [Rc] VGOPbitrate0: 2080500 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.774]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.774]: INFO [Rc] encoding_qp0, qp =  22, index =      184, iTid = 0, used =    75408, target =    68266, remaingbits =   470725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.790]: INFO [Rc] encoding_qp0, qp =  22, index =      185, iTid = 0, used =    71184, target =    67246, remaingbits =   399541
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.790]: INFO [Rc] encoding_qp0, qp =  22, index =      186, iTid = 0, used =    73832, target =    66590, remaingbits =   325709
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.790]: INFO [Rc] encoding_qp0, qp =  22, index =      187, iTid = 0, used =    71880, target =    65141, remaingbits =   253829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.805]: INFO [Rc] encoding_qp0, qp =  22, index =      188, iTid = 0, used =    66888, target =    63457, remaingbits =   186941
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.805]: INFO [Rc] encoding_qp0, qp =  22, index =      189, iTid = 0, used =    66960, target =    62313, remaingbits =   119981
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.821]: INFO [Rc] encoding_qp0, qp =  23, index =      190, iTid = 0, used =    61904, target =    59990, remaingbits =    58077
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.821]: INFO [Rc] encoding_qp0, qp =  22, index =      191, iTid = 0, used =    58656, target =    58077, remaingbits =     -579
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.821]: INFO [Rc] VGOPbitrate0: 2050170 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.821]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.821]: INFO [Rc] encoding_qp0, qp =  22, index =      192, iTid = 0, used =    77632, target =    68266, remaingbits =   468501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.836]: INFO [Rc] encoding_qp0, qp =  22, index =      193, iTid = 0, used =    69960, target =    66928, remaingbits =   398541
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.836]: INFO [Rc] encoding_qp0, qp =  21, index =      194, iTid = 0, used =    72752, target =    66423, remaingbits =   325789
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.852]: INFO [Rc] encoding_qp0, qp =  22, index =      195, iTid = 0, used =    76048, target =    65157, remaingbits =   249741
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.852]: INFO [Rc] encoding_qp0, qp =  22, index =      196, iTid = 0, used =    68064, target =    62435, remaingbits =   181677
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.852]: INFO [Rc] encoding_qp0, qp =  23, index =      197, iTid = 0, used =    69200, target =    60559, remaingbits =   112477
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.868]: INFO [Rc] encoding_qp0, qp =  24, index =      198, iTid = 0, used =    57920, target =    56238, remaingbits =    54557
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.868]: INFO [Rc] encoding_qp0, qp =  24, index =      199, iTid = 0, used =    63480, target =    54557, remaingbits =    -8923
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.868]: INFO [Rc] VGOPbitrate0: 2081460 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.868]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.883]: INFO [Rc] encoding_qp0, qp =  23, index =      200, iTid = 0, used =    88592, target =    68266, remaingbits =   457541
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.883]: INFO [Rc] encoding_qp0, qp =  23, index =      201, iTid = 0, used =    76048, target =    65363, remaingbits =   381493
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.899]: INFO [Rc] encoding_qp0, qp =  23, index =      202, iTid = 0, used =    71048, target =    63582, remaingbits =   310445
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.899]: INFO [Rc] encoding_qp0, qp =  23, index =      203, iTid = 0, used =    69128, target =    62089, remaingbits =   241317
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.914]: INFO [Rc] encoding_qp0, qp =  23, index =      204, iTid = 0, used =    63920, target =    60329, remaingbits =   177397
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.914]: INFO [Rc] encoding_qp0, qp =  24, index =      205, iTid = 0, used =    72024, target =    59132, remaingbits =   105373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.914]: INFO [Rc] encoding_qp0, qp =  24, index =      206, iTid = 0, used =    61712, target =    52686, remaingbits =    43661
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.930]: INFO [Rc] encoding_qp0, qp =  25, index =      207, iTid = 0, used =    48688, target =    43661, remaingbits =    -5027
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.930]: INFO [Rc] VGOPbitrate0: 2066850 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.930]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.930]: INFO [Rc] encoding_qp0, qp =  24, index =      208, iTid = 0, used =    76664, target =    68266, remaingbits =   469469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.946]: INFO [Rc] encoding_qp0, qp =  24, index =      209, iTid = 0, used =    76808, target =    67067, remaingbits =   392661
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.946]: INFO [Rc] encoding_qp0, qp =  24, index =      210, iTid = 0, used =    71488, target =    65443, remaingbits =   321173
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.961]: INFO [Rc] encoding_qp0, qp =  24, index =      211, iTid = 0, used =    74064, target =    64234, remaingbits =   247109
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.961]: INFO [Rc] encoding_qp0, qp =  24, index =      212, iTid = 0, used =    71656, target =    61777, remaingbits =   175453
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.961]: INFO [Rc] encoding_qp0, qp =  25, index =      213, iTid = 0, used =    65344, target =    58484, remaingbits =   110109
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.977]: INFO [Rc] encoding_qp0, qp =  25, index =      214, iTid = 0, used =    65776, target =    55054, remaingbits =    44333
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.977]: INFO [Rc] encoding_qp0, qp =  25, index =      215, iTid = 0, used =    55800, target =    44333, remaingbits =   -11467
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.977]: INFO [Rc] VGOPbitrate0: 2091000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.977]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.992]: INFO [Rc] encoding_qp0, qp =  23, index =      216, iTid = 0, used =    84240, target =    68266, remaingbits =   461893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:15.992]: INFO [Rc] encoding_qp0, qp =  24, index =      217, iTid = 0, used =    74584, target =    65984, remaingbits =   387309
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.008]: INFO [Rc] encoding_qp0, qp =  23, index =      218, iTid = 0, used =    83568, target =    64551, remaingbits =   303741
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.008]: INFO [Rc] encoding_qp0, qp =  24, index =      219, iTid = 0, used =    68192, target =    60748, remaingbits =   235549
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.008]: INFO [Rc] encoding_qp0, qp =  24, index =      220, iTid = 0, used =    63976, target =    58887, remaingbits =   171573
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.024]: INFO [Rc] encoding_qp0, qp =  24, index =      221, iTid = 0, used =    56368, target =    57191, remaingbits =   115205
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.024]: INFO [Rc] encoding_qp0, qp =  24, index =      222, iTid = 0, used =    61912, target =    57602, remaingbits =    53293
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.039]: INFO [Rc] encoding_qp0, qp =  25, index =      223, iTid = 0, used =    52912, target =    53293, remaingbits =      381
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.039]: INFO [Rc] VGOPbitrate0: 2046570 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.039]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.039]: INFO [Rc] encoding_qp0, qp =  24, index =      224, iTid = 0, used =    72448, target =    68266, remaingbits =   473685
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.055]: INFO [Rc] encoding_qp0, qp =  24, index =      225, iTid = 0, used =    66384, target =    67669, remaingbits =   407301
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.055]: INFO [Rc] encoding_qp0, qp =  24, index =      226, iTid = 0, used =    69704, target =    67883, remaingbits =   337597
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.055]: INFO [Rc] encoding_qp0, qp =  24, index =      227, iTid = 0, used =    72872, target =    67519, remaingbits =   264725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.070]: INFO [Rc] encoding_qp0, qp =  25, index =      228, iTid = 0, used =    64968, target =    66181, remaingbits =   199757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.070]: INFO [Rc] encoding_qp0, qp =  25, index =      229, iTid = 0, used =    66080, target =    66585, remaingbits =   133677
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.086]: INFO [Rc] encoding_qp0, qp =  25, index =      230, iTid = 0, used =    68712, target =    66838, remaingbits =    64965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.086]: INFO [Rc] encoding_qp0, qp =  25, index =      231, iTid = 0, used =    69536, target =    64965, remaingbits =    -4571
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.086]: INFO [Rc] VGOPbitrate0: 2065140 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.086]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.102]: INFO [Rc] encoding_qp0, qp =  26, index =      232, iTid = 0, used =    70336, target =    68266, remaingbits =   475797
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.102]: INFO [Rc] encoding_qp0, qp =  26, index =      233, iTid = 0, used =    70448, target =    67971, remaingbits =   405349
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.102]: INFO [Rc] encoding_qp0, qp =  26, index =      234, iTid = 0, used =    67984, target =    67558, remaingbits =   337365
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.117]: INFO [Rc] encoding_qp0, qp =  26, index =      235, iTid = 0, used =    69072, target =    67473, remaingbits =   268293
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.117]: INFO [Rc] encoding_qp0, qp =  26, index =      236, iTid = 0, used =    67024, target =    67073, remaingbits =   201269
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.133]: INFO [Rc] encoding_qp0, qp =  26, index =      237, iTid = 0, used =    67192, target =    67089, remaingbits =   134077
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.133]: INFO [Rc] encoding_qp0, qp =  26, index =      238, iTid = 0, used =    65024, target =    67038, remaingbits =    69053
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.148]: INFO [Rc] encoding_qp0, qp =  26, index =      239, iTid = 0, used =    63912, target =    69053, remaingbits =     5141
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.148]: INFO [Rc] VGOPbitrate0: 2028720 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.148]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.148]: INFO [Rc] encoding_qp0, qp =  26, index =      240, iTid = 0, used =    67704, target =    68266, remaingbits =   478429
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.164]: INFO [Rc] encoding_qp0, qp =  26, index =      241, iTid = 0, used =    69672, target =    68347, remaingbits =   408757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.164]: INFO [Rc] encoding_qp0, qp =  27, index =      242, iTid = 0, used =    55696, target =    68126, remaingbits =   353061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.180]: INFO [Rc] encoding_qp0, qp =  26, index =      243, iTid = 0, used =    70096, target =    70612, remaingbits =   282965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.180]: INFO [Rc] encoding_qp0, qp =  26, index =      244, iTid = 0, used =    63392, target =    70741, remaingbits =   219573
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.180]: INFO [Rc] encoding_qp0, qp =  26, index =      245, iTid = 0, used =    57856, target =    73191, remaingbits =   161717
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.195]: INFO [Rc] encoding_qp0, qp =  24, index =      246, iTid = 0, used =    83648, target =    80858, remaingbits =    78069
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.195]: INFO [Rc] encoding_qp0, qp =  23, index =      247, iTid = 0, used =    81448, target =    78069, remaingbits =    -3379
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.195]: INFO [Rc] VGOPbitrate0: 2060670 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.195]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.211]: INFO [Rc] encoding_qp0, qp =  24, index =      248, iTid = 0, used =    55560, target =    68266, remaingbits =   490573
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.211]: INFO [Rc] encoding_qp0, qp =  24, index =      249, iTid = 0, used =    61504, target =    70081, remaingbits =   429069
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.226]: INFO [Rc] encoding_qp0, qp =  24, index =      250, iTid = 0, used =    72040, target =    71511, remaingbits =   357029
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.226]: INFO [Rc] encoding_qp0, qp =  24, index =      251, iTid = 0, used =    73184, target =    71405, remaingbits =   283845
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.242]: INFO [Rc] encoding_qp0, qp =  24, index =      252, iTid = 0, used =    74192, target =    70961, remaingbits =   209653
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.242]: INFO [Rc] encoding_qp0, qp =  24, index =      253, iTid = 0, used =    73424, target =    69884, remaingbits =   136229
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.242]: INFO [Rc] encoding_qp0, qp =  23, index =      254, iTid = 0, used =    74128, target =    68114, remaingbits =    62101
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.258]: INFO [Rc] encoding_qp0, qp =  24, index =      255, iTid = 0, used =    54784, target =    62101, remaingbits =     7317
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.258]: INFO [Rc] VGOPbitrate0: 2020560 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.258]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.258]: INFO [Rc] encoding_qp0, qp =  23, index =      256, iTid = 0, used =    63632, target =    68266, remaingbits =   482501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.273]: INFO [Rc] encoding_qp0, qp =  23, index =      257, iTid = 0, used =    71216, target =    68928, remaingbits =   411285
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.273]: INFO [Rc] encoding_qp0, qp =  22, index =      258, iTid = 0, used =    76568, target =    68547, remaingbits =   334717
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.273]: INFO [Rc] encoding_qp0, qp =  22, index =      259, iTid = 0, used =    53640, target =    66943, remaingbits =   281077
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.289]: INFO [Rc] encoding_qp0, qp =  21, index =      260, iTid = 0, used =    68728, target =    70269, remaingbits =   212349
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.289]: INFO [Rc] encoding_qp0, qp =  21, index =      261, iTid = 0, used =    63536, target =    70783, remaingbits =   148813
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.304]: INFO [Rc] encoding_qp0, qp =  20, index =      262, iTid = 0, used =    69456, target =    74406, remaingbits =    79357
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.304]: INFO [Rc] encoding_qp0, qp =  21, index =      263, iTid = 0, used =    69200, target =    79357, remaingbits =    10157
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.304]: INFO [Rc] VGOPbitrate0: 2009910 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.304]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.304]: INFO [Rc] encoding_qp0, qp =  20, index =      264, iTid = 0, used =    57112, target =    68266, remaingbits =   489021
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.320]: INFO [Rc] encoding_qp0, qp =  21, index =      265, iTid = 0, used =    48544, target =    69860, remaingbits =   440477
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.320]: INFO [Rc] encoding_qp0, qp =  20, index =      266, iTid = 0, used =    64040, target =    73412, remaingbits =   376437
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.320]: INFO [Rc] encoding_qp0, qp =  20, index =      267, iTid = 0, used =    79096, target =    75287, remaingbits =   297341
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.336]: INFO [Rc] encoding_qp0, qp =  19, index =      268, iTid = 0, used =    60072, target =    74335, remaingbits =   237269
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.336]: INFO [Rc] encoding_qp0, qp =  20, index =      269, iTid = 0, used =    72896, target =    79089, remaingbits =   164373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.351]: INFO [Rc] encoding_qp0, qp =  20, index =      270, iTid = 0, used =    93728, target =    82186, remaingbits =    70645
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.351]: INFO [Rc] encoding_qp0, qp =  20, index =      271, iTid = 0, used =    71392, target =    70645, remaingbits =     -747
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.351]: INFO [Rc] VGOPbitrate0: 2050800 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.351]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.351]: INFO [Rc] encoding_qp0, qp =  20, index =      272, iTid = 0, used =    68200, target =    68266, remaingbits =   477933
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.367]: INFO [Rc] encoding_qp0, qp =  21, index =      273, iTid = 0, used =    72536, target =    68276, remaingbits =   405397
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.367]: INFO [Rc] encoding_qp0, qp =  22, index =      274, iTid = 0, used =    72896, target =    67566, remaingbits =   332501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.382]: INFO [Rc] encoding_qp0, qp =  22, index =      275, iTid = 0, used =    66832, target =    66500, remaingbits =   265669
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.382]: INFO [Rc] encoding_qp0, qp =  20, index =      276, iTid = 0, used =    71400, target =    66417, remaingbits =   194269
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.382]: INFO [Rc] encoding_qp0, qp =  20, index =      277, iTid = 0, used =    65904, target =    64756, remaingbits =   128365
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.398]: INFO [Rc] encoding_qp0, qp =  21, index =      278, iTid = 0, used =    67936, target =    64182, remaingbits =    60429
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.398]: INFO [Rc] encoding_qp0, qp =  21, index =      279, iTid = 0, used =    61480, target =    60429, remaingbits =    -1051
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.398]: INFO [Rc] VGOPbitrate0: 2051940 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.398]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.398]: INFO [Rc] encoding_qp0, qp =  19, index =      280, iTid = 0, used =    74376, target =    68266, remaingbits =   471757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.414]: INFO [Rc] encoding_qp0, qp =  19, index =      281, iTid = 0, used =    64008, target =    67393, remaingbits =   407749
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.414]: INFO [Rc] encoding_qp0, qp =  20, index =      282, iTid = 0, used =    76400, target =    67958, remaingbits =   331349
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.414]: INFO [Rc] encoding_qp0, qp =  19, index =      283, iTid = 0, used =    71120, target =    66269, remaingbits =   260229
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.429]: INFO [Rc] encoding_qp0, qp =  18, index =      284, iTid = 0, used =    63888, target =    65057, remaingbits =   196341
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.429]: INFO [Rc] encoding_qp0, qp =  20, index =      285, iTid = 0, used =    66880, target =    65447, remaingbits =   129461
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.445]: INFO [Rc] encoding_qp0, qp =  21, index =      286, iTid = 0, used =    76272, target =    64730, remaingbits =    53189
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.445]: INFO [Rc] encoding_qp0, qp =  20, index =      287, iTid = 0, used =    49688, target =    53189, remaingbits =     3501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.445]: INFO [Rc] VGOPbitrate0: 2034870 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.445]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.445]: INFO [Rc] encoding_qp0, qp =  19, index =      288, iTid = 0, used =    63704, target =    68266, remaingbits =   482429
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.460]: INFO [Rc] encoding_qp0, qp =  19, index =      289, iTid = 0, used =    63224, target =    68918, remaingbits =   419205
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.460]: INFO [Rc] encoding_qp0, qp =  19, index =      290, iTid = 0, used =    69112, target =    69867, remaingbits =   350093
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.460]: INFO [Rc] encoding_qp0, qp =  20, index =      291, iTid = 0, used =    70616, target =    70018, remaingbits =   279477
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.476]: INFO [Rc] encoding_qp0, qp =  19, index =      292, iTid = 0, used =    73040, target =    69869, remaingbits =   206437
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.476]: INFO [Rc] encoding_qp0, qp =  19, index =      293, iTid = 0, used =    70800, target =    68812, remaingbits =   135637
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.476]: INFO [Rc] encoding_qp0, qp =  19, index =      294, iTid = 0, used =    67264, target =    67818, remaingbits =    68373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.492]: INFO [Rc] encoding_qp0, qp =  20, index =      295, iTid = 0, used =    71280, target =    68373, remaingbits =    -2907
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.492]: INFO [Rc] VGOPbitrate0: 2058900 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.492]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.492]: INFO [Rc] encoding_qp0, qp =  19, index =      296, iTid = 0, used =    67408, target =    68266, remaingbits =   478725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.492]: INFO [Rc] encoding_qp0, qp =  20, index =      297, iTid = 0, used =    69560, target =    68389, remaingbits =   409165
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.507]: INFO [Rc] encoding_qp0, qp =  21, index =      298, iTid = 0, used =    69552, target =    68194, remaingbits =   339613
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.507]: INFO [Rc] encoding_qp0, qp =  21, index =      299, iTid = 0, used =    68552, target =    67922, remaingbits =   271061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.523]: INFO [Rc] encoding_qp0, qp =  19, index =      300, iTid = 0, used =    81280, target =    67765, remaingbits =   189781
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.523]: INFO [Rc] encoding_qp0, qp =  21, index =      301, iTid = 0, used =    63968, target =    63260, remaingbits =   125813
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.523]: INFO [Rc] encoding_qp0, qp =  21, index =      302, iTid = 0, used =    82240, target =    62906, remaingbits =    43573
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.538]: INFO [Rc] encoding_qp0, qp =  23, index =      303, iTid = 0, used =    43816, target =    43573, remaingbits =     -243
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.538]: INFO [Rc] VGOPbitrate0: 2048910 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.538]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.538]: INFO [Rc] encoding_qp0, qp =  22, index =      304, iTid = 0, used =    70848, target =    68266, remaingbits =   475285
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.554]: INFO [Rc] encoding_qp0, qp =  23, index =      305, iTid = 0, used =    69008, target =    67897, remaingbits =   406277
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.554]: INFO [Rc] encoding_qp0, qp =  23, index =      306, iTid = 0, used =    69080, target =    67712, remaingbits =   337197
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.554]: INFO [Rc] encoding_qp0, qp =  23, index =      307, iTid = 0, used =    70720, target =    67439, remaingbits =   266477
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.570]: INFO [Rc] encoding_qp0, qp =  24, index =      308, iTid = 0, used =    68400, target =    66619, remaingbits =   198077
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.570]: INFO [Rc] encoding_qp0, qp =  24, index =      309, iTid = 0, used =    67416, target =    66025, remaingbits =   130661
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.585]: INFO [Rc] encoding_qp0, qp =  25, index =      310, iTid = 0, used =    66936, target =    65330, remaingbits =    63725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.585]: INFO [Rc] encoding_qp0, qp =  24, index =      311, iTid = 0, used =    69872, target =    63725, remaingbits =    -6147
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.585]: INFO [Rc] VGOPbitrate0: 2071050 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.585]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.601]: INFO [Rc] encoding_qp0, qp =  24, index =      312, iTid = 0, used =    76720, target =    68266, remaingbits =   469413
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.601]: INFO [Rc] encoding_qp0, qp =  25, index =      313, iTid = 0, used =    70784, target =    67059, remaingbits =   398629
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.616]: INFO [Rc] encoding_qp0, qp =  25, index =      314, iTid = 0, used =    67424, target =    66438, remaingbits =   331205
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.616]: INFO [Rc] encoding_qp0, qp =  25, index =      315, iTid = 0, used =    67152, target =    66241, remaingbits =   264053
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.632]: INFO [Rc] encoding_qp0, qp =  25, index =      316, iTid = 0, used =    69232, target =    66013, remaingbits =   194821
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.632]: INFO [Rc] encoding_qp0, qp =  25, index =      317, iTid = 0, used =    68824, target =    64940, remaingbits =   125997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.632]: INFO [Rc] encoding_qp0, qp =  25, index =      318, iTid = 0, used =    68096, target =    62998, remaingbits =    57901
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.648]: INFO [Rc] encoding_qp0, qp =  25, index =      319, iTid = 0, used =    62016, target =    57901, remaingbits =    -4115
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.648]: INFO [Rc] VGOPbitrate0: 2063430 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.648]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.648]: INFO [Rc] encoding_qp0, qp =  24, index =      320, iTid = 0, used =    70520, target =    68266, remaingbits =   475613
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.663]: INFO [Rc] encoding_qp0, qp =  24, index =      321, iTid = 0, used =    71336, target =    67944, remaingbits =   404277
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.663]: INFO [Rc] encoding_qp0, qp =  23, index =      322, iTid = 0, used =    67616, target =    67379, remaingbits =   336661
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.679]: INFO [Rc] encoding_qp0, qp =  24, index =      323, iTid = 0, used =    68136, target =    67332, remaingbits =   268525
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.679]: INFO [Rc] encoding_qp0, qp =  24, index =      324, iTid = 0, used =    68072, target =    67131, remaingbits =   200453
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.694]: INFO [Rc] encoding_qp0, qp =  24, index =      325, iTid = 0, used =    69952, target =    66817, remaingbits =   130501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.694]: INFO [Rc] encoding_qp0, qp =  24, index =      326, iTid = 0, used =    68216, target =    65250, remaingbits =    62285
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.710]: INFO [Rc] encoding_qp0, qp =  24, index =      327, iTid = 0, used =    65952, target =    62285, remaingbits =    -3667
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.710]: INFO [Rc] VGOPbitrate0: 2061750 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.710]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.710]: INFO [Rc] encoding_qp0, qp =  24, index =      328, iTid = 0, used =    72008, target =    68266, remaingbits =   474125
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.726]: INFO [Rc] encoding_qp0, qp =  24, index =      329, iTid = 0, used =    71328, target =    67732, remaingbits =   402797
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.726]: INFO [Rc] encoding_qp0, qp =  24, index =      330, iTid = 0, used =    68856, target =    67132, remaingbits =   333941
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.726]: INFO [Rc] encoding_qp0, qp =  23, index =      331, iTid = 0, used =    69008, target =    66788, remaingbits =   264933
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.741]: INFO [Rc] encoding_qp0, qp =  23, index =      332, iTid = 0, used =    69248, target =    66233, remaingbits =   195685
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.741]: INFO [Rc] encoding_qp0, qp =  23, index =      333, iTid = 0, used =    71624, target =    65228, remaingbits =   124061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.757]: INFO [Rc] encoding_qp0, qp =  24, index =      334, iTid = 0, used =    53568, target =    62030, remaingbits =    70493
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.757]: INFO [Rc] encoding_qp0, qp =  23, index =      335, iTid = 0, used =    75008, target =    70493, remaingbits =    -4515
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.757]: INFO [Rc] VGOPbitrate0: 2064930 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.757]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.772]: INFO [Rc] encoding_qp0, qp =  23, index =      336, iTid = 0, used =    71904, target =    68266, remaingbits =   474229
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.772]: INFO [Rc] encoding_qp0, qp =  24, index =      337, iTid = 0, used =    52096, target =    67747, remaingbits =   422133
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.788]: INFO [Rc] encoding_qp0, qp =  23, index =      338, iTid = 0, used =    71216, target =    70355, remaingbits =   350917
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.788]: INFO [Rc] encoding_qp0, qp =  23, index =      339, iTid = 0, used =    72232, target =    70183, remaingbits =   278685
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.804]: INFO [Rc] encoding_qp0, qp =  24, index =      340, iTid = 0, used =    53216, target =    69671, remaingbits =   225469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.804]: INFO [Rc] encoding_qp0, qp =  23, index =      341, iTid = 0, used =    75208, target =    75156, remaingbits =   150261
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.819]: INFO [Rc] encoding_qp0, qp =  23, index =      342, iTid = 0, used =    68224, target =    75130, remaingbits =    82037
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.819]: INFO [Rc] encoding_qp0, qp =  22, index =      343, iTid = 0, used =    86088, target =    82037, remaingbits =    -4051
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.819]: INFO [Rc] VGOPbitrate0: 2063190 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.819]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.835]: INFO [Rc] encoding_qp0, qp =  24, index =      344, iTid = 0, used =    47304, target =    68266, remaingbits =   498829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.835]: INFO [Rc] encoding_qp0, qp =  24, index =      345, iTid = 0, used =    74832, target =    71261, remaingbits =   423997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.850]: INFO [Rc] encoding_qp0, qp =  23, index =      346, iTid = 0, used =    74240, target =    70666, remaingbits =   349757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.850]: INFO [Rc] encoding_qp0, qp =  24, index =      347, iTid = 0, used =    51928, target =    69951, remaingbits =   297829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.866]: INFO [Rc] encoding_qp0, qp =  23, index =      348, iTid = 0, used =    70832, target =    74457, remaingbits =   226997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.866]: INFO [Rc] encoding_qp0, qp =  23, index =      349, iTid = 0, used =    73200, target =    75665, remaingbits =   153797
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.866]: INFO [Rc] encoding_qp0, qp =  23, index =      350, iTid = 0, used =    68752, target =    76898, remaingbits =    85045
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.882]: INFO [Rc] encoding_qp0, qp =  22, index =      351, iTid = 0, used =    89664, target =    85045, remaingbits =    -4619
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.882]: INFO [Rc] VGOPbitrate0: 2065320 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.882]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.882]: INFO [Rc] encoding_qp0, qp =  24, index =      352, iTid = 0, used =    47632, target =    68266, remaingbits =   498501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.897]: INFO [Rc] encoding_qp0, qp =  23, index =      353, iTid = 0, used =    73984, target =    71214, remaingbits =   424517
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.897]: INFO [Rc] encoding_qp0, qp =  24, index =      354, iTid = 0, used =    51120, target =    70752, remaingbits =   373397
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.913]: INFO [Rc] encoding_qp0, qp =  23, index =      355, iTid = 0, used =    78288, target =    74679, remaingbits =   295109
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.913]: INFO [Rc] encoding_qp0, qp =  23, index =      356, iTid = 0, used =    71248, target =    73777, remaingbits =   223861
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.928]: INFO [Rc] encoding_qp0, qp =  23, index =      357, iTid = 0, used =    74800, target =    74620, remaingbits =   149061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.928]: INFO [Rc] encoding_qp0, qp =  23, index =      358, iTid = 0, used =    74448, target =    74530, remaingbits =    74613
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.944]: INFO [Rc] encoding_qp0, qp =  23, index =      359, iTid = 0, used =    66112, target =    74613, remaingbits =     8501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.944]: INFO [Rc] VGOPbitrate0: 2016120 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.944]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.944]: INFO [Rc] encoding_qp0, qp =  23, index =      360, iTid = 0, used =    67688, target =    68266, remaingbits =   478445
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.960]: INFO [Rc] encoding_qp0, qp =  24, index =      361, iTid = 0, used =    65344, target =    68349, remaingbits =   413101
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.960]: INFO [Rc] encoding_qp0, qp =  23, index =      362, iTid = 0, used =    71920, target =    68850, remaingbits =   341181
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.975]: INFO [Rc] encoding_qp0, qp =  24, index =      363, iTid = 0, used =    57976, target =    68236, remaingbits =   283205
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.975]: INFO [Rc] encoding_qp0, qp =  23, index =      364, iTid = 0, used =    75312, target =    70801, remaingbits =   207893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.991]: INFO [Rc] encoding_qp0, qp =  24, index =      365, iTid = 0, used =    72352, target =    69297, remaingbits =   135541
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.991]: INFO [Rc] encoding_qp0, qp =  24, index =      366, iTid = 0, used =    69440, target =    67770, remaingbits =    66101
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:16.991]: INFO [Rc] encoding_qp0, qp =  24, index =      367, iTid = 0, used =    66472, target =    66101, remaingbits =     -371
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.006]: INFO [Rc] VGOPbitrate0: 2049390 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.006]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.006]: INFO [Rc] encoding_qp0, qp =  23, index =      368, iTid = 0, used =    70840, target =    68266, remaingbits =   475293
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.006]: INFO [Rc] encoding_qp0, qp =  23, index =      369, iTid = 0, used =    70304, target =    67899, remaingbits =   404989
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.022]: INFO [Rc] encoding_qp0, qp =  23, index =      370, iTid = 0, used =    69504, target =    67498, remaingbits =   335485
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.022]: INFO [Rc] encoding_qp0, qp =  23, index =      371, iTid = 0, used =    71352, target =    67097, remaingbits =   264133
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.038]: INFO [Rc] encoding_qp0, qp =  22, index =      372, iTid = 0, used =    71568, target =    66033, remaingbits =   192565
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.038]: INFO [Rc] encoding_qp0, qp =  22, index =      373, iTid = 0, used =    66912, target =    64188, remaingbits =   125653
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.053]: INFO [Rc] encoding_qp0, qp =  23, index =      374, iTid = 0, used =    69344, target =    62826, remaingbits =    56309
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.053]: INFO [Rc] encoding_qp0, qp =  23, index =      375, iTid = 0, used =    43632, target =    56309, remaingbits =    12677
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.053]: INFO [Rc] VGOPbitrate0: 2000460 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.053]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.053]: INFO [Rc] encoding_qp0, qp =  22, index =      376, iTid = 0, used =    72664, target =    68266, remaingbits =   473469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.069]: INFO [Rc] encoding_qp0, qp =  23, index =      377, iTid = 0, used =    71480, target =    67638, remaingbits =   401989
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.069]: INFO [Rc] encoding_qp0, qp =  23, index =      378, iTid = 0, used =    68824, target =    66998, remaingbits =   333165
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.084]: INFO [Rc] encoding_qp0, qp =  23, index =      379, iTid = 0, used =    68664, target =    66633, remaingbits =   264501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.084]: INFO [Rc] encoding_qp0, qp =  23, index =      380, iTid = 0, used =    69400, target =    66125, remaingbits =   195101
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.100]: INFO [Rc] encoding_qp0, qp =  23, index =      381, iTid = 0, used =    70424, target =    65033, remaingbits =   124677
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.100]: INFO [Rc] encoding_qp0, qp =  23, index =      382, iTid = 0, used =    66960, target =    62338, remaingbits =    57717
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.100]: INFO [Rc] encoding_qp0, qp =  23, index =      383, iTid = 0, used =    62344, target =    57717, remaingbits =    -4627
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.116]: INFO [Rc] VGOPbitrate0: 2065350 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.116]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.116]: INFO [Rc] encoding_qp0, qp =  22, index =      384, iTid = 0, used =    76240, target =    68266, remaingbits =   469893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.116]: INFO [Rc] encoding_qp0, qp =  23, index =      385, iTid = 0, used =    68976, target =    67127, remaingbits =   400917
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.131]: INFO [Rc] encoding_qp0, qp =  22, index =      386, iTid = 0, used =    73072, target =    66819, remaingbits =   327845
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.131]: INFO [Rc] encoding_qp0, qp =  22, index =      387, iTid = 0, used =    71520, target =    65569, remaingbits =   256325
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.147]: INFO [Rc] encoding_qp0, qp =  22, index =      388, iTid = 0, used =    65912, target =    64081, remaingbits =   190413
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.147]: INFO [Rc] encoding_qp0, qp =  22, index =      389, iTid = 0, used =    67544, target =    63471, remaingbits =   122869
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.147]: INFO [Rc] encoding_qp0, qp =  22, index =      390, iTid = 0, used =    62400, target =    61434, remaingbits =    60469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.162]: INFO [Rc] encoding_qp0, qp =  22, index =      391, iTid = 0, used =    65416, target =    60469, remaingbits =    -4947
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.162]: INFO [Rc] VGOPbitrate0: 2066550 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.162]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.162]: INFO [Rc] encoding_qp0, qp =  22, index =      392, iTid = 0, used =    72024, target =    68266, remaingbits =   474109
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.178]: INFO [Rc] encoding_qp0, qp =  22, index =      393, iTid = 0, used =    73480, target =    67729, remaingbits =   400629
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.178]: INFO [Rc] encoding_qp0, qp =  22, index =      394, iTid = 0, used =    70768, target =    66771, remaingbits =   329861
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.194]: INFO [Rc] encoding_qp0, qp =  22, index =      395, iTid = 0, used =    67736, target =    65972, remaingbits =   262125
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.194]: INFO [Rc] encoding_qp0, qp =  22, index =      396, iTid = 0, used =    73848, target =    65531, remaingbits =   188277
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.194]: INFO [Rc] encoding_qp0, qp =  22, index =      397, iTid = 0, used =    65008, target =    62759, remaingbits =   123269
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.209]: INFO [Rc] encoding_qp0, qp =  23, index =      398, iTid = 0, used =    62808, target =    61634, remaingbits =    60461
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.209]: INFO [Rc] encoding_qp0, qp =  23, index =      399, iTid = 0, used =    64152, target =    60461, remaingbits =    -3691
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.209]: INFO [Rc] VGOPbitrate0: 2061840 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.209]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.225]: INFO [Rc] encoding_qp0, qp =  22, index =      400, iTid = 0, used =    69736, target =    68266, remaingbits =   476397
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.225]: INFO [Rc] encoding_qp0, qp =  22, index =      401, iTid = 0, used =    69616, target =    68056, remaingbits =   406781
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.240]: INFO [Rc] encoding_qp0, qp =  22, index =      402, iTid = 0, used =    71856, target =    67796, remaingbits =   334925
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.240]: INFO [Rc] encoding_qp0, qp =  23, index =      403, iTid = 0, used =    68912, target =    66985, remaingbits =   266013
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.256]: INFO [Rc] encoding_qp0, qp =  23, index =      404, iTid = 0, used =    68784, target =    66503, remaingbits =   197229
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.256]: INFO [Rc] encoding_qp0, qp =  23, index =      405, iTid = 0, used =    68096, target =    65743, remaingbits =   129133
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.272]: INFO [Rc] encoding_qp0, qp =  23, index =      406, iTid = 0, used =    65776, target =    64566, remaingbits =    63357
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.272]: INFO [Rc] encoding_qp0, qp =  23, index =      407, iTid = 0, used =    66448, target =    63357, remaingbits =    -3091
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.272]: INFO [Rc] VGOPbitrate0: 2059590 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.272]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.287]: INFO [Rc] encoding_qp0, qp =  23, index =      408, iTid = 0, used =    72328, target =    68266, remaingbits =   473805
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.287]: INFO [Rc] encoding_qp0, qp =  23, index =      409, iTid = 0, used =    69032, target =    67686, remaingbits =   404773
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.303]: INFO [Rc] encoding_qp0, qp =  23, index =      410, iTid = 0, used =    73808, target =    67462, remaingbits =   330965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.303]: INFO [Rc] encoding_qp0, qp =  23, index =      411, iTid = 0, used =    68816, target =    66193, remaingbits =   262149
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.318]: INFO [Rc] encoding_qp0, qp =  23, index =      412, iTid = 0, used =    69960, target =    65537, remaingbits =   192189
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.318]: INFO [Rc] encoding_qp0, qp =  23, index =      413, iTid = 0, used =    66432, target =    64063, remaingbits =   125757
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.318]: INFO [Rc] encoding_qp0, qp =  23, index =      414, iTid = 0, used =    62800, target =    62878, remaingbits =    62957
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.334]: INFO [Rc] encoding_qp0, qp =  23, index =      415, iTid = 0, used =    59360, target =    62957, remaingbits =     3597
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.334]: INFO [Rc] VGOPbitrate0: 2034510 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.334]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.334]: INFO [Rc] encoding_qp0, qp =  23, index =      416, iTid = 0, used =    58432, target =    68266, remaingbits =   487701
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.350]: INFO [Rc] encoding_qp0, qp =  23, index =      417, iTid = 0, used =    73232, target =    69671, remaingbits =   414469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.350]: INFO [Rc] encoding_qp0, qp =  23, index =      418, iTid = 0, used =    56936, target =    69078, remaingbits =   357533
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.365]: INFO [Rc] encoding_qp0, qp =  22, index =      419, iTid = 0, used =    75120, target =    71506, remaingbits =   282413
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.365]: INFO [Rc] encoding_qp0, qp =  22, index =      420, iTid = 0, used =    75664, target =    70603, remaingbits =   206749
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.381]: INFO [Rc] encoding_qp0, qp =  23, index =      421, iTid = 0, used =    54640, target =    68916, remaingbits =   152109
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.381]: INFO [Rc] encoding_qp0, qp =  22, index =      422, iTid = 0, used =    80080, target =    76054, remaingbits =    72029
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.396]: INFO [Rc] encoding_qp0, qp =  23, index =      423, iTid = 0, used =    64568, target =    72029, remaingbits =     7461
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.396]: INFO [Rc] VGOPbitrate0: 2020020 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.396]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.396]: INFO [Rc] encoding_qp0, qp =  23, index =      424, iTid = 0, used =    62432, target =    68266, remaingbits =   483701
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.412]: INFO [Rc] encoding_qp0, qp =  23, index =      425, iTid = 0, used =    65976, target =    69100, remaingbits =   417725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.412]: INFO [Rc] encoding_qp0, qp =  24, index =      426, iTid = 0, used =    72480, target =    69620, remaingbits =   345245
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.412]: INFO [Rc] encoding_qp0, qp =  23, index =      427, iTid = 0, used =    73632, target =    69049, remaingbits =   271613
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.428]: INFO [Rc] encoding_qp0, qp =  24, index =      428, iTid = 0, used =    46776, target =    67903, remaingbits =   224837
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.428]: INFO [Rc] encoding_qp0, qp =  23, index =      429, iTid = 0, used =    77056, target =    74945, remaingbits =   147781
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.443]: INFO [Rc] encoding_qp0, qp =  23, index =      430, iTid = 0, used =    77376, target =    73890, remaingbits =    70405
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.443]: INFO [Rc] encoding_qp0, qp =  23, index =      431, iTid = 0, used =    75304, target =    70405, remaingbits =    -4899
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.443]: INFO [Rc] VGOPbitrate0: 2066370 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.443]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.459]: INFO [Rc] encoding_qp0, qp =  23, index =      432, iTid = 0, used =    64976, target =    68266, remaingbits =   481157
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.459]: INFO [Rc] encoding_qp0, qp =  23, index =      433, iTid = 0, used =    71032, target =    68736, remaingbits =   410125
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.474]: INFO [Rc] encoding_qp0, qp =  23, index =      434, iTid = 0, used =    70952, target =    68354, remaingbits =   339173
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.474]: INFO [Rc] encoding_qp0, qp =  23, index =      435, iTid = 0, used =    71824, target =    67834, remaingbits =   267349
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.490]: INFO [Rc] encoding_qp0, qp =  23, index =      436, iTid = 0, used =    71008, target =    66837, remaingbits =   196341
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.490]: INFO [Rc] encoding_qp0, qp =  24, index =      437, iTid = 0, used =    70256, target =    65447, remaingbits =   126085
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.506]: INFO [Rc] encoding_qp0, qp =  24, index =      438, iTid = 0, used =    56128, target =    63042, remaingbits =    69957
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.506]: INFO [Rc] encoding_qp0, qp =  23, index =      439, iTid = 0, used =    72080, target =    69957, remaingbits =    -2123
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.506]: INFO [Rc] VGOPbitrate0: 2055960 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.506]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.521]: INFO [Rc] encoding_qp0, qp =  23, index =      440, iTid = 0, used =    70408, target =    68266, remaingbits =   475725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.521]: INFO [Rc] encoding_qp0, qp =  24, index =      441, iTid = 0, used =    70808, target =    67960, remaingbits =   404917
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.537]: INFO [Rc] encoding_qp0, qp =  24, index =      442, iTid = 0, used =    68616, target =    67486, remaingbits =   336301
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.537]: INFO [Rc] encoding_qp0, qp =  24, index =      443, iTid = 0, used =    69008, target =    67260, remaingbits =   267293
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.552]: INFO [Rc] encoding_qp0, qp =  24, index =      444, iTid = 0, used =    70752, target =    66823, remaingbits =   196541
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.552]: INFO [Rc] encoding_qp0, qp =  24, index =      445, iTid = 0, used =    65408, target =    65513, remaingbits =   131133
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.568]: INFO [Rc] encoding_qp0, qp =  24, index =      446, iTid = 0, used =    61664, target =    65566, remaingbits =    69469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.568]: INFO [Rc] encoding_qp0, qp =  24, index =      447, iTid = 0, used =    70152, target =    69469, remaingbits =     -683
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.568]: INFO [Rc] VGOPbitrate0: 2050560 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.568]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.584]: INFO [Rc] encoding_qp0, qp =  23, index =      448, iTid = 0, used =    69944, target =    68266, remaingbits =   476189
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.584]: INFO [Rc] encoding_qp0, qp =  23, index =      449, iTid = 0, used =    73672, target =    68027, remaingbits =   402517
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.599]: INFO [Rc] encoding_qp0, qp =  23, index =      450, iTid = 0, used =    71528, target =    67086, remaingbits =   330989
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.599]: INFO [Rc] encoding_qp0, qp =  24, index =      451, iTid = 0, used =    52848, target =    66197, remaingbits =   278141
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.599]: INFO [Rc] encoding_qp0, qp =  23, index =      452, iTid = 0, used =    69184, target =    69535, remaingbits =   208957
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.615]: INFO [Rc] encoding_qp0, qp =  23, index =      453, iTid = 0, used =    71720, target =    69652, remaingbits =   137237
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.615]: INFO [Rc] encoding_qp0, qp =  24, index =      454, iTid = 0, used =    57288, target =    68618, remaingbits =    79949
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.630]: INFO [Rc] encoding_qp0, qp =  23, index =      455, iTid = 0, used =    81480, target =    79949, remaingbits =    -1531
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.630]: INFO [Rc] VGOPbitrate0: 2053740 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.630]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.630]: INFO [Rc] encoding_qp0, qp =  24, index =      456, iTid = 0, used =    49720, target =    68266, remaingbits =   496413
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.646]: INFO [Rc] encoding_qp0, qp =  23, index =      457, iTid = 0, used =    73104, target =    70916, remaingbits =   423309
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.646]: INFO [Rc] encoding_qp0, qp =  23, index =      458, iTid = 0, used =    75672, target =    70551, remaingbits =   347637
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.662]: INFO [Rc] encoding_qp0, qp =  24, index =      459, iTid = 0, used =    52440, target =    69527, remaingbits =   295197
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.662]: INFO [Rc] encoding_qp0, qp =  23, index =      460, iTid = 0, used =    69216, target =    73799, remaingbits =   225981
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.677]: INFO [Rc] encoding_qp0, qp =  23, index =      461, iTid = 0, used =    68248, target =    75327, remaingbits =   157733
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.677]: INFO [Rc] encoding_qp0, qp =  23, index =      462, iTid = 0, used =    81840, target =    78866, remaingbits =    75893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.693]: INFO [Rc] encoding_qp0, qp =  23, index =      463, iTid = 0, used =    74344, target =    75893, remaingbits =     1549
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.693]: INFO [Rc] VGOPbitrate0: 2042190 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.693]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.693]: INFO [Rc] encoding_qp0, qp =  24, index =      464, iTid = 0, used =    47384, target =    68266, remaingbits =   498749
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.708]: INFO [Rc] encoding_qp0, qp =  23, index =      465, iTid = 0, used =    75144, target =    71249, remaingbits =   423605
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.708]: INFO [Rc] encoding_qp0, qp =  24, index =      466, iTid = 0, used =    60072, target =    70600, remaingbits =   363533
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.724]: INFO [Rc] encoding_qp0, qp =  24, index =      467, iTid = 0, used =    75728, target =    72706, remaingbits =   287805
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.724]: INFO [Rc] encoding_qp0, qp =  24, index =      468, iTid = 0, used =    53848, target =    71951, remaingbits =   233957
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.740]: INFO [Rc] encoding_qp0, qp =  23, index =      469, iTid = 0, used =    79576, target =    77985, remaingbits =   154381
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.740]: INFO [Rc] encoding_qp0, qp =  23, index =      470, iTid = 0, used =    84848, target =    77190, remaingbits =    69533
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.755]: INFO [Rc] encoding_qp0, qp =  24, index =      471, iTid = 0, used =    54592, target =    69533, remaingbits =    14941
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.755]: INFO [Rc] VGOPbitrate0: 1991970 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.755]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.755]: INFO [Rc] encoding_qp0, qp =  24, index =      472, iTid = 0, used =    52696, target =    68266, remaingbits =   493437
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.771]: INFO [Rc] encoding_qp0, qp =  23, index =      473, iTid = 0, used =    73968, target =    70491, remaingbits =   419469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.771]: INFO [Rc] encoding_qp0, qp =  23, index =      474, iTid = 0, used =    75504, target =    69911, remaingbits =   343965
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.786]: INFO [Rc] encoding_qp0, qp =  23, index =      475, iTid = 0, used =    71744, target =    68793, remaingbits =   272221
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.786]: INFO [Rc] encoding_qp0, qp =  23, index =      476, iTid = 0, used =    67832, target =    68055, remaingbits =   204389
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.802]: INFO [Rc] encoding_qp0, qp =  23, index =      477, iTid = 0, used =    68888, target =    68129, remaingbits =   135501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.802]: INFO [Rc] encoding_qp0, qp =  23, index =      478, iTid = 0, used =    71584, target =    67750, remaingbits =    63917
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.818]: INFO [Rc] encoding_qp0, qp =  24, index =      479, iTid = 0, used =    68784, target =    63917, remaingbits =    -4867
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.818]: INFO [Rc] VGOPbitrate0: 2066250 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.818]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.818]: INFO [Rc] encoding_qp0, qp =  23, index =      480, iTid = 0, used =    69072, target =    68266, remaingbits =   477061
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.833]: INFO [Rc] encoding_qp0, qp =  23, index =      481, iTid = 0, used =    66632, target =    68151, remaingbits =   410429
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.833]: INFO [Rc] encoding_qp0, qp =  23, index =      482, iTid = 0, used =    72408, target =    68404, remaingbits =   338021
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.833]: INFO [Rc] encoding_qp0, qp =  23, index =      483, iTid = 0, used =    68656, target =    67604, remaingbits =   269365
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.849]: INFO [Rc] encoding_qp0, qp =  23, index =      484, iTid = 0, used =    70552, target =    67341, remaingbits =   198813
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.849]: INFO [Rc] encoding_qp0, qp =  23, index =      485, iTid = 0, used =    71776, target =    66271, remaingbits =   127037
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.864]: INFO [Rc] encoding_qp0, qp =  23, index =      486, iTid = 0, used =    68056, target =    63518, remaingbits =    58981
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.864]: INFO [Rc] encoding_qp0, qp =  24, index =      487, iTid = 0, used =    59944, target =    58981, remaingbits =     -963
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.864]: INFO [Rc] VGOPbitrate0: 2051610 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.864]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.880]: INFO [Rc] encoding_qp0, qp =  23, index =      488, iTid = 0, used =    72048, target =    68266, remaingbits =   474085
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.880]: INFO [Rc] encoding_qp0, qp =  23, index =      489, iTid = 0, used =    70856, target =    67726, remaingbits =   403229
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.896]: INFO [Rc] encoding_qp0, qp =  23, index =      490, iTid = 0, used =    70280, target =    67204, remaingbits =   332949
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.896]: INFO [Rc] encoding_qp0, qp =  24, index =      491, iTid = 0, used =    70080, target =    66589, remaingbits =   262869
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.911]: INFO [Rc] encoding_qp0, qp =  23, index =      492, iTid = 0, used =    71144, target =    65717, remaingbits =   191725
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.911]: INFO [Rc] encoding_qp0, qp =  23, index =      493, iTid = 0, used =    69208, target =    63908, remaingbits =   122517
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.927]: INFO [Rc] encoding_qp0, qp =  23, index =      494, iTid = 0, used =    64472, target =    61258, remaingbits =    58045
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.927]: INFO [Rc] encoding_qp0, qp =  24, index =      495, iTid = 0, used =    63848, target =    58045, remaingbits =    -5803
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.927]: INFO [Rc] VGOPbitrate0: 2069760 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.927]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.942]: INFO [Rc] encoding_qp0, qp =  23, index =      496, iTid = 0, used =    71536, target =    68266, remaingbits =   474597
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.942]: INFO [Rc] encoding_qp0, qp =  22, index =      497, iTid = 0, used =    74624, target =    67799, remaingbits =   399973
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.958]: INFO [Rc] encoding_qp0, qp =  23, index =      498, iTid = 0, used =    69056, target =    66662, remaingbits =   330917
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.958]: INFO [Rc] encoding_qp0, qp =  24, index =      499, iTid = 0, used =    72568, target =    66183, remaingbits =   258349
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.958]: INFO [Rc] encoding_qp0, qp =  23, index =      500, iTid = 0, used =    68584, target =    64587, remaingbits =   189765
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.974]: INFO [Rc] encoding_qp0, qp =  23, index =      501, iTid = 0, used =    69904, target =    63255, remaingbits =   119861
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.974]: INFO [Rc] encoding_qp0, qp =  23, index =      502, iTid = 0, used =    62944, target =    59930, remaingbits =    56917
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.989]: INFO [Rc] encoding_qp0, qp =  24, index =      503, iTid = 0, used =    61728, target =    56917, remaingbits =    -4811
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.989]: INFO [Rc] VGOPbitrate0: 2066040 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.989]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:17.989]: INFO [Rc] encoding_qp0, qp =  23, index =      504, iTid = 0, used =    72480, target =    68266, remaingbits =   473653
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.005]: INFO [Rc] encoding_qp0, qp =  23, index =      505, iTid = 0, used =    76192, target =    67664, remaingbits =   397461
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.005]: INFO [Rc] encoding_qp0, qp =  23, index =      506, iTid = 0, used =    73904, target =    66243, remaingbits =   323557
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.020]: INFO [Rc] encoding_qp0, qp =  23, index =      507, iTid = 0, used =    71416, target =    64711, remaingbits =   252141
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.020]: INFO [Rc] encoding_qp0, qp =  23, index =      508, iTid = 0, used =    69768, target =    63035, remaingbits =   182373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.036]: INFO [Rc] encoding_qp0, qp =  24, index =      509, iTid = 0, used =    64464, target =    60791, remaingbits =   117909
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.036]: INFO [Rc] encoding_qp0, qp =  23, index =      510, iTid = 0, used =    63424, target =    58954, remaingbits =    54485
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.036]: INFO [Rc] encoding_qp0, qp =  24, index =      511, iTid = 0, used =    49592, target =    54485, remaingbits =     4893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.052]: INFO [Rc] VGOPbitrate0: 2029650 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.052]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.052]: INFO [Rc] encoding_qp0, qp =  23, index =      512, iTid = 0, used =    70416, target =    68266, remaingbits =   475717
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.052]: INFO [Rc] encoding_qp0, qp =  23, index =      513, iTid = 0, used =    72832, target =    67959, remaingbits =   402885
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.067]: INFO [Rc] encoding_qp0, qp =  23, index =      514, iTid = 0, used =    63048, target =    67147, remaingbits =   339837
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.067]: INFO [Rc] encoding_qp0, qp =  23, index =      515, iTid = 0, used =    69512, target =    67967, remaingbits =   270325
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.083]: INFO [Rc] encoding_qp0, qp =  23, index =      516, iTid = 0, used =    71528, target =    67581, remaingbits =   198797
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.083]: INFO [Rc] encoding_qp0, qp =  24, index =      517, iTid = 0, used =    58024, target =    66265, remaingbits =   140773
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.098]: INFO [Rc] encoding_qp0, qp =  23, index =      518, iTid = 0, used =    71888, target =    70386, remaingbits =    68885
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.098]: INFO [Rc] encoding_qp0, qp =  24, index =      519, iTid = 0, used =    75304, target =    68885, remaingbits =    -6419
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.098]: INFO [Rc] VGOPbitrate0: 2072070 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.098]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.114]: INFO [Rc] encoding_qp0, qp =  23, index =      520, iTid = 0, used =    74392, target =    68266, remaingbits =   471741
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.114]: INFO [Rc] encoding_qp0, qp =  24, index =      521, iTid = 0, used =    55272, target =    67391, remaingbits =   416469
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.114]: INFO [Rc] encoding_qp0, qp =  24, index =      522, iTid = 0, used =    55952, target =    69411, remaingbits =   360517
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.130]: INFO [Rc] encoding_qp0, qp =  23, index =      523, iTid = 0, used =    76088, target =    72103, remaingbits =   284429
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.130]: INFO [Rc] encoding_qp0, qp =  23, index =      524, iTid = 0, used =    77248, target =    71107, remaingbits =   207181
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.145]: INFO [Rc] encoding_qp0, qp =  23, index =      525, iTid = 0, used =    71832, target =    69060, remaingbits =   135349
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.145]: INFO [Rc] encoding_qp0, qp =  22, index =      526, iTid = 0, used =    52696, target =    67674, remaingbits =    82653
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.161]: INFO [Rc] encoding_qp0, qp =  21, index =      527, iTid = 0, used =    84320, target =    82653, remaingbits =    -1667
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.161]: INFO [Rc] VGOPbitrate0: 2054250 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.161]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.161]: INFO [Rc] encoding_qp0, qp =  21, index =      528, iTid = 0, used =    71304, target =    68266, remaingbits =   474829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.161]: INFO [Rc] encoding_qp0, qp =  21, index =      529, iTid = 0, used =    71416, target =    67832, remaingbits =   403413
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.176]: INFO [Rc] encoding_qp0, qp =  22, index =      530, iTid = 0, used =    72536, target =    67235, remaingbits =   330877
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.176]: INFO [Rc] encoding_qp0, qp =  22, index =      531, iTid = 0, used =    71968, target =    66175, remaingbits =   258909
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.192]: INFO [Rc] encoding_qp0, qp =  22, index =      532, iTid = 0, used =    70936, target =    64727, remaingbits =   187973
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.192]: INFO [Rc] encoding_qp0, qp =  22, index =      533, iTid = 0, used =    65264, target =    62657, remaingbits =   122709
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.192]: INFO [Rc] encoding_qp0, qp =  22, index =      534, iTid = 0, used =    56888, target =    61354, remaingbits =    65821
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.208]: INFO [Rc] encoding_qp0, qp =  22, index =      535, iTid = 0, used =    67256, target =    65821, remaingbits =    -1435
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.208]: INFO [Rc] VGOPbitrate0: 2053380 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.208]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.208]: INFO [Rc] encoding_qp0, qp =  21, index =      536, iTid = 0, used =    77632, target =    68266, remaingbits =   468501
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.223]: INFO [Rc] encoding_qp0, qp =  22, index =      537, iTid = 0, used =    78672, target =    66928, remaingbits =   389829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.223]: INFO [Rc] encoding_qp0, qp =  22, index =      538, iTid = 0, used =    69304, target =    64971, remaingbits =   320525
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.239]: INFO [Rc] encoding_qp0, qp =  22, index =      539, iTid = 0, used =    71352, target =    64105, remaingbits =   249173
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.239]: INFO [Rc] encoding_qp0, qp =  22, index =      540, iTid = 0, used =    67312, target =    62293, remaingbits =   181861
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.239]: INFO [Rc] encoding_qp0, qp =  23, index =      541, iTid = 0, used =    63712, target =    60620, remaingbits =   118149
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.254]: INFO [Rc] encoding_qp0, qp =  22, index =      542, iTid = 0, used =    64512, target =    59074, remaingbits =    53637
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.254]: INFO [Rc] encoding_qp0, qp =  23, index =      543, iTid = 0, used =    59104, target =    53637, remaingbits =    -5467
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.254]: INFO [Rc] VGOPbitrate0: 2068500 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.254]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.270]: INFO [Rc] encoding_qp0, qp =  22, index =      544, iTid = 0, used =    77176, target =    68266, remaingbits =   468957
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.270]: INFO [Rc] encoding_qp0, qp =  22, index =      545, iTid = 0, used =    76760, target =    66993, remaingbits =   392197
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.270]: INFO [Rc] encoding_qp0, qp =  22, index =      546, iTid = 0, used =    66944, target =    65366, remaingbits =   325253
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.286]: INFO [Rc] encoding_qp0, qp =  22, index =      547, iTid = 0, used =    71016, target =    65050, remaingbits =   254237
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.286]: INFO [Rc] encoding_qp0, qp =  22, index =      548, iTid = 0, used =    74872, target =    63559, remaingbits =   179365
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.301]: INFO [Rc] encoding_qp0, qp =  22, index =      549, iTid = 0, used =    73744, target =    59788, remaingbits =   105621
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.301]: INFO [Rc] encoding_qp0, qp =  23, index =      550, iTid = 0, used =    58712, target =    52810, remaingbits =    46909
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.301]: INFO [Rc] encoding_qp0, qp =  23, index =      551, iTid = 0, used =    50040, target =    46909, remaingbits =    -3131
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.317]: INFO [Rc] VGOPbitrate0: 2059740 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.317]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.317]: INFO [Rc] encoding_qp0, qp =  22, index =      552, iTid = 0, used =    80624, target =    68266, remaingbits =   465509
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.317]: INFO [Rc] encoding_qp0, qp =  21, index =      553, iTid = 0, used =    85328, target =    66501, remaingbits =   380181
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.332]: INFO [Rc] encoding_qp0, qp =  21, index =      554, iTid = 0, used =    71008, target =    63363, remaingbits =   309173
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.332]: INFO [Rc] encoding_qp0, qp =  22, index =      555, iTid = 0, used =    70176, target =    61834, remaingbits =   238997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.332]: INFO [Rc] encoding_qp0, qp =  22, index =      556, iTid = 0, used =    66664, target =    59749, remaingbits =   172333
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.348]: INFO [Rc] encoding_qp0, qp =  22, index =      557, iTid = 0, used =    63304, target =    57444, remaingbits =   109029
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.348]: INFO [Rc] encoding_qp0, qp =  22, index =      558, iTid = 0, used =    53512, target =    54514, remaingbits =    55517
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.364]: INFO [Rc] encoding_qp0, qp =  22, index =      559, iTid = 0, used =    48088, target =    55517, remaingbits =     7429
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.364]: INFO [Rc] VGOPbitrate0: 2020140 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.364]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.364]: INFO [Rc] encoding_qp0, qp =  20, index =      560, iTid = 0, used =    68856, target =    68266, remaingbits =   477277
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.364]: INFO [Rc] encoding_qp0, qp =  21, index =      561, iTid = 0, used =    60504, target =    68182, remaingbits =   416773
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.379]: INFO [Rc] encoding_qp0, qp =  21, index =      562, iTid = 0, used =    75128, target =    69462, remaingbits =   341645
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.379]: INFO [Rc] encoding_qp0, qp =  20, index =      563, iTid = 0, used =    57880, target =    68329, remaingbits =   283765
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.379]: INFO [Rc] encoding_qp0, qp =  19, index =      564, iTid = 0, used =    78360, target =    70941, remaingbits =   205405
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.395]: INFO [Rc] encoding_qp0, qp =  20, index =      565, iTid = 0, used =    57408, target =    68468, remaingbits =   147997
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.395]: INFO [Rc] encoding_qp0, qp =  19, index =      566, iTid = 0, used =    80760, target =    73998, remaingbits =    67237
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.410]: INFO [Rc] encoding_qp0, qp =  20, index =      567, iTid = 0, used =    69928, target =    67237, remaingbits =    -2691
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.410]: INFO [Rc] VGOPbitrate0: 2058090 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.410]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.410]: INFO [Rc] encoding_qp0, qp =  19, index =      568, iTid = 0, used =    77296, target =    68266, remaingbits =   468837
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.410]: INFO [Rc] encoding_qp0, qp =  20, index =      569, iTid = 0, used =    81048, target =    66976, remaingbits =   387789
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.426]: INFO [Rc] encoding_qp0, qp =  20, index =      570, iTid = 0, used =    70744, target =    64631, remaingbits =   317045
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.426]: INFO [Rc] encoding_qp0, qp =  21, index =      571, iTid = 0, used =    73200, target =    63409, remaingbits =   243845
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.442]: INFO [Rc] encoding_qp0, qp =  21, index =      572, iTid = 0, used =    68952, target =    60961, remaingbits =   174893
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.442]: INFO [Rc] encoding_qp0, qp =  22, index =      573, iTid = 0, used =    65488, target =    58297, remaingbits =   109405
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.442]: INFO [Rc] encoding_qp0, qp =  21, index =      574, iTid = 0, used =    58792, target =    54702, remaingbits =    50613
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.457]: INFO [Rc] encoding_qp0, qp =  23, index =      575, iTid = 0, used =    53600, target =    50613, remaingbits =    -2987
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.457]: INFO [Rc] VGOPbitrate0: 2059200 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.457]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.457]: INFO [Rc] encoding_qp0, qp =  22, index =      576, iTid = 0, used =    72992, target =    68266, remaingbits =   473141
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.473]: INFO [Rc] encoding_qp0, qp =  22, index =      577, iTid = 0, used =    77024, target =    67591, remaingbits =   396117
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.473]: INFO [Rc] encoding_qp0, qp =  21, index =      578, iTid = 0, used =    77976, target =    66019, remaingbits =   318141
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.488]: INFO [Rc] encoding_qp0, qp =  22, index =      579, iTid = 0, used =    69832, target =    63628, remaingbits =   248309
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.488]: INFO [Rc] encoding_qp0, qp =  22, index =      580, iTid = 0, used =    69480, target =    62077, remaingbits =   178829
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.488]: INFO [Rc] encoding_qp0, qp =  22, index =      581, iTid = 0, used =    64648, target =    59609, remaingbits =   114181
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.504]: INFO [Rc] encoding_qp0, qp =  22, index =      582, iTid = 0, used =    64752, target =    57090, remaingbits =    49429
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.504]: INFO [Rc] encoding_qp0, qp =  23, index =      583, iTid = 0, used =    54616, target =    49429, remaingbits =    -5187
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.504]: INFO [Rc] VGOPbitrate0: 2067450 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.504]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.520]: INFO [Rc] encoding_qp0, qp =  22, index =      584, iTid = 0, used =    73600, target =    68266, remaingbits =   472533
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.520]: INFO [Rc] encoding_qp0, qp =  22, index =      585, iTid = 0, used =    77416, target =    67504, remaingbits =   395117
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.535]: INFO [Rc] encoding_qp0, qp =  22, index =      586, iTid = 0, used =    73896, target =    65852, remaingbits =   321221
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.535]: INFO [Rc] encoding_qp0, qp =  22, index =      587, iTid = 0, used =    70688, target =    64244, remaingbits =   250533
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.535]: INFO [Rc] encoding_qp0, qp =  23, index =      588, iTid = 0, used =    71152, target =    62633, remaingbits =   179381
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.551]: INFO [Rc] encoding_qp0, qp =  22, index =      589, iTid = 0, used =    66432, target =    59793, remaingbits =   112949
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.551]: INFO [Rc] encoding_qp0, qp =  23, index =      590, iTid = 0, used =    52912, target =    56474, remaingbits =    60037
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.566]: INFO [Rc] encoding_qp0, qp =  23, index =      591, iTid = 0, used =    63008, target =    60037, remaingbits =    -2971
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.566]: INFO [Rc] VGOPbitrate0: 2059140 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.566]: INFO T0=   1.000 
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.566]: INFO [Rc] encoding_qp0, qp =  22, index =      592, iTid = 0, used =    77048, target =    68266, remaingbits =   469085
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.566]: INFO [Rc] encoding_qp0, qp =  21, index =      593, iTid = 0, used =    82040, target =    67012, remaingbits =   387045
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.582]: INFO [Rc] encoding_qp0, qp =  21, index =      594, iTid = 0, used =    70800, target =    64507, remaingbits =   316245
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.582]: INFO [Rc] encoding_qp0, qp =  22, index =      595, iTid = 0, used =    68872, target =    63249, remaingbits =   247373
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.598]: INFO [Rc] encoding_qp0, qp =  22, index =      596, iTid = 0, used =    71152, target =    61843, remaingbits =   176221
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.598]: INFO [Rc] encoding_qp0, qp =  23, index =      597, iTid = 0, used =    64528, target =    58740, remaingbits =   111693
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.598]: INFO [Rc] encoding_qp0, qp =  22, index =      598, iTid = 0, used =    63592, target =    55846, remaingbits =    48101
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.613]: INFO [Rc] encoding_qp0, qp =  25, index =      599, iTid = 0, used =    32880, target =    48101, remaingbits =    15221
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.613]: INFO CWbxH264SVCEncoder::Unintialize()..
+[0x0024E950 @ Wels Encoder v0.0.1 13-12-09 15:44:18.613]: INFO WelsUninitEncoderExt(), pCtx= 0024E950, iThreadCount= 1, iMultipleThreadIdc= 1.

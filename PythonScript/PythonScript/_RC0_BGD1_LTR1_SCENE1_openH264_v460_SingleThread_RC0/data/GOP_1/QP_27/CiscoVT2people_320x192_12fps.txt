@@ -1,0 +1,5 @@
+Width:		320
+Height:		192
+Frames:		9
+encode time:	0.016328 sec
+FPS:		551.200392 fps

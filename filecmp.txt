@@ -1,0 +1,3 @@
+import filecmp 
+
+filecmp.cmp(r'e:\1.txt',r'e:\2.txt') 

@@ -1,0 +1,449 @@
+
+QQVGA_DEFAULT_RATE=96
+QVGA_DEFAULT_RATE=225
+VGA_DEFAULT_RATE=600
+
+#test name
+test_data_directory="./" 	#the user may specify directory for test data and test result sperately, it's usefull when the tester work in mount mode. 
+test_result_directory="./"	#the tester may set data directory at remote linux machine, set result directory at the mounted device, to speed the testing.
+case_name="QP test"
+case_combine=1
+same_encoder_flag=1
+
+#name  of this test case
+
+#test sequences
+seq_num=1
+
+seq_slayer_num[1]=2  #the spacial layer number for the sequence
+seq_name_bas[1]="wine_tasting_qqvga"   #file name of the sequence, the sequence must be located in current directory.
+seq_width_bas[1]=160           #frame width of the video sequence
+seq_height_bas[1]=128          #frame height of the video sequence
+seq_fps_bas[1]=15                       #_FRAME_rate of the video sequence, not must, default 30
+#seq_bitrate_bas[1]=64000               #bit_rate of the video sequence, not must
+#seq_loops_bas[1]=1                     #loops for long testing, not must, default 1
+
+seq_name_el1[1]="wine_tasting_qvga"   #file name of the sequence, the sequence must be located in current directory.
+seq_width_el1[1]=320           #frame width of the video sequence
+seq_height_el1[1]=256          #frame height of the video sequence
+seq_fps_el1[1]=15                       #_FRAME_rate of the video sequence, not must, default 30
+#seq_bitrate_el1[1]=64000               #bit_rate of the video sequence, not must
+#seq_loops_el1[1]=1                     #loops for long testing, not must, default 1
+
+seq_name_el2[1]="wine_tasting_vga"          #frame width of the video sequence
+seq_width_el2[1]=640
+seq_height_el2[1]=512          #frame height of the video sequence
+seq_fps_el2[1]=15                       #_FRAME_rate of the video sequence, not must, default 30
+#seq_bitrate_el2[1]=64000               #bit_rate of the video sequence, not must
+#seq_loops_el2[1]=1                     #loops for long testing, not must, default 1
+
+
+#plot PSNR per frame
+plot_frame_psnr_flag=1
+plot_frame_bits_flag=1
+plot_rate_psnr_flag=1
+plot_rate_vqm_flag=1
+plot_rate_ssim_flag=1
+plot_frame_perf_flag=0
+log_rate_flag=0 
+
+#Quality Evaluation Method
+enable_psnr_flag=1
+enable_vqm_flag=1
+enable_recdiff_flag=1
+enable_ssim_flag=1
+enable_perf_flag=0
+
+vqm_paring_type=0  	# 0 for NONE(not split), 1 for SPLIT
+vqm_segment_length=150 #length of each vqm segment, should be 5-10s in time
+vqm_segment_freq=150 #distance between two vqm segment
+
+
+#bitrate comparison flag, it should be set to 0 in Lose Ratio Mode 
+enable_bitrate_flag=1 
+
+#delete medium data
+delete_medium_yuv_flag=1
+delete_all_yuv_flag=1
+delete_all_data_flag=1 #only valid when test_data_directory != test_result_directory
+
+
+#Test Points
+tp_num=5
+tp_type=1  #predefined test point: 1 for QP, 2 for Bitrate, 3 for Lose Ratio, 4 or null for user defined
+tp_name="QP" #
+tp_value[1]=28
+tp_value[2]=30
+tp_value[3]=32
+tp_value[4]=34
+tp_value[5]=36
+
+
+#define the codec
+codec_num=24
+
+#first spatial layer--qqvga
+#codec configuration 1
+codec_name[1]="Encoder ltf 000"
+codec_target_slayer[1]=0
+codec_target_tlayer[1]=0
+codec_target_qlayer[1]=0
+preprocessor[1]=""
+encoder[1]="./h264enc.exe wbxenc.cfg -rec temp_rec.yuv -numl 2 layer0.cfg layer1.cfg -gop 8 -drc 1 -numql 0 2 -numql 1 2 -numql 2 2 -lqpam 0 0 -lqpam 1 0 -lqpam 2 0 -org 0 _INPUT_PATH_BAS -bf _OUTPUT_PATH -lqp 0 30 -ldeltaqp 0 -2 -lqp 1 _TEST_POINTS -ldeltaqp 1 -2 -ltarb 0 QQVGA_DEFAULT_RATE -sw 0 _FRAME_WIDTH_BAS -sh 0 _FRAME_HEIGHT_BAS -org 1 _INPUT_PATH_EL1 -sw 1 _FRAME_WIDTH_EL1 -sh 1 _FRAME_HEIGHT_EL1 -org 2 _INPUT_PATH_EL2 -sw 2 640 -sh 2 512"
+packer[1]=""
+nsimulator[1]=""
+unpacker[1]=""
+bextractor[1]="./extractor.exe"
+decoder[1]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[1]=""
+framespliter[1]="./framesplitid.exe"
+
+#codec configuration 2
+codec_name[2]="Encoder ltf 001"
+codec_target_slayer[2]=0
+codec_target_tlayer[2]=0
+codec_target_qlayer[2]=1
+preprocessor[2]=""
+encoder[2]=""
+packer[2]=""
+nsimulator[2]=""
+unpacker[2]=""
+bextractor[2]="./extractor.exe"
+decoder[2]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[2]=""
+framespliter[2]="./framesplitid.exe"
+
+#codec configuration 3
+codec_name[3]="Encoder ltf 010"
+codec_target_slayer[3]=0
+codec_target_tlayer[3]=1
+codec_target_qlayer[3]=0
+preprocessor[3]=""
+encoder[3]=""
+packer[3]=""
+nsimulator[3]=""
+unpacker[3]=""
+bextractor[3]="./extractor.exe"
+decoder[3]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[3]=""
+framespliter[3]="./framesplitid.exe"
+
+#codec configuration 4
+codec_name[4]="Encoder ltf 011"
+codec_target_slayer[4]=0
+codec_target_tlayer[4]=1
+codec_target_qlayer[4]=1
+preprocessor[4]=""
+encoder[4]=""
+packer[4]=""
+nsimulator[4]=""
+unpacker[4]=""
+bextractor[4]="./extractor.exe"
+decoder[4]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[4]=""
+framespliter[4]="./framesplitid.exe"
+
+#codec configuration 5
+codec_name[5]="Encoder ltf 020"
+codec_target_slayer[5]=0
+codec_target_tlayer[5]=2
+codec_target_qlayer[5]=0
+preprocessor[5]=""
+encoder[5]=""
+packer[5]=""
+nsimulator[5]=""
+unpacker[5]=""
+bextractor[5]="./extractor.exe"
+decoder[5]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[5]=""
+framespliter[5]="./framesplitid.exe"
+
+#codec configuration 6
+codec_name[6]="Encoder ltf 021"
+codec_target_slayer[6]=0
+codec_target_tlayer[6]=2
+codec_target_qlayer[6]=1
+preprocessor[6]=""
+encoder[6]=""
+packer[6]=""
+nsimulator[6]=""
+unpacker[6]=""
+bextractor[6]="./extractor.exe"
+decoder[6]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[6]=""
+framespliter[6]="./framesplitid.exe"
+
+#codec configuration 7
+codec_name[7]="Encoder ltf 030"
+codec_target_slayer[7]=0
+codec_target_tlayer[7]=3
+codec_target_qlayer[7]=0
+preprocessor[7]=""
+encoder[7]=""
+packer[7]=""
+nsimulator[7]=""
+unpacker[7]=""
+bextractor[7]="./extractor.exe"
+decoder[7]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[7]=""
+framespliter[7]="./framesplitid.exe"
+
+#codec configuration 8
+codec_name[8]="Encoder ltf 031"
+codec_target_slayer[8]=0
+codec_target_tlayer[8]=3
+codec_target_qlayer[8]=1
+preprocessor[8]=""
+encoder[8]=""
+packer[8]=""
+nsimulator[8]=""
+unpacker[8]=""
+bextractor[8]="./extractor.exe"
+decoder[8]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[8]=""
+framespliter[8]="./framesplitid.exe"
+
+#next sptial layer start-qvga
+#codec configuration 9
+codec_name[9]="Encoder ltf 100"
+codec_target_slayer[9]=1
+codec_target_tlayer[9]=0
+codec_target_qlayer[9]=0
+preprocessor[9]=""
+encoder[9]=""
+packer[9]=""
+nsimulator[9]=""
+unpacker[9]=""
+bextractor[9]="./extractor.exe"
+decoder[9]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[9]=""
+framespliter[9]="./framesplitid.exe"
+
+#codec configuration 10
+codec_name[10]="Encoder ltf 101"
+codec_target_slayer[10]=1
+codec_target_tlayer[10]=0
+codec_target_qlayer[10]=1
+preprocessor[10]=""
+encoder[10]=""
+packer[10]=""
+nsimulator[10]=""
+unpacker[10]=""
+bextractor[10]="./extractor.exe"
+decoder[10]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[10]=""
+framespliter[10]="./framesplitid.exe"
+
+#codec configuration 11
+codec_name[11]="Encoder ltf 110"
+codec_target_slayer[11]=1
+codec_target_tlayer[11]=1
+codec_target_qlayer[11]=0
+preprocessor[11]=""
+encoder[11]=""
+packer[11]=""
+nsimulator[11]=""
+unpacker[11]=""
+bextractor[11]="./extractor.exe"
+decoder[11]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[11]=""
+framespliter[11]="./framesplitid.exe"
+
+#codec configuration 12
+codec_name[12]="Encoder ltf 111"
+codec_target_slayer[12]=1
+codec_target_tlayer[12]=1
+codec_target_qlayer[12]=1
+preprocessor[12]=""
+encoder[12]=""
+packer[12]=""
+nsimulator[12]=""
+unpacker[12]=""
+bextractor[12]="./extractor.exe"
+decoder[12]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[12]=""
+framespliter[12]="./framesplitid.exe"
+
+#codec configuration 13
+codec_name[13]="Encoder ltf 120"
+codec_target_slayer[13]=1
+codec_target_tlayer[13]=2
+codec_target_qlayer[13]=0
+preprocessor[13]=""
+encoder[13]=""
+packer[13]=""
+nsimulator[13]=""
+unpacker[13]=""
+bextractor[13]="./extractor.exe"
+decoder[13]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[13]=""
+framespliter[13]="./framesplitid.exe"
+
+#codec configuration 14
+codec_name[14]="Encoder ltf 121"
+codec_target_slayer[14]=1
+codec_target_tlayer[14]=2
+codec_target_qlayer[14]=1
+preprocessor[14]=""
+encoder[14]=""
+packer[14]=""
+nsimulator[14]=""
+unpacker[14]=""
+bextractor[14]="./extractor.exe"
+decoder[14]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[14]=""
+framespliter[14]="./framesplitid.exe"
+
+#codec configuration 15
+codec_name[15]="Encoder ltf 130"
+codec_target_slayer[15]=1
+codec_target_tlayer[15]=3
+codec_target_qlayer[15]=0
+preprocessor[15]=""
+encoder[15]=""
+packer[15]=""
+nsimulator[15]=""
+unpacker[15]=""
+bextractor[15]="./extractor.exe"
+decoder[15]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[15]=""
+framespliter[15]="./framesplitid.exe"
+
+#codec configuration 16
+codec_name[16]="Encoder ltf 131"
+codec_target_slayer[16]=0
+codec_target_tlayer[16]=3
+codec_target_qlayer[16]=1
+preprocessor[16]=""
+encoder[16]=""
+packer[16]=""
+nsimulator[16]=""
+unpacker[16]=""
+bextractor[16]="./extractor.exe"
+decoder[16]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[16]=""
+framespliter[16]="./framesplitid.exe"
+
+
+#third sptial layer start-vga
+#codec configuration 17
+codec_name[17]="Encoder ltf 200"
+codec_target_slayer[17]=2
+codec_target_tlayer[17]=0
+codec_target_qlayer[17]=0
+preprocessor[17]=""
+encoder[17]=""
+packer[17]=""
+nsimulator[17]=""
+unpacker[17]=""
+bextractor[17]="./extractor.exe"
+decoder[17]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[17]=""
+framespliter[17]="./framesplitid.exe"
+
+#codec configuration 18
+codec_name[18]="Encoder ltf 201"
+codec_target_slayer[18]=2
+codec_target_tlayer[18]=0
+codec_target_qlayer[18]=1
+preprocessor[18]=""
+encoder[18]=""
+packer[18]=""
+nsimulator[18]=""
+unpacker[18]=""
+bextractor[18]="./extractor.exe"
+decoder[18]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[18]=""
+framespliter[18]="./framesplitid.exe"
+
+#codec configuration 19
+codec_name[19]="Encoder ltf 210"
+codec_target_slayer[19]=1
+codec_target_tlayer[19]=1
+codec_target_qlayer[19]=0
+preprocessor[19]=""
+encoder[19]=""
+packer[19]=""
+nsimulator[19]=""
+unpacker[19]=""
+bextractor[19]="./extractor.exe"
+decoder[19]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[19]=""
+framespliter[19]="./framesplitid.exe"
+
+#codec configuration 20
+codec_name[20]="Encoder ltf 211"
+codec_target_slayer[20]=2
+codec_target_tlayer[20]=1
+codec_target_qlayer[20]=1
+preprocessor[20]=""
+encoder[20]=""
+packer[20]=""
+nsimulator[20]=""
+unpacker[20]=""
+bextractor[20]="./extractor.exe"
+decoder[20]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[20]=""
+framespliter[20]="./framesplitid.exe"
+
+#codec configuration 21
+codec_name[21]="Encoder ltf 220"
+codec_target_slayer[21]=2
+codec_target_tlayer[21]=2
+codec_target_qlayer[21]=0
+preprocessor[21]=""
+encoder[21]=""
+packer[21]=""
+nsimulator[21]=""
+unpacker[21]=""
+bextractor[21]="./extractor.exe"
+decoder[21]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[21]=""
+framespliter[21]="./framesplitid.exe"
+
+#codec configuration 22
+codec_name[22]="Encoder ltf 221"
+codec_target_slayer[22]=2
+codec_target_tlayer[22]=2
+codec_target_qlayer[22]=1
+preprocessor[22]=""
+encoder[22]=""
+packer[22]=""
+nsimulator[22]=""
+unpacker[22]=""
+bextractor[22]="./extractor.exe"
+decoder[22]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[22]=""
+framespliter[22]="./framesplitid.exe"
+
+#codec configuration 23
+codec_name[23]="Encoder ltf 230"
+codec_target_slayer[23]=2
+codec_target_tlayer[23]=3
+codec_target_qlayer[23]=0
+preprocessor[23]=""
+encoder[23]=""
+packer[23]=""
+nsimulator[23]=""
+unpacker[23]=""
+bextractor[23]="./extractor.exe"
+decoder[23]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[23]=""
+framespliter[23]="./framesplitid.exe"
+
+#codec configuration 24
+codec_name[24]="Encoder ltf 231"
+codec_target_slayer[24]=0
+codec_target_tlayer[24]=3
+codec_target_qlayer[24]=1
+preprocessor[24]=""
+encoder[24]=""
+packer[24]=""
+nsimulator[24]=""
+unpacker[24]=""
+bextractor[24]="./extractor.exe"
+decoder[24]="./h264dec.exe _INPUT_PATH_BAS _OUTPUT_PATH"
+postprocesser[24]=""
+framespliter[24]="./framesplitid.exe"
+
+

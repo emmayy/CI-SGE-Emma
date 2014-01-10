@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwitchSimulator", "SwitchSimulator\SwitchSimulator.vcproj", "{FD6E2961-4F2F-40A6-BAF6-F5F503300743}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A68BFABC-DB57-4F0A-82D5-DD31C932C153} = {A68BFABC-DB57-4F0A-82D5-DD31C932C153}
+		{5DDA8CFD-14A3-4AFE-8FEA-381484CEBFF9} = {5DDA8CFD-14A3-4AFE-8FEA-381484CEBFF9}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WelsUtilLib", "..\WelsUtilLib\WelsUtilLib.vcproj", "{5DDA8CFD-14A3-4AFE-8FEA-381484CEBFF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Switch", "..\Switch\Switch.vcproj", "{A68BFABC-DB57-4F0A-82D5-DD31C932C153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6E2961-4F2F-40A6-BAF6-F5F503300743}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD6E2961-4F2F-40A6-BAF6-F5F503300743}.Debug|Win32.Build.0 = Debug|Win32
+		{FD6E2961-4F2F-40A6-BAF6-F5F503300743}.Release|Win32.ActiveCfg = Release|Win32
+		{FD6E2961-4F2F-40A6-BAF6-F5F503300743}.Release|Win32.Build.0 = Release|Win32
+		{5DDA8CFD-14A3-4AFE-8FEA-381484CEBFF9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5DDA8CFD-14A3-4AFE-8FEA-381484CEBFF9}.Debug|Win32.Build.0 = Debug|Win32
+		{5DDA8CFD-14A3-4AFE-8FEA-381484CEBFF9}.Release|Win32.ActiveCfg = Release|Win32
+		{5DDA8CFD-14A3-4AFE-8FEA-381484CEBFF9}.Release|Win32.Build.0 = Release|Win32
+		{A68BFABC-DB57-4F0A-82D5-DD31C932C153}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A68BFABC-DB57-4F0A-82D5-DD31C932C153}.Debug|Win32.Build.0 = Debug|Win32
+		{A68BFABC-DB57-4F0A-82D5-DD31C932C153}.Release|Win32.ActiveCfg = Release|Win32
+		{A68BFABC-DB57-4F0A-82D5-DD31C932C153}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

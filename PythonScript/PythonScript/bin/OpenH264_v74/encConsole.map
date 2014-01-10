@@ -1,0 +1,570 @@
+ encConsole
+
+ Timestamp is 528d6fcd (Thu Nov 21 10:28:29 2013)
+
+ Preferred load address is 00400000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00005022H .text                   CODE
+ 0001:00005030 00000291H .text$x                 CODE
+ 0002:00000000 00000178H .idata$5                DATA
+ 0002:00000178 00000004H .CRT$XCA                DATA
+ 0002:0000017c 00000004H .CRT$XCAA               DATA
+ 0002:00000180 00000004H .CRT$XCZ                DATA
+ 0002:00000184 00000004H .CRT$XIA                DATA
+ 0002:00000188 00000004H .CRT$XIAA               DATA
+ 0002:0000018c 00000004H .CRT$XIC                DATA
+ 0002:00000190 00000004H .CRT$XIY                DATA
+ 0002:00000194 00000004H .CRT$XIZ                DATA
+ 0002:000001a0 00000fa8H .rdata                  DATA
+ 0002:00001148 00000059H .rdata$debug            DATA
+ 0002:000011a4 00000090H .rdata$r                DATA
+ 0002:00001240 00000030H .rdata$sxdata           DATA
+ 0002:00001270 00000004H .rtc$IAA                DATA
+ 0002:00001274 00000004H .rtc$IZZ                DATA
+ 0002:00001278 00000004H .rtc$TAA                DATA
+ 0002:0000127c 00000004H .rtc$TZZ                DATA
+ 0002:00001280 0000032cH .xdata$x                DATA
+ 0002:000015ac 00000050H .idata$2                DATA
+ 0002:000015fc 00000014H .idata$3                DATA
+ 0002:00001610 00000178H .idata$4                DATA
+ 0002:00001788 00000abeH .idata$6                DATA
+ 0002:00002246 00000000H .edata                  DATA
+ 0003:00000000 00000060H .data                   DATA
+ 0003:00000060 00000384H .bss                    DATA
+
+  Address         Publics by Value              Rva+Base       Lib:Object
+
+ 0000:00000000       __except_list              00000000     <absolute>
+ 0000:0000000c       ___safe_se_handler_count   0000000c     <absolute>
+ 0000:00009876       __ldused                   00009876     <absolute>
+ 0000:00009876       __fltused                  00009876     <absolute>
+ 0000:00000000       ___ImageBase               00400000     <linker-defined>
+ 0001:00000000       ??0CReadConfig@@QAE@XZ     00401000 f   read_config.obj
+ 0001:00000030       ??0CReadConfig@@QAE@PBD@Z  00401030 f   read_config.obj
+ 0001:00000090       ??0CReadConfig@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z 00401090 f   read_config.obj
+ 0001:000000f0       ??1CReadConfig@@UAE@XZ     004010f0 f   read_config.obj
+ 0001:00000120       ?openf@CReadConfig@@QAEXPBD@Z 00401120 f   read_config.obj
+ 0001:00000160       ?ReadLine@CReadConfig@@QAEJPAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z 00401160 f   read_config.obj
+ 0001:000002a0       ?EndOfFile@CReadConfig@@QAE?B_NXZ 004012a0 f   read_config.obj
+ 0001:000002c0       ?GetLines@CReadConfig@@QAE?BHXZ 004012c0 f   read_config.obj
+ 0001:000002d0       ?ExistFile@CReadConfig@@QAE?B_NXZ 004012d0 f   read_config.obj
+ 0001:000002e0       ?GetFileName@CReadConfig@@QAEABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ 004012e0 f   read_config.obj
+ 0001:000002f0       ??_GCReadConfig@@UAEPAXI@Z 004012f0 f i read_config.obj
+ 0001:000002f0       ??_ECReadConfig@@UAEPAXI@Z 004012f0 f i read_config.obj
+ 0001:00000390       ??1TagWelsSvcCodingParam@WelsSVCEnc@@QAE@XZ 00401390 f i welsenc.obj
+ 0001:000003a0       ?fill_default@TagWelsSvcCodingParam@WelsSVCEnc@@QAEXE@Z 004013a0 f i welsenc.obj
+ 0001:000004e0       ?parse_config@@YAHAAVCReadConfig@@AAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z 004014e0 f   welsenc.obj
+ 0001:000016a0       ?parse_commandline@@YAHHPAPADAAUSVCEncodingParam@@@Z 004026a0 f   welsenc.obj
+ 0001:00001b00       ?PrintHelp@@YAXXZ          00402b00 f   welsenc.obj
+ 0001:00001bf0       ?parse_commandline@@YAHHPAPADAAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z 00402bf0 f   welsenc.obj
+ 0001:00002d30       ?fill_specific_parameters@@YAHAAUSVCEncodingParam@@@Z 00403d30 f   welsenc.obj
+ 0001:00002f70       ?process_encoding_svc_with_param@@YAHPAVISVCEncoder@@HPAPAD@Z 00403f70 f   welsenc.obj
+ 0001:000032e0       ??0<unnamed-type-sSpatialLayers>@tagFilesSet@@QAE@XZ 004042e0 f i welsenc.obj
+ 0001:00003340       ??1<unnamed-type-sSpatialLayers>@tagFilesSet@@QAE@XZ 00404340 f i welsenc.obj
+ 0001:000033a0       ?LockToSingleCore@@YAXXZ   004043a0 f   welsenc.obj
+ 0001:00003400       ?CreateSVCEncHandle@@YAJPAPAVISVCEncoder@@@Z 00404400 f   welsenc.obj
+ 0001:00003410       ?DestroySVCEncHanlde@@YAXPAVISVCEncoder@@@Z 00404410 f   welsenc.obj
+ 0001:00003430       ??Bsentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QBE_NXZ 00404430 f i welsenc.obj
+ 0001:00003440       ??0_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@AAV12@@Z 00404440 f i welsenc.obj
+ 0001:00003470       ??1_Sentry_base@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@XZ 00404470 f i welsenc.obj
+ 0001:00003490       ??0TagWelsSvcCodingParam@WelsSVCEnc@@QAE@E@Z 00404490 f i welsenc.obj
+ 0001:000034b0       ??0tagFilesSet@@QAE@XZ     004044b0 f i welsenc.obj
+ 0001:00003520       ??1tagFilesSet@@QAE@XZ     00404520 f i welsenc.obj
+ 0001:000035a0       ??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@AAV12@@Z 004045a0 f i welsenc.obj
+ 0001:00003630       ??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@XZ 00404630 f i welsenc.obj
+ 0001:000036b0       ??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z 004046b0 f i welsenc.obj
+ 0001:00003840       ?process_encoding_svc_with_config@@YAHPAVISVCEncoder@@HPAPAD@Z 00404840 f   welsenc.obj
+ 0001:00004040       _main                      00405040 f   welsenc.obj
+ 0001:000041f2       _QueryPerformanceCounter@4 004051f2 f   kernel32:KERNEL32.dll
+ 0001:000041f8       _QueryPerformanceFrequency@4 004051f8 f   kernel32:KERNEL32.dll
+ 0001:000041fe       _SetPriorityClass@8        004051fe f   kernel32:KERNEL32.dll
+ 0001:00004204       _SetProcessAffinityMask@8  00405204 f   kernel32:KERNEL32.dll
+ 0001:0000420a       _GetProcessAffinityMask@12 0040520a f   kernel32:KERNEL32.dll
+ 0001:00004210       _GetCurrentProcess@0       00405210 f   kernel32:KERNEL32.dll
+ 0001:00004216       _CreateSVCEncoder          00405216 f   welsenc:welsenc.dll
+ 0001:0000421c       _DestroySVCEncoder         0040521c f   welsenc:welsenc.dll
+ 0001:00004222       ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z 00405222 f   msvcprt:MSVCP90.dll
+ 0001:00004228       ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z 00405228 f   msvcprt:MSVCP90.dll
+ 0001:0000422e       ??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ 0040522e f   msvcprt:MSVCP90.dll
+ 0001:00004234       ??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@PBD@Z 00405234 f   msvcprt:MSVCP90.dll
+ 0001:0000423a       ??Y?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@D@Z 0040523a f   msvcprt:MSVCP90.dll
+ 0001:00004240       ?compare@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEHIIABV12@@Z 00405240 f   msvcprt:MSVCP90.dll
+ 0001:00004246       ??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@ABV01@@Z 00405246 f   msvcprt:MSVCP90.dll
+ 0001:0000424c       ?compare@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEHIIPBDI@Z 0040524c f   msvcprt:MSVCP90.dll
+ 0001:00004252       ??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ 00405252 f   msvcprt:MSVCP90.dll
+ 0001:00004258       ?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBD@Z 00405258 f   msvcprt:MSVCP90.dll
+ 0001:0000425e       ??_U@YAPAXI@Z              0040525e f   msvcprt:newaop_s.obj
+ 0001:0000426a       ?_Lock@_Mutex@std@@QAEXXZ  0040526a f   msvcprt:MSVCP90.dll
+ 0001:00004270       ?_Unlock@_Mutex@std@@QAEXXZ 00405270 f   msvcprt:MSVCP90.dll
+ 0001:00004276       ?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ 00405276 f   msvcprt:MSVCP90.dll
+ 0001:0000427c       ?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ 0040527c f   msvcprt:MSVCP90.dll
+ 0001:00004282       ?uncaught_exception@std@@YA_NXZ 00405282 f   msvcprt:MSVCP90.dll
+ 0001:00004288       ?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z 00405288 f   msvcprt:MSVCP90.dll
+ 0001:0000428e       ?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHPBDH@Z 0040528e f   msvcprt:MSVCP90.dll
+ 0001:00004294       ?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z 00405294 f   msvcprt:MSVCP90.dll
+ 0001:0000429a       ?rfind@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEIPBDII@Z 0040529a f   msvcprt:MSVCP90.dll
+ 0001:000042a0       ??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z 004052a0 f   msvcprt:MSVCP90.dll
+ 0001:000042a6       ?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z 004052a6 f   msvcprt:MSVCP90.dll
+ 0001:000042ac       ??0type_info@@AAE@ABV0@@Z  004052ac f   MSVCRT:ti_inst.obj
+ 0001:000042b7       ??_Etype_info@@UAEPAXI@Z   004052b7 f i MSVCRT:ti_inst.obj
+ 0001:00004303       ??4type_info@@AAEAAV0@ABV0@@Z 00405303 f   MSVCRT:ti_inst.obj
+ 0001:00004308       _fopen                     00405308 f   MSVCRT:MSVCR90.dll
+ 0001:0000430e       _fclose                    0040530e f   MSVCRT:MSVCR90.dll
+ 0001:00004314       _feof                      00405314 f   MSVCRT:MSVCR90.dll
+ 0001:0000431a       _fgetc                     0040531a f   MSVCRT:MSVCR90.dll
+ 0001:00004320       ??3@YAXPAX@Z               00405320 f   MSVCRT:MSVCR90.dll
+ 0001:00004330       __ftol2_sse                00405330 f   MSVCRT:ftol2.obj
+ 0001:00004339       __ftol2_pentium4           00405339 f   MSVCRT:ftol2.obj
+ 0001:0000434c       __ftol2_sse_excpt          0040534c f   MSVCRT:ftol2.obj
+ 0001:00004366       __ftol2                    00405366 f   MSVCRT:ftol2.obj
+ 0001:000043ed       ?__ArrayUnwind@@YGXPAXIHP6EX0@Z@Z 004053ed f   MSVCRT:ehvecdtr.obj
+ 0001:0000444b       ??_M@YGXPAXIHP6EX0@Z@Z     0040544b f   MSVCRT:ehvecdtr.obj
+ 0001:000044ae       _fprintf                   004054ae f   MSVCRT:MSVCR90.dll
+ 0001:000044b4       ___iob_func                004054b4 f   MSVCRT:MSVCR90.dll
+ 0001:000044ba       _atof                      004054ba f   MSVCRT:MSVCR90.dll
+ 0001:000044c0       _atoi                      004054c0 f   MSVCRT:MSVCR90.dll
+ 0001:000044c6       ??_L@YGXPAXIHP6EX0@Z1@Z    004054c6 f   MSVCRT:ehvecctr.obj
+ 0001:0000452c       ___CxxFrameHandler3        0040552c f   MSVCRT:MSVCR90.dll
+ 0001:00004532       @__security_check_cookie@4 00405532 f   MSVCRT:secchk.obj
+ 0001:00004542       _memset                    00405542 f   MSVCRT:MSVCR90.dll
+ 0001:00004548       _printf                    00405548 f   MSVCRT:MSVCR90.dll
+ 0001:0000454e       ??_V@YAXPAX@Z              0040554e f   MSVCRT:MSVCR90.dll
+ 0001:00004554       _fwrite                    00405554 f   MSVCRT:MSVCR90.dll
+ 0001:0000455a       _fread                     0040555a f   MSVCRT:MSVCR90.dll
+ 0001:00004560       __chkstk                   00405560 f   MSVCRT:chkstk.obj
+ 0001:00004560       __alloca_probe             00405560     MSVCRT:chkstk.obj
+ 0001:0000458c       _ftell                     0040558c f   MSVCRT:MSVCR90.dll
+ 0001:00004592       _fseek                     00405592 f   MSVCRT:MSVCR90.dll
+ 0001:00004598       ??2@YAPAXI@Z               00405598 f   MSVCRT:MSVCR90.dll
+ 0001:000045a0       __alldiv                   004055a0 f   MSVCRT:lldiv.obj
+ 0001:0000464a       _signal                    0040564a f   MSVCRT:MSVCR90.dll
+ 0001:00004650       __setmode                  00405650 f   MSVCRT:MSVCR90.dll
+ 0001:00004656       __fileno                   00405656 f   MSVCRT:MSVCR90.dll
+ 0001:0000465c       _NtCurrentTeb              0040565c f i MSVCRT:crtexe.obj
+ 0001:00004964       _mainCRTStartup            00405964 f   MSVCRT:crtexe.obj
+ 0001:000049be       __get_sse2_info            004059be f   MSVCRT:cpu_disp.obj
+ 0001:00004a20       ___sse2_available_init     00405a20 f   MSVCRT:cpu_disp.obj
+ 0001:00004a2e       ?terminate@@YAXXZ          00405a2e f   MSVCRT:MSVCR90.dll
+ 0001:00004a34       __SEH_prolog4              00405a34 f   MSVCRT:sehprolg4.obj
+ 0001:00004a79       __SEH_epilog4              00405a79 f   MSVCRT:sehprolg4.obj
+ 0001:00004a8d       __except_handler4          00405a8d f   MSVCRT:chandler4gs.obj
+ 0001:00004ab2       ___report_gsfailure        00405ab2 f   MSVCRT:gs_report.obj
+ 0001:00004bb8       ?__CxxUnhandledExceptionFilter@@YGJPAU_EXCEPTION_POINTERS@@@Z 00405bb8 f   MSVCRT:unhandld.obj
+ 0001:00004bfa       ___CxxSetUnhandledExceptionFilter 00405bfa f   MSVCRT:unhandld.obj
+ 0001:00004c08       __amsg_exit                00405c08 f   MSVCRT:MSVCR90.dll
+ 0001:00004c0e       ___getmainargs             00405c0e f   MSVCRT:MSVCR90.dll
+ 0001:00004c14       __onexit                   00405c14 f   MSVCRT:atonexit.obj
+ 0001:00004cb9       _atexit                    00405cb9 f   MSVCRT:atonexit.obj
+ 0001:00004cd0       __RTC_Initialize           00405cd0 f   MSVCRT:_initsect_.obj
+ 0001:00004cf6       __RTC_Terminate            00405cf6 f   MSVCRT:_initsect_.obj
+ 0001:00004d1c       __cexit                    00405d1c f   MSVCRT:MSVCR90.dll
+ 0001:00004d22       __exit                     00405d22 f   MSVCRT:MSVCR90.dll
+ 0001:00004d28       __XcptFilter               00405d28 f   MSVCRT:MSVCR90.dll
+ 0001:00004d2e       _exit                      00405d2e f   MSVCRT:MSVCR90.dll
+ 0001:00004d40       __ValidateImageBase        00405d40 f   MSVCRT:pesect.obj
+ 0001:00004d80       __FindPESection            00405d80 f   MSVCRT:pesect.obj
+ 0001:00004dd0       __IsNonwritableInCurrentImage 00405dd0 f   MSVCRT:pesect.obj
+ 0001:00004e8e       __initterm                 00405e8e f   MSVCRT:MSVCR90.dll
+ 0001:00004e94       __initterm_e               00405e94 f   MSVCRT:MSVCR90.dll
+ 0001:00004e9a       __configthreadlocale       00405e9a f   MSVCRT:MSVCR90.dll
+ 0001:00004ea0       __invoke_watson_if_error   00405ea0 f i MSVCRT:fp8.obj
+ 0001:00004ec4       __setdefaultprecision      00405ec4 f   MSVCRT:fp8.obj
+ 0001:00004ef0       ___setusermatherr          00405ef0 f   MSVCRT:MSVCR90.dll
+ 0001:00004ef6       __matherr                  00405ef6 f   MSVCRT:merr.obj
+ 0001:00004ef9       __setargv                  00405ef9 f   MSVCRT:dllargv.obj
+ 0001:00004efc       ___p__commode              00405efc f   MSVCRT:MSVCR90.dll
+ 0001:00004f02       ___p__fmode                00405f02 f   MSVCRT:MSVCR90.dll
+ 0001:00004f08       __encode_pointer           00405f08 f   MSVCRT:MSVCR90.dll
+ 0001:00004f0e       ___set_app_type            00405f0e f   MSVCRT:MSVCR90.dll
+ 0001:00004f14       ___security_init_cookie    00405f14 f   MSVCRT:gs_support.obj
+ 0001:00004faa       ?_type_info_dtor_internal_method@type_info@@QAEXXZ 00405faa f   MSVCRT:MSVCR90.dll
+ 0001:00004faa       ??1type_info@@UAE@XZ       00405faa f   MSVCRT:MSVCR90.dll
+ 0001:00004fb0       __except_handler4_common   00405fb0 f   MSVCRT:MSVCR90.dll
+ 0001:00004fb6       __crt_debugger_hook        00405fb6 f   MSVCRT:MSVCR90.dll
+ 0001:00004fbc       __unlock                   00405fbc f   MSVCRT:MSVCR90.dll
+ 0001:00004fc2       ___dllonexit               00405fc2 f   MSVCRT:MSVCR90.dll
+ 0001:00004fc8       __lock                     00405fc8 f   MSVCRT:MSVCR90.dll
+ 0001:00004fce       __decode_pointer           00405fce f   MSVCRT:MSVCR90.dll
+ 0001:00004fd4       __invoke_watson            00405fd4 f   MSVCRT:MSVCR90.dll
+ 0001:00004fda       __controlfp_s              00405fda f   MSVCRT:MSVCR90.dll
+ 0001:00004fe0       _InterlockedExchange@8     00405fe0 f   kernel32:KERNEL32.dll
+ 0001:00004fe6       _Sleep@4                   00405fe6 f   kernel32:KERNEL32.dll
+ 0001:00004fec       _InterlockedCompareExchange@12 00405fec f   kernel32:KERNEL32.dll
+ 0001:00004ff2       _TerminateProcess@8        00405ff2 f   kernel32:KERNEL32.dll
+ 0001:00004ff8       _UnhandledExceptionFilter@4 00405ff8 f   kernel32:KERNEL32.dll
+ 0001:00004ffe       _SetUnhandledExceptionFilter@4 00405ffe f   kernel32:KERNEL32.dll
+ 0001:00005004       _IsDebuggerPresent@0       00406004 f   kernel32:KERNEL32.dll
+ 0001:0000500a       _GetTickCount@0            0040600a f   kernel32:KERNEL32.dll
+ 0001:00005010       _GetCurrentThreadId@0      00406010 f   kernel32:KERNEL32.dll
+ 0001:00005016       _GetCurrentProcessId@0     00406016 f   kernel32:KERNEL32.dll
+ 0001:0000501c       _GetSystemTimeAsFileTime@4 0040601c f   kernel32:KERNEL32.dll
+ 0002:00000000       __imp__QueryPerformanceCounter@4 00407000     kernel32:KERNEL32.dll
+ 0002:00000004       __imp__QueryPerformanceFrequency@4 00407004     kernel32:KERNEL32.dll
+ 0002:00000008       __imp__SetPriorityClass@8  00407008     kernel32:KERNEL32.dll
+ 0002:0000000c       __imp__SetProcessAffinityMask@8 0040700c     kernel32:KERNEL32.dll
+ 0002:00000010       __imp__GetProcessAffinityMask@12 00407010     kernel32:KERNEL32.dll
+ 0002:00000014       __imp__GetCurrentProcess@0 00407014     kernel32:KERNEL32.dll
+ 0002:00000018       __imp__GetCurrentProcessId@0 00407018     kernel32:KERNEL32.dll
+ 0002:0000001c       __imp__GetCurrentThreadId@0 0040701c     kernel32:KERNEL32.dll
+ 0002:00000020       __imp__GetTickCount@0      00407020     kernel32:KERNEL32.dll
+ 0002:00000024       __imp__IsDebuggerPresent@0 00407024     kernel32:KERNEL32.dll
+ 0002:00000028       __imp__SetUnhandledExceptionFilter@4 00407028     kernel32:KERNEL32.dll
+ 0002:0000002c       __imp__UnhandledExceptionFilter@4 0040702c     kernel32:KERNEL32.dll
+ 0002:00000030       __imp__TerminateProcess@8  00407030     kernel32:KERNEL32.dll
+ 0002:00000034       __imp__InterlockedCompareExchange@12 00407034     kernel32:KERNEL32.dll
+ 0002:00000038       __imp__Sleep@4             00407038     kernel32:KERNEL32.dll
+ 0002:0000003c       __imp__InterlockedExchange@8 0040703c     kernel32:KERNEL32.dll
+ 0002:00000040       __imp__GetSystemTimeAsFileTime@4 00407040     kernel32:KERNEL32.dll
+ 0002:00000044       \177KERNEL32_NULL_THUNK_DATA 00407044     kernel32:KERNEL32.dll
+ 0002:00000048       __imp_??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ 00407048     msvcprt:MSVCP90.dll
+ 0002:0000004c       __imp_?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBD@Z 0040704c     msvcprt:MSVCP90.dll
+ 0002:00000050       __imp_?_Lock@_Mutex@std@@QAEXXZ 00407050     msvcprt:MSVCP90.dll
+ 0002:00000054       __imp_?_Unlock@_Mutex@std@@QAEXXZ 00407054     msvcprt:MSVCP90.dll
+ 0002:00000058       __imp_?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ 00407058     msvcprt:MSVCP90.dll
+ 0002:0000005c       __imp_?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ 0040705c     msvcprt:MSVCP90.dll
+ 0002:00000060       __imp_?uncaught_exception@std@@YA_NXZ 00407060     msvcprt:MSVCP90.dll
+ 0002:00000064       __imp_?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z 00407064     msvcprt:MSVCP90.dll
+ 0002:00000068       __imp_?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHPBDH@Z 00407068     msvcprt:MSVCP90.dll
+ 0002:0000006c       __imp_?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z 0040706c     msvcprt:MSVCP90.dll
+ 0002:00000070       __imp_?rfind@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEIPBDII@Z 00407070     msvcprt:MSVCP90.dll
+ 0002:00000074       __imp_?npos@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@2IB 00407074     msvcprt:MSVCP90.dll
+ 0002:00000078       __imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z 00407078     msvcprt:MSVCP90.dll
+ 0002:0000007c       __imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A 0040707c     msvcprt:MSVCP90.dll
+ 0002:00000080       __imp_?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z 00407080     msvcprt:MSVCP90.dll
+ 0002:00000084       __imp_??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z 00407084     msvcprt:MSVCP90.dll
+ 0002:00000088       __imp_??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ 00407088     msvcprt:MSVCP90.dll
+ 0002:0000008c       __imp_??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@PBD@Z 0040708c     msvcprt:MSVCP90.dll
+ 0002:00000090       __imp_??Y?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@D@Z 00407090     msvcprt:MSVCP90.dll
+ 0002:00000094       __imp_?compare@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEHIIABV12@@Z 00407094     msvcprt:MSVCP90.dll
+ 0002:00000098       __imp_??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@ABV01@@Z 00407098     msvcprt:MSVCP90.dll
+ 0002:0000009c       __imp_??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z 0040709c     msvcprt:MSVCP90.dll
+ 0002:000000a0       __imp_?compare@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEHIIPBDI@Z 004070a0     msvcprt:MSVCP90.dll
+ 0002:000000a4       \177MSVCP90_NULL_THUNK_DATA 004070a4     msvcprt:MSVCP90.dll
+ 0002:000000a8       __imp__atoi                004070a8     MSVCRT:MSVCR90.dll
+ 0002:000000ac       __imp____CxxFrameHandler3  004070ac     MSVCRT:MSVCR90.dll
+ 0002:000000b0       __imp__memset              004070b0     MSVCRT:MSVCR90.dll
+ 0002:000000b4       __imp__printf              004070b4     MSVCRT:MSVCR90.dll
+ 0002:000000b8       __imp_??_V@YAXPAX@Z        004070b8     MSVCRT:MSVCR90.dll
+ 0002:000000bc       __imp__atof                004070bc     MSVCRT:MSVCR90.dll
+ 0002:000000c0       __imp__fread               004070c0     MSVCRT:MSVCR90.dll
+ 0002:000000c4       __imp__ftell               004070c4     MSVCRT:MSVCR90.dll
+ 0002:000000c8       __imp__fseek               004070c8     MSVCRT:MSVCR90.dll
+ 0002:000000cc       __imp_??2@YAPAXI@Z         004070cc     MSVCRT:MSVCR90.dll
+ 0002:000000d0       __imp__signal              004070d0     MSVCRT:MSVCR90.dll
+ 0002:000000d4       __imp___setmode            004070d4     MSVCRT:MSVCR90.dll
+ 0002:000000d8       __imp____iob_func          004070d8     MSVCRT:MSVCR90.dll
+ 0002:000000dc       __imp_?terminate@@YAXXZ    004070dc     MSVCRT:MSVCR90.dll
+ 0002:000000e0       __imp___amsg_exit          004070e0     MSVCRT:MSVCR90.dll
+ 0002:000000e4       __imp____getmainargs       004070e4     MSVCRT:MSVCR90.dll
+ 0002:000000e8       __imp___cexit              004070e8     MSVCRT:MSVCR90.dll
+ 0002:000000ec       __imp___exit               004070ec     MSVCRT:MSVCR90.dll
+ 0002:000000f0       __imp___XcptFilter         004070f0     MSVCRT:MSVCR90.dll
+ 0002:000000f4       __imp__exit                004070f4     MSVCRT:MSVCR90.dll
+ 0002:000000f8       __imp____initenv           004070f8     MSVCRT:MSVCR90.dll
+ 0002:000000fc       __imp___initterm           004070fc     MSVCRT:MSVCR90.dll
+ 0002:00000100       __imp___initterm_e         00407100     MSVCRT:MSVCR90.dll
+ 0002:00000104       __imp___configthreadlocale 00407104     MSVCRT:MSVCR90.dll
+ 0002:00000108       __imp____setusermatherr    00407108     MSVCRT:MSVCR90.dll
+ 0002:0000010c       __imp___adjust_fdiv        0040710c     MSVCRT:MSVCR90.dll
+ 0002:00000110       __imp____p__commode        00407110     MSVCRT:MSVCR90.dll
+ 0002:00000114       __imp____p__fmode          00407114     MSVCRT:MSVCR90.dll
+ 0002:00000118       __imp___encode_pointer     00407118     MSVCRT:MSVCR90.dll
+ 0002:0000011c       __imp____set_app_type      0040711c     MSVCRT:MSVCR90.dll
+ 0002:00000120       __imp_?_type_info_dtor_internal_method@type_info@@QAEXXZ 00407120     MSVCRT:MSVCR90.dll
+ 0002:00000124       __imp___except_handler4_common 00407124     MSVCRT:MSVCR90.dll
+ 0002:00000128       __imp___crt_debugger_hook  00407128     MSVCRT:MSVCR90.dll
+ 0002:0000012c       __imp___unlock             0040712c     MSVCRT:MSVCR90.dll
+ 0002:00000130       __imp____dllonexit         00407130     MSVCRT:MSVCR90.dll
+ 0002:00000134       __imp___lock               00407134     MSVCRT:MSVCR90.dll
+ 0002:00000138       __imp___onexit             00407138     MSVCRT:MSVCR90.dll
+ 0002:0000013c       __imp___decode_pointer     0040713c     MSVCRT:MSVCR90.dll
+ 0002:00000140       __imp___invoke_watson      00407140     MSVCRT:MSVCR90.dll
+ 0002:00000144       __imp___controlfp_s        00407144     MSVCRT:MSVCR90.dll
+ 0002:00000148       __imp__fprintf             00407148     MSVCRT:MSVCR90.dll
+ 0002:0000014c       __imp_??3@YAXPAX@Z         0040714c     MSVCRT:MSVCR90.dll
+ 0002:00000150       __imp__fgetc               00407150     MSVCRT:MSVCR90.dll
+ 0002:00000154       __imp__feof                00407154     MSVCRT:MSVCR90.dll
+ 0002:00000158       __imp__fclose              00407158     MSVCRT:MSVCR90.dll
+ 0002:0000015c       __imp__fopen               0040715c     MSVCRT:MSVCR90.dll
+ 0002:00000160       __imp___fileno             00407160     MSVCRT:MSVCR90.dll
+ 0002:00000164       __imp__fwrite              00407164     MSVCRT:MSVCR90.dll
+ 0002:00000168       \177MSVCR90_NULL_THUNK_DATA 00407168     MSVCRT:MSVCR90.dll
+ 0002:0000016c       __imp__CreateSVCEncoder    0040716c     welsenc:welsenc.dll
+ 0002:00000170       __imp__DestroySVCEncoder   00407170     welsenc:welsenc.dll
+ 0002:00000174       \177welsenc_NULL_THUNK_DATA 00407174     welsenc:welsenc.dll
+ 0002:00000178       ___xc_a                    00407178     MSVCRT:cinitexe.obj
+ 0002:00000180       ___xc_z                    00407180     MSVCRT:cinitexe.obj
+ 0002:00000184       ___xi_a                    00407184     MSVCRT:cinitexe.obj
+ 0002:00000194       ___xi_z                    00407194     MSVCRT:cinitexe.obj
+ 0002:000001bc       ??_C@_0P@GHFPNOJB@bad?5allocation?$AA@ 004071bc     read_config.obj
+ 0002:000001cb       ?_Value@?$_Is_swap_move@U_Swap_move_tag@std@@@std@@2_NB 004071cb     read_config.obj
+ 0002:000001cc       ?collate@?$_Locbase@H@std@@2HB 004071cc     read_config.obj
+ 0002:000001d0       ?ctype@?$_Locbase@H@std@@2HB 004071d0     read_config.obj
+ 0002:000001d4       ?monetary@?$_Locbase@H@std@@2HB 004071d4     read_config.obj
+ 0002:000001d8       ?numeric@?$_Locbase@H@std@@2HB 004071d8     read_config.obj
+ 0002:000001dc       ?time@?$_Locbase@H@std@@2HB 004071dc     read_config.obj
+ 0002:000001e0       ?messages@?$_Locbase@H@std@@2HB 004071e0     read_config.obj
+ 0002:000001e4       ?all@?$_Locbase@H@std@@2HB 004071e4     read_config.obj
+ 0002:000001e8       ?none@?$_Locbase@H@std@@2HB 004071e8     read_config.obj
+ 0002:000001ec       ?skipws@?$_Iosb@H@std@@2W4_Fmtflags@12@B 004071ec     read_config.obj
+ 0002:000001f0       ?unitbuf@?$_Iosb@H@std@@2W4_Fmtflags@12@B 004071f0     read_config.obj
+ 0002:000001f4       ?uppercase@?$_Iosb@H@std@@2W4_Fmtflags@12@B 004071f4     read_config.obj
+ 0002:000001f8       ?showbase@?$_Iosb@H@std@@2W4_Fmtflags@12@B 004071f8     read_config.obj
+ 0002:000001fc       ?showpoint@?$_Iosb@H@std@@2W4_Fmtflags@12@B 004071fc     read_config.obj
+ 0002:00000200       ?showpos@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407200     read_config.obj
+ 0002:00000204       ?left@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407204     read_config.obj
+ 0002:00000208       ?right@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407208     read_config.obj
+ 0002:0000020c       ?internal@?$_Iosb@H@std@@2W4_Fmtflags@12@B 0040720c     read_config.obj
+ 0002:00000210       ?dec@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407210     read_config.obj
+ 0002:00000214       ?oct@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407214     read_config.obj
+ 0002:00000218       ?hex@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407218     read_config.obj
+ 0002:0000021c       ?scientific@?$_Iosb@H@std@@2W4_Fmtflags@12@B 0040721c     read_config.obj
+ 0002:00000220       ?fixed@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407220     read_config.obj
+ 0002:00000224       ?hexfloat@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407224     read_config.obj
+ 0002:00000228       ?boolalpha@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407228     read_config.obj
+ 0002:0000022c       ?_Stdio@?$_Iosb@H@std@@2W4_Fmtflags@12@B 0040722c     read_config.obj
+ 0002:00000230       ?adjustfield@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407230     read_config.obj
+ 0002:00000234       ?basefield@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407234     read_config.obj
+ 0002:00000238       ?floatfield@?$_Iosb@H@std@@2W4_Fmtflags@12@B 00407238     read_config.obj
+ 0002:0000023c       ?goodbit@?$_Iosb@H@std@@2W4_Iostate@12@B 0040723c     read_config.obj
+ 0002:00000240       ?eofbit@?$_Iosb@H@std@@2W4_Iostate@12@B 00407240     read_config.obj
+ 0002:00000244       ?failbit@?$_Iosb@H@std@@2W4_Iostate@12@B 00407244     read_config.obj
+ 0002:00000248       ?badbit@?$_Iosb@H@std@@2W4_Iostate@12@B 00407248     read_config.obj
+ 0002:0000024c       ?_Hardfail@?$_Iosb@H@std@@2W4_Iostate@12@B 0040724c     read_config.obj
+ 0002:00000250       ?in@?$_Iosb@H@std@@2W4_Openmode@12@B 00407250     read_config.obj
+ 0002:00000254       ?out@?$_Iosb@H@std@@2W4_Openmode@12@B 00407254     read_config.obj
+ 0002:00000258       ?ate@?$_Iosb@H@std@@2W4_Openmode@12@B 00407258     read_config.obj
+ 0002:0000025c       ?app@?$_Iosb@H@std@@2W4_Openmode@12@B 0040725c     read_config.obj
+ 0002:00000260       ?trunc@?$_Iosb@H@std@@2W4_Openmode@12@B 00407260     read_config.obj
+ 0002:00000264       ?_Nocreate@?$_Iosb@H@std@@2W4_Openmode@12@B 00407264     read_config.obj
+ 0002:00000268       ?_Noreplace@?$_Iosb@H@std@@2W4_Openmode@12@B 00407268     read_config.obj
+ 0002:0000026c       ?binary@?$_Iosb@H@std@@2W4_Openmode@12@B 0040726c     read_config.obj
+ 0002:00000270       ?beg@?$_Iosb@H@std@@2W4_Seekdir@12@B 00407270     read_config.obj
+ 0002:00000274       ?cur@?$_Iosb@H@std@@2W4_Seekdir@12@B 00407274     read_config.obj
+ 0002:00000278       ?end@?$_Iosb@H@std@@2W4_Seekdir@12@B 00407278     read_config.obj
+ 0002:00000280       ??_7CReadConfig@@6B@       00407280     read_config.obj
+ 0002:00000284       ??_C@_00CNPNBAHC@?$AA@     00407284     read_config.obj
+ 0002:00000288       ??_C@_01KDCPPGHE@r?$AA@    00407288     read_config.obj
+ 0002:00000290       __real@3fe0000000000000    00407290     welsenc.obj
+ 0002:00000298       __real@412e848000000000    00407298     welsenc.obj
+ 0002:000002a0       __real@41f00000            004072a0     welsenc.obj
+ 0002:000002a4       ??_C@_0DG@OMIDABCC@Invalid?5spatial?5bitrate?$CI?$CFd?$CJ?5in?5d@ 004072a4     welsenc.obj
+ 0002:000002dc       ??_C@_08ONFDDPLG@SliceNum?$AA@ 004072dc     welsenc.obj
+ 0002:000002e8       ??_C@_09KBLDNEIF@SliceSize?$AA@ 004072e8     welsenc.obj
+ 0002:000002f4       ??_C@_09ENLACMMA@SliceMode?$AA@ 004072f4     welsenc.obj
+ 0002:00000300       ??_C@_09BAGEPPHK@InitialQP?$AA@ 00407300     welsenc.obj
+ 0002:00000310       ??_C@_0EH@KCEHJOAB@Invalid?5spatial?$CI?$CD?$CFd?$CJ?5bitrate?$CI?$CFd?$CJ@ 00407310     welsenc.obj
+ 0002:00000358       ??_C@_0P@KILKDCND@SpatialBitrate?$AA@ 00407358     welsenc.obj
+ 0002:00000368       ??_C@_05GIJEAGJD@FRExt?$AA@ 00407368     welsenc.obj
+ 0002:00000370       ??_C@_0L@FMPMFDNO@ProfileIdc?$AA@ 00407370     welsenc.obj
+ 0002:0000037c       ??_C@_09GONOEIKP@ReconFile?$AA@ 0040737c     welsenc.obj
+ 0002:00000388       ??_C@_09KABCHINI@InputFile?$AA@ 00407388     welsenc.obj
+ 0002:00000394       ??_C@_0N@KHJILAJB@FrameRateOut?$AA@ 00407394     welsenc.obj
+ 0002:000003a4       ??_C@_0M@FEFPCOJ@FrameRateIn?$AA@ 004073a4     welsenc.obj
+ 0002:000003b0       ??_C@_0N@IOLIPAAK@SourceHeight?$AA@ 004073b0     welsenc.obj
+ 0002:000003c0       ??_C@_0M@IKANNOAD@SourceWidth?$AA@ 004073c0     welsenc.obj
+ 0002:000003cc       ??_C@_0DD@FKKMFPDH@Unabled?5to?5open?5layer?5?$CD?$CFd?5config@ 004073cc     welsenc.obj
+ 0002:00000400       ??_C@_0FF@PBBJDNBE@Invalid?5target?5bitrate?5setting?5d@ 00407400     welsenc.obj
+ 0002:00000458       ??_C@_0BE@KGJLIIOL@PrefixNALAddingCtrl?$AA@ 00407458     welsenc.obj
+ 0002:0000046c       ??_C@_08HAINLOPI@LayerCfg?$AA@ 0040746c     welsenc.obj
+ 0002:00000478       ??_C@_0CP@HKNIOFDM@Invalid?5parameter?5in?5iNumDepende@ 00407478     welsenc.obj
+ 0002:000004a8       ??_C@_09IGICEDBM@NumLayers?$AA@ 004074a8     welsenc.obj
+ 0002:000004b4       ??_C@_0O@HLNDNLED@LtrMarkPeriod?$AA@ 004074b4     welsenc.obj
+ 0002:000004c4       ??_C@_0BI@FENNKFEB@EnableLongTermReference?$AA@ 004074c4     welsenc.obj
+ 0002:000004dc       ??_C@_0BL@EFOBJIEC@EnableAdaptiveQuantization?$AA@ 004074dc     welsenc.obj
+ 0002:000004f8       ??_C@_0BK@FNAAIMJO@EnableBackgroundDetection?$AA@ 004074f8     welsenc.obj
+ 0002:00000514       ??_C@_0BL@LOHCGBHL@EnableSceneChangeDetection?$AA@ 00407514     welsenc.obj
+ 0002:00000530       ??_C@_0O@CMPNDGEA@EnableDenoise?$AA@ 00407530     welsenc.obj
+ 0002:00000540       ??_C@_0O@EGEGPPIO@TargetBitrate?$AA@ 00407540     welsenc.obj
+ 0002:00000550       ??_C@_06MLGHCHGO@RCMode?$AA@ 00407550     welsenc.obj
+ 0002:00000558       ??_C@_08MEDJINPF@EnableRC?$AA@ 00407558     welsenc.obj
+ 0002:00000564       ??_C@_0BC@OPIIOKCE@MultipleThreadIdc?$AA@ 00407564     welsenc.obj
+ 0002:00000578       ??_C@_0BP@OOOCKLNN@InterLayerLoopFilterBetaOffset?$AA@ 00407578     welsenc.obj
+ 0002:00000598       ??_C@_0CC@IABAKHNN@InterLayerLoopFilterAlphaC0Offse@ 00407598     welsenc.obj
+ 0002:000005bc       ??_C@_0DL@LAIOLLE@Invalid?5parameter?5in?5bInterLayer@ 004075bc     welsenc.obj
+ 0002:000005f8       ??_C@_0BP@GEFHJBF@InterLayerLoopFilterDisableIDC?$AA@ 004075f8     welsenc.obj
+ 0002:00000618       ??_C@_0BF@PAKBBJID@LoopFilterBetaOffset?$AA@ 00407618     welsenc.obj
+ 0002:00000630       ??_C@_0BI@NPBEHIGJ@LoopFilterAlphaC0Offset?$AA@ 00407630     welsenc.obj
+ 0002:00000648       ??_C@_0DB@LKGICJEO@Invalid?5parameter?5in?5iLoopFilter@ 00407648     welsenc.obj
+ 0002:0000067c       ??_C@_0BF@BIAGMLEL@LoopFilterDisableIDC?$AA@ 0040767c     welsenc.obj
+ 0002:00000694       ??_C@_0BE@IFCGBOIE@EnableFrameCropping?$AA@ 00407694     welsenc.obj
+ 0002:000006a8       ??_C@_0BC@JKEIKFGF@EnableScalableSEI?$AA@ 004076a8     welsenc.obj
+ 0002:000006bc       ??_C@_0BH@BBOCHBDN@EnableSpsPpsIDAddition?$AA@ 004076bc     welsenc.obj
+ 0002:000006d4       ??_C@_0M@OKDODJJN@IntraPeriod?$AA@ 004076d4     welsenc.obj
+ 0002:000006e0       ??_C@_07HPDJJJPD@GOPSize?$AA@ 004076e0     welsenc.obj
+ 0002:000006e8       ??_C@_0BG@HFONLJAO@SourceSequenceInRGB24?$AA@ 004076e8     welsenc.obj
+ 0002:00000700       ??_C@_0BC@BOBBMJIK@FramesToBeEncoded?$AA@ 00407700     welsenc.obj
+ 0002:00000714       ??_C@_0N@JEOPAHIH@MaxFrameRate?$AA@ 00407714     welsenc.obj
+ 0002:00000724       ??_C@_0L@CGIOOGDC@OutputFile?$AA@ 00407724     welsenc.obj
+ 0002:00000730       ??_C@_0N@GNIBDOKF@SlicesAssign?$AA@ 00407730     welsenc.obj
+ 0002:00000740       ??_C@_06DMLJNEIO@?9ltarb?$AA@ 00407740     welsenc.obj
+ 0002:00000748       ??_C@_08LDHKMHJA@?9ilpredS?$AA@ 00407748     welsenc.obj
+ 0002:00000754       ??_C@_05HKHJCLMG@?9tarb?$AA@ 00407754     welsenc.obj
+ 0002:0000075c       ??_C@_04FLHIOLND@?9rcm?$AA@ 0040775c     welsenc.obj
+ 0002:00000764       ??_C@_07JPDDDPNL@?9ltrper?$AA@ 00407764     welsenc.obj
+ 0002:0000076c       ??_C@_04DPINHABE@?9ltr?$AA@ 0040776c     welsenc.obj
+ 0002:00000774       ??_C@_03PDNCLOKA@?9aq?$AA@ 00407774     welsenc.obj
+ 0002:00000778       ??_C@_04NNKKKPNJ@?9bgd?$AA@ 00407778     welsenc.obj
+ 0002:00000780       ??_C@_07NJDNFFON@?9denois?$AA@ 00407780     welsenc.obj
+ 0002:00000788       ??_C@_06IHIALGAD@?9spsid?$AA@ 00407788     welsenc.obj
+ 0002:00000790       ??_C@_05FJAHOPKL@?9iper?$AA@ 00407790     welsenc.obj
+ 0002:00000798       ??_C@_05IELADFLH@?9numt?$AA@ 00407798     welsenc.obj
+ 0002:000007a0       ??_C@_05GKLKNOO@?9numl?$AA@ 004077a0     welsenc.obj
+ 0002:000007a8       ??_C@_01EEMJAFIK@?6?$AA@   004077a8     welsenc.obj
+ 0002:000007ac       ??_C@_0DB@KAGJCANK@?5?5?9ltarb?7?$CILayer?$CJ?5?$CIspatial?5layer?5@ 004077ac     welsenc.obj
+ 0002:000007e0       ??_C@_0EP@NEBEFJHM@?5?5?9lqp?7?7?$CILayer?$CJ?5?$CIbase?5quality?5la@ 004077e0     welsenc.obj
+ 0002:00000830       ??_C@_0CG@CEIJKCIF@?5?5?9frout?7?$CILayer?$CJ?5?$CIoutput?5frame?5r@ 00407830     welsenc.obj
+ 0002:00000858       ??_C@_0CF@PBEILKML@?5?5?9frin?7?7?$CILayer?$CJ?5?$CIinput?5frame?5ra@ 00407858     welsenc.obj
+ 0002:00000880       ??_C@_0CA@MLPIPEAH@?5?5?9sh?7?7?$CILayer?$CJ?5?$CIsource?5height?$CJ?6?$AA@ 00407880     welsenc.obj
+ 0002:000008a0       ??_C@_0BP@BEJJCEAK@?5?5?9sw?7?7?$CILayer?$CJ?5?$CIsource?5width?$CJ?6?$AA@ 004078a0     welsenc.obj
+ 0002:000008c0       ??_C@_0CB@MBBBMENJ@?5?5?9org?7?7?$CILayer?$CJ?5?$CIoriginal?5file?$CJ?6@ 004078c0     welsenc.obj
+ 0002:000008e4       ??_C@_0BN@DJMFBOBC@?5?5?9mgsctrl?7MGS?5control?5mode?6?$AA@ 004078e4     welsenc.obj
+ 0002:00000904       ??_C@_0CC@CGMLNOGE@?5?5?9tarb?7?5?5Overall?5target?5bitrate@ 00407904     welsenc.obj
+ 0002:00000928       ??_C@_0EM@PCNGMNDC@?5?5?9rcm?7?5?5Rate?5control?5mode?5?$CI0?3?5q@ 00407928     welsenc.obj
+ 0002:00000974       ??_C@_0BO@BEDEOOFB@?5?5?9rc?7?5?5Disable?5rate?5control?6?$AA@ 00407974     welsenc.obj
+ 0002:00000998       ??_C@_0IP@IEOBHDJJ@?5?5?9numl?5?5?5Number?5Of?5Layers?3?5Must@ 00407998     welsenc.obj
+ 0002:00000a28       ??_C@_0BH@NEJMEEDJ@?5?5?9ssei?5?5?5Enable?5SSEI?6?$AA@ 00407a28     welsenc.obj
+ 0002:00000a40       ??_C@_0DF@FJGFGDPG@?5?5?9ltrper?5Long?5term?5reference?5pe@ 00407a40     welsenc.obj
+ 0002:00000a78       ??_C@_0DM@FPCCJJOB@?5?5?9pLtr?5?5?5?5Enable?5long?5term?5refe@ 00407a78     welsenc.obj
+ 0002:00000ab4       ??_C@_0DN@OKEMFEFB@?5?5?9aq?5?5?5?5?5Enable?5adaptive?5quanti@ 00407ab4     welsenc.obj
+ 0002:00000af4       ??_C@_0DM@GJDMEJPO@?5?5?9bgd?5?5?5?5Enable?5background?5dete@ 00407af4     welsenc.obj
+ 0002:00000b30       ??_C@_0DO@PHNABABN@?5?5?9scene?5?5Enable?5scene?5change?5de@ 00407b30     welsenc.obj
+ 0002:00000b70       ??_C@_0DB@OKABDKKI@?5?5?9denois?5Enable?5denoising?5contr@ 00407b70     welsenc.obj
+ 0002:00000ba4       ??_C@_0DD@PMPOMCLE@?5?5?9mgst0?5?5Enable?5MGS?5T0only?5stra@ 00407ba4     welsenc.obj
+ 0002:00000bd8       ??_C@_0FB@OHPBGFCI@?5?5?9iper?5?5?5Intra?5period?5?$CIdefault?3@ 00407bd8     welsenc.obj
+ 0002:00000c2c       ??_C@_0DM@IMPJNEKP@?5?5?9numt?5?5?5Number?5of?5temporal?5lay@ 00407c2c     welsenc.obj
+ 0002:00000c68       ??_C@_0DL@PGIOGAAB@?5?5?9gop?5?5?5?5GOPSize?5?9?5GOP?5size?5?$CI2?0@ 00407c68     welsenc.obj
+ 0002:00000ca4       ??_C@_0CC@EGLJOPJO@?5?5?9frms?5?5?5Number?5of?5total?5frames@ 00407ca4     welsenc.obj
+ 0002:00000cc8       ??_C@_0GA@NFOLPFCL@?5?5?9rec?5?5?5?5Reconstruction?5File?0no@ 00407cc8     welsenc.obj
+ 0002:00000d28       ??_C@_0BJ@MFGBMLAP@?5?5?9bf?5?5?5?5?5BitStreamFile?6?$AA@ 00407d28     welsenc.obj
+ 0002:00000d44       ??_C@_0BC@PDFKHOPJ@?5?5?9h?5?5?5?5?5?5?9?9help?6?$AA@ 00407d44     welsenc.obj
+ 0002:00000d58       ??_C@_0BG@EOLLECID@?6?5Supported?5Options?3?6?$AA@ 00407d58     welsenc.obj
+ 0002:00000d70       ??_C@_0DP@FJHPPDOD@?5Syntax?3?5welsenc?4exe?5?$FLoptions?$FN?5?9@ 00407d70     welsenc.obj
+ 0002:00000db0       ??_C@_0CE@BIEIJAIK@?5Syntax?3?5welsenc?4exe?5wbxsvcenc?4c@ 00407db0     welsenc.obj
+ 0002:00000dd4       ??_C@_0BM@CGHLEBCA@?6?5Wels?5SVC?5Encoder?5Usage?3?6?6?$AA@ 00407dd4     welsenc.obj
+ 0002:00000df0       ??_C@_07NNBKGAHK@?9slcnum?$AA@ 00407df0     welsenc.obj
+ 0002:00000df8       ??_C@_08DDFBBDEB@?9slcsize?$AA@ 00407df8     welsenc.obj
+ 0002:00000e04       ??_C@_06HFIADDMD@?9slcmd?$AA@ 00407e04     welsenc.obj
+ 0002:00000e0c       ??_C@_04LHANAHN@?9lqp?$AA@ 00407e0c     welsenc.obj
+ 0002:00000e14       ??_C@_06OLGKNGCJ@?9frout?$AA@ 00407e14     welsenc.obj
+ 0002:00000e1c       ??_C@_05JODDBEMI@?9frin?$AA@ 00407e1c     welsenc.obj
+ 0002:00000e24       ??_C@_03HHHAGAKG@?9sh?$AA@ 00407e24     welsenc.obj
+ 0002:00000e28       ??_C@_03LKCKGODI@?9sw?$AA@ 00407e28     welsenc.obj
+ 0002:00000e2c       ??_C@_05FIEHMAIB@?9drec?$AA@ 00407e2c     welsenc.obj
+ 0002:00000e34       ??_C@_04BOAAEFFM@?9org?$AA@ 00407e34     welsenc.obj
+ 0002:00000e3c       ??_C@_03JFEGNDFK@?9rc?$AA@ 00407e3c     welsenc.obj
+ 0002:00000e40       ??_C@_05MINEAEPM@?9ssei?$AA@ 00407e40     welsenc.obj
+ 0002:00000e48       ??_C@_06MJOGHENG@?9scene?$AA@ 00407e48     welsenc.obj
+ 0002:00000e50       ??_C@_06KGLFDGAJ@?9mgst0?$AA@ 00407e50     welsenc.obj
+ 0002:00000e58       ??_C@_04MKMJNJAG@?9gop?$AA@ 00407e58     welsenc.obj
+ 0002:00000e60       ??_C@_05GGFGNAAI@?9frms?$AA@ 00407e60     welsenc.obj
+ 0002:00000e68       ??_C@_03PEBHIEGP@?9bf?$AA@ 00407e68     welsenc.obj
+ 0002:00000e6c       ??_C@_02JNAPBCPB@?9h?$AA@  00407e6c     welsenc.obj
+ 0002:00000e70       __real@3eb0c6f7a0000000    00407e70     welsenc.obj
+ 0002:00000e78       __real@41700000            00407e78     welsenc.obj
+ 0002:00000e7c       __real@40f00000            00407e7c     welsenc.obj
+ 0002:00000e80       ??_C@_0CO@DAOODOLG@Frames?3?7?7?$CFd?6encode?5time?3?7?$CFf?5sec?6@ 00407e80     welsenc.obj
+ 0002:00000eb0       ??_C@_0BL@NMLDAGOP@EncodeFrame?$CI?$CJ?5failed?3?5?$CFd?4?6?$AA@ 00407eb0     welsenc.obj
+ 0002:00000ecc       ??_C@_0CA@BAKNEBE@Encoder?5Initialization?5failed?$CB?6?$AA@ 00407ecc     welsenc.obj
+ 0002:00000eec       ??_C@_0BL@KNGMPLFF@parse?5command?5line?5failed?6?$AA@ 00407eec     welsenc.obj
+ 0002:00000f08       ??_C@_02GMLFBBN@wb?$AA@    00407f08     welsenc.obj
+ 0002:00000f0c       ??_C@_02JDPG@rb?$AA@       00407f0c     welsenc.obj
+ 0002:00000f10       ??_C@_0EF@GBNONIOL@Width?3?7?7?$CFd?6Height?3?7?7?$CFd?6Frames?3?7?7@ 00407f10     welsenc.obj
+ 0002:00000f58       ??_C@_0CK@CBKCMEOP@EncodeFrame?$CI?$CJ?0?5ret?3?5?$CFd?0?5frame?5in@ 00407f58     welsenc.obj
+ 0002:00000f88       ??_C@_0EF@PBBAMINH@Unable?5to?5open?5source?5sequence?5f@ 00407f88     welsenc.obj
+ 0002:00000fd0       ??_C@_0CM@DANMHBDI@Can?5not?5open?5file?5?$CI?$CFs?$CJ?5to?5write?5@ 00407fd0     welsenc.obj
+ 0002:00000ffc       ??_C@_0BP@KFADNJAM@SVC?5encoder?5Initialize?5failed?6?$AA@ 00407ffc     welsenc.obj
+ 0002:0000101c       ??_C@_0CJ@BDKMMLJA@parse?5svc?5parameter?5config?5file?5@ 0040801c     welsenc.obj
+ 0002:00001048       ??_C@_0EJ@OGDHCCCM@Specified?5file?3?5?$CFs?5not?5exist?0?5ma@ 00408048     welsenc.obj
+ 0002:00001094       ??_C@_0CD@NLECLOKK@You?5specified?5command?5is?5invalid@ 00408094     welsenc.obj
+ 0002:000010b8       ??_C@_04IFJILJI@?4cfg?$AA@ 004080b8     welsenc.obj
+ 0002:000010c0       ??_C@_0BM@NAPKLHNI@CreateSVCEncoder?$CI?$CJ?5failed?$CB?$CB?$AA@ 004080c0     welsenc.obj
+ 0002:000010e0       ??_7type_info@@6B@         004080e0     MSVCRT:ti_inst.obj
+ 0002:000010ec       ?ProcessDetach@NativeDll@<CrtImplementationDetails>@@0IB 004080ec     MSVCRT:unhandld.obj
+ 0002:000010f0       ?ProcessAttach@NativeDll@<CrtImplementationDetails>@@0IB 004080f0     MSVCRT:unhandld.obj
+ 0002:000010f4       ?ThreadAttach@NativeDll@<CrtImplementationDetails>@@0IB 004080f4     MSVCRT:unhandld.obj
+ 0002:000010f8       ?ThreadDetach@NativeDll@<CrtImplementationDetails>@@0IB 004080f8     MSVCRT:unhandld.obj
+ 0002:000010fc       ?ProcessVerifier@NativeDll@<CrtImplementationDetails>@@0IB 004080fc     MSVCRT:unhandld.obj
+ 0002:00001100       __load_config_used         00408100     MSVCRT:loadcfg.obj
+ 0002:000011a4       ??_R4CReadConfig@@6B@      004081a4     read_config.obj
+ 0002:000011b8       ??_R3CReadConfig@@8        004081b8     read_config.obj
+ 0002:000011c8       ??_R2CReadConfig@@8        004081c8     read_config.obj
+ 0002:000011d0       ??_R1A@?0A@EA@CReadConfig@@8 004081d0     read_config.obj
+ 0002:000011ec       ??_R4type_info@@6B@        004081ec     MSVCRT:ti_inst.obj
+ 0002:00001200       ??_R3type_info@@8          00408200     MSVCRT:ti_inst.obj
+ 0002:00001210       ??_R2type_info@@8          00408210     MSVCRT:ti_inst.obj
+ 0002:00001218       ??_R1A@?0A@EA@type_info@@8 00408218     MSVCRT:ti_inst.obj
+ 0002:00001240       ___safe_se_handler_table   00408240     <linker-defined>
+ 0002:00001270       ___rtc_iaa                 00408270     MSVCRT:_initsect_.obj
+ 0002:00001274       ___rtc_izz                 00408274     MSVCRT:_initsect_.obj
+ 0002:00001278       ___rtc_taa                 00408278     MSVCRT:_initsect_.obj
+ 0002:0000127c       ___rtc_tzz                 0040827c     MSVCRT:_initsect_.obj
+ 0002:000015ac       __IMPORT_DESCRIPTOR_KERNEL32 004085ac     kernel32:KERNEL32.dll
+ 0002:000015c0       __IMPORT_DESCRIPTOR_welsenc 004085c0     welsenc:welsenc.dll
+ 0002:000015d4       __IMPORT_DESCRIPTOR_MSVCP90 004085d4     msvcprt:MSVCP90.dll
+ 0002:000015e8       __IMPORT_DESCRIPTOR_MSVCR90 004085e8     MSVCRT:MSVCR90.dll
+ 0002:000015fc       __NULL_IMPORT_DESCRIPTOR   004085fc     kernel32:KERNEL32.dll
+ 0003:00000004       ??_R0?AVCReadConfig@@@8    0040a004     read_config.obj
+ 0003:00000028       ??_R0?AVtype_info@@@8      0040a028     MSVCRT:ti_inst.obj
+ 0003:00000040       ___security_cookie         0040a040     MSVCRT:gs_cookie.obj
+ 0003:00000044       ___security_cookie_complement 0040a044     MSVCRT:gs_cookie.obj
+ 0003:00000050       ___native_dllmain_reason   0040a050     MSVCRT:natstart.obj
+ 0003:00000054       ___native_vcclrit_reason   0040a054     MSVCRT:natstart.obj
+ 0003:00000058       ___globallocalestatus      0040a058     MSVCRT:xthdloc.obj
+ 0003:0000005c       ___defaultmatherr          0040a05c     MSVCRT:merr.obj
+ 0003:000003b4       __forceCRTManifestRTM      0040a3b4     MSVCRT:crtmanifestrtm.obj
+ 0003:000003b8       __dowildcard               0040a3b8     MSVCRT:wildcard.obj
+ 0003:000003bc       __newmode                  0040a3bc     MSVCRT:_newmode.obj
+ 0003:000003c0       __commode                  0040a3c0     MSVCRT:xncommod.obj
+ 0003:000003c4       __fmode                    0040a3c4     MSVCRT:xtxtmode.obj
+ 0003:000003c8       __adjust_fdiv              0040a3c8     <common>
+ 0003:000003cc       ___native_startup_state    0040a3cc     <common>
+ 0003:000003d0       ___native_startup_lock     0040a3d0     <common>
+ 0003:000003d4       ___onexitend               0040a3d4     <common>
+ 0003:000003d8       ___onexitbegin             0040a3d8     <common>
+ 0003:000003dc       ___sse2_available          0040a3dc     <common>
+ 0003:000003e0       ___dyn_tls_init_callback   0040a3e0     <common>
+
+ entry point at        0001:00004964
+
+ Static symbols
+
+ 0001:00000310       ?wels_time@@YA_JXZ         00401310 f   welsenc.obj
+ 0001:000004d0       ?SigIntHandler@@YAXH@Z     004014d0 f   welsenc.obj
+ 0001:00003810       __catch$??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z$0 00404810 f i welsenc.obj
+ 0001:000043db       ?ArrayUnwindFilter@@YAHPAU_EXCEPTION_POINTERS@@@Z 004053db f   MSVCRT:ehvecdtr.obj
+ 0001:00004663       _pre_cpp_init              00405663 f   MSVCRT:crtexe.obj
+ 0001:000046ae       ___tmainCRTStartup         004056ae f   MSVCRT:crtexe.obj
+ 0001:00004824       _check_managed_app         00405824 f   MSVCRT:crtexe.obj
+ 0001:00004883       _pre_c_init                00405883 f   MSVCRT:crtexe.obj
+ 0001:0000496e       _has_osfxsr_set            0040596e f   MSVCRT:cpu_disp.obj
+ 0001:00005030       __unwindfunclet$?parse_config@@YAHAAVCReadConfig@@AAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z$0 00406030 f   welsenc.obj
+ 0001:00005047       __unwindfunclet$?parse_config@@YAHAAVCReadConfig@@AAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z$1 00406047 f   welsenc.obj
+ 0001:00005050       __unwindfunclet$?parse_config@@YAHAAVCReadConfig@@AAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z$2 00406050 f   welsenc.obj
+ 0001:00005058       __ehhandler$?parse_config@@YAHAAVCReadConfig@@AAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z 00406058 f   welsenc.obj
+ 0001:00005090       __unwindfunclet$?parse_commandline@@YAHHPAPADAAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z$0 00406090 f   welsenc.obj
+ 0001:00005099       __unwindfunclet$?parse_commandline@@YAHHPAPADAAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z$1 00406099 f   welsenc.obj
+ 0001:000050b0       __unwindfunclet$?parse_commandline@@YAHHPAPADAAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z$2 004060b0 f   welsenc.obj
+ 0001:000050b8       __ehhandler$?parse_commandline@@YAHHPAPADAAUTagWelsSvcCodingParam@WelsSVCEnc@@AAUtagFilesSet@@@Z 004060b8 f   welsenc.obj
+ 0001:000050f0       __unwindfunclet$??0<unnamed-type-sSpatialLayers>@tagFilesSet@@QAE@XZ$0 004060f0 f   welsenc.obj
+ 0001:000050f9       __ehhandler$??0<unnamed-type-sSpatialLayers>@tagFilesSet@@QAE@XZ 004060f9 f   welsenc.obj
+ 0001:00005120       __unwindfunclet$??1<unnamed-type-sSpatialLayers>@tagFilesSet@@QAE@XZ$0 00406120 f   welsenc.obj
+ 0001:00005129       __ehhandler$??1<unnamed-type-sSpatialLayers>@tagFilesSet@@QAE@XZ 00406129 f   welsenc.obj
+ 0001:00005150       __unwindfunclet$??0tagFilesSet@@QAE@XZ$0 00406150 f   welsenc.obj
+ 0001:00005159       __unwindfunclet$??0tagFilesSet@@QAE@XZ$1 00406159 f   welsenc.obj
+ 0001:00005165       __ehhandler$??0tagFilesSet@@QAE@XZ 00406165 f   welsenc.obj
+ 0001:00005180       __unwindfunclet$??1tagFilesSet@@QAE@XZ$0 00406180 f   welsenc.obj
+ 0001:00005189       __unwindfunclet$??1tagFilesSet@@QAE@XZ$1 00406189 f   welsenc.obj
+ 0001:00005195       __ehhandler$??1tagFilesSet@@QAE@XZ 00406195 f   welsenc.obj
+ 0001:000051b0       __unwindfunclet$??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@AAV12@@Z$0 004061b0 f   welsenc.obj
+ 0001:000051b8       __ehhandler$??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@AAV12@@Z 004061b8 f   welsenc.obj
+ 0001:000051e0       __unwindfunclet$??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@XZ$0 004061e0 f   welsenc.obj
+ 0001:000051e8       __ehhandler$??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@XZ 004061e8 f   welsenc.obj
+ 0001:00005210       __unwindfunclet$??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z$2 00406210 f   welsenc.obj
+ 0001:00005218       __ehhandler$??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z 00406218 f   welsenc.obj
+ 0001:00005240       __unwindfunclet$?process_encoding_svc_with_config@@YAHPAVISVCEncoder@@HPAPAD@Z$8 00406240 f   welsenc.obj
+ 0001:0000524b       __unwindfunclet$?process_encoding_svc_with_config@@YAHPAVISVCEncoder@@HPAPAD@Z$9 0040624b f   welsenc.obj
+ 0001:00005256       __ehhandler$?process_encoding_svc_with_config@@YAHPAVISVCEncoder@@HPAPAD@Z 00406256 f   welsenc.obj
+ 0001:00005290       __unwindfunclet$_main$5    00406290 f   welsenc.obj
+ 0001:00005299       __ehhandler$_main          00406299 f   welsenc.obj

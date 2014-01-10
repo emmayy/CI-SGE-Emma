@@ -1,0 +1,1 @@
+bin\encConsole.exe bin\wbxenc.cfg -org 0 D:\bin\test_seq\%1.yuv -gop 1 -iper 0  -sw 0 %2 -sh 0 %3  -lqp 0 %4 -bf str\%1_%4.264 >>dat\%1_%4.dat

@@ -1,0 +1,25 @@
+ CiscoVT2people_3                	QP =	 22	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people_3                	QP =	 20	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people_3                	QP =	 27	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people_3                	QP =	 32	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people_3                	QP =	 42	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people_3                	QP =	 37	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people                  	QP =	 22	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people                  	QP =	 20	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people                  	QP =	 27	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people                  	QP =	 32	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people                  	QP =	 42	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ CiscoVT2people                  	QP =	 37	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+sequence                           	qp 	gop	FPS                                	BitRate                            	YPSNR                              	
+ CiscoVT2people_3                   	 22	  1	477.631	0.000	0.000     	     0	
+                                    	 20	  1	443.678	0.000	0.000     	     0	
+                                    	 27	  1	551.200	0.000	0.000     	     0	
+                                    	 32	  1	653.357	0.000	0.000     	     0	
+                                    	 42	  1	807.247	0.000	0.000     	     0	
+                                    	 37	  1	728.627	0.000	0.000     	     0	
+ CiscoVT2people                     	 22	  1	1374.004	0.000	0.000     	     0	
+                                    	 20	  1	1377.790	0.000	0.000     	     0	
+                                    	 27	  1	1607.717	0.000	0.000     	     0	
+                                    	 32	  1	1792.757	0.000	0.000     	     0	
+                                    	 42	  1	2157.963	0.000	0.000     	     0	
+                                    	 37	  1	1909.855	0.000	0.000     	     0	

@@ -1,0 +1,5 @@
+Width:		160
+Height:		96
+Frames:		5
+encode time:	0.003629 sec
+FPS:		1377.790025 fps

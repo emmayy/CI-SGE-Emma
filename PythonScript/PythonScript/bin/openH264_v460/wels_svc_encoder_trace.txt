@@ -1,0 +1,2 @@
+[0x0042EA28 @ Wels Encoder v0.0.1 14-01-10 09:23:54.932]: INFO WelsInitEncoderExt() exit, overall memory usage: 673437 bytes
+[0x0042EA28 @ Wels Encoder v0.0.1 14-01-10 09:23:54.932]: DBUG WelsInitEncoderExt(), pCtx= 0x0042EA28.

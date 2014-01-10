@@ -1,0 +1,295 @@
+ Spe                             	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Spe                             	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Spe                             	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Spe                             	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Spe                             	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Spe                             	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Spe                             	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ LOrbit_large                    	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ LOrbit_large                    	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ LOrbit_large                    	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ LOrbit_large                    	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ LOrbit_large                    	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ LOrbit_large                    	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ LOrbit_large                    	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ akiy                            	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ akiy                            	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ akiy                            	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ akiy                            	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ akiy                            	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ akiy                            	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ akiy                            	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo4                          	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo4                          	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo4                          	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo4                          	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo4                          	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo4                          	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo4                          	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Absolute_Power            	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Absolute_Power            	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Absolute_Power            	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Absolute_Power            	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Absolute_Power            	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Absolute_Power            	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Absolute_Power            	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Newspaper_Fly             	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Newspaper_Fly             	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Newspaper_Fly             	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Newspaper_Fly             	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Newspaper_Fly             	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Newspaper_Fly             	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Cisco_Newspaper_Fly             	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ silen                           	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ silen                           	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ silen                           	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ silen                           	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ silen                           	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ silen                           	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ silen                           	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ deadlin                         	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ deadlin                         	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ deadlin                         	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ deadlin                         	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ deadlin                         	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ deadlin                         	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ deadlin                         	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo3                          	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo3                          	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo3                          	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo3                          	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo3                          	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo3                          	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo3                          	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ bowing                          	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ bowing                          	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ bowing                          	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ bowing                          	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ bowing                          	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ bowing                          	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ bowing                          	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ wine_tastin                     	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ wine_tastin                     	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ wine_tastin                     	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ wine_tastin                     	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ wine_tastin                     	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ wine_tastin                     	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ wine_tastin                     	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ mother_daughte                  	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ mother_daughte                  	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ mother_daughte                  	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ mother_daughte                  	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ mother_daughte                  	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ mother_daughte                  	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ mother_daughte                  	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ stud                            	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ stud                            	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ stud                            	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ stud                            	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ stud                            	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ stud                            	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ stud                            	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ forema                          	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ forema                          	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ forema                          	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ forema                          	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ forema                          	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ forema                          	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ forema                          	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo1                          	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo1                          	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo1                          	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo1                          	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo1                          	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo1                          	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ vidyo1                          	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ new                             	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ new                             	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ new                             	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ new                             	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ new                             	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ new                             	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ new                             	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Tberg_3people_Motion            	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Tberg_3people_Motion            	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Tberg_3people_Motion            	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Tberg_3people_Motion            	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Tberg_3people_Motion            	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Tberg_3people_Motion            	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Tberg_3people_Motion            	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Bourn                           	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Bourn                           	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Bourn                           	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Bourn                           	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Bourn                           	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Bourn                           	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Bourn                           	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSHD_2peopl                     	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSHD_2peopl                     	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSHD_2peopl                     	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSHD_2peopl                     	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSHD_2peopl                     	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSHD_2peopl                     	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSHD_2peopl                     	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Logi9000_smallmotion_bright_6   	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Logi9000_smallmotion_bright_6   	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Logi9000_smallmotion_bright_6   	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Logi9000_smallmotion_bright_6   	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Logi9000_smallmotion_bright_6   	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Logi9000_smallmotion_bright_6   	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ Logi9000_smallmotion_bright_6   	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSlife_Zhuling_12               	QP =	1024	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSlife_Zhuling_12               	QP =	768	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSlife_Zhuling_12               	QP =	2048	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSlife_Zhuling_12               	QP =	1536	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSlife_Zhuling_12               	QP =	384	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSlife_Zhuling_12               	QP =	512	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+ MSlife_Zhuling_12               	QP =	256	 GOP =	1	T_id	  T_Framecount	  T_Size	  T_Ratio	  T_BR	  
+sequence                           	qp 	gop	FPS                                	BitRate                            	YPSNR                              	
+ Spe                                	1024	  1	383.099	1023.550	42.299    	     0	
+                                    	768	  1	412.978	769.370	41.683    	     0	
+                                    	2048	  1	319.830	2042.260	43.669    	     0	
+                                    	1536	  1	340.542	1533.500	43.109    	     0	
+                                    	384	  1	498.643	385.390	39.760    	     0	
+                                    	512	  1	430.660	513.900	40.658    	     0	
+                                    	256	  1	547.796	258.910	38.315    	     0	
+ LOrbit_large                       	1024	  1	391.946	1024.370	40.617    	     0	
+                                    	768	  1	422.244	767.950	39.260    	     0	
+                                    	2048	  1	343.074	2048.570	43.271    	     0	
+                                    	1536	  1	360.481	1535.000	42.237    	     0	
+                                    	384	  1	489.541	385.870	35.616    	     0	
+                                    	512	  1	458.976	512.040	37.190    	     0	
+                                    	256	  1	536.072	257.380	33.189    	     0	
+ akiy                               	1024	  1	1668.279	750.200	43.519    	     0	
+                                    	768	  1	1666.167	655.420	42.952    	     0	
+                                    	2048	  1	1558.174	776.100	43.562    	     0	
+                                    	1536	  1	1667.361	775.580	43.565    	     0	
+                                    	384	  1	1799.737	377.370	41.939    	     0	
+                                    	512	  1	1772.369	484.610	42.103    	     0	
+                                    	256	  1	1848.281	255.710	41.288    	     0	
+ vidyo4                             	1024	  1	169.722	1025.690	39.682    	     0	
+                                    	768	  1	178.272	772.390	38.997    	     0	
+                                    	2048	  1	152.295	2051.670	41.103    	     0	
+                                    	1536	  1	157.565	1537.590	40.578    	     0	
+                                    	384	  1	0.000	0.000	0.000     	     0	
+                                    	512	  1	0.000	0.000	0.000     	     0	
+                                    	256	  1	0.000	0.000	0.000     	     0	
+ Cisco_Absolute_Power               	1024	  1	156.317	1028.420	37.673    	     0	
+                                    	768	  1	166.864	774.290	36.610    	     0	
+                                    	2048	  1	139.009	2051.980	39.777    	     0	
+                                    	1536	  1	146.822	1538.360	38.985    	     0	
+                                    	384	  1	187.833	391.670	33.484    	     0	
+                                    	512	  1	180.495	519.490	34.887    	     0	
+                                    	256	  1	201.441	265.880	31.366    	     0	
+ Cisco_Newspaper_Fly                	1024	  1	124.615	1029.320	33.838    	     0	
+                                    	768	  1	134.077	775.160	32.446    	     0	
+                                    	2048	  1	105.194	2050.800	36.875    	     0	
+                                    	1536	  1	113.246	1540.010	35.658    	     0	
+                                    	384	  1	161.992	400.300	28.394    	     0	
+                                    	512	  1	151.602	521.250	30.104    	     0	
+                                    	256	  1	177.185	312.890	26.634    	     0	
+ silen                              	1024	  1	983.113	1019.350	40.131    	     0	
+                                    	768	  1	1024.881	764.670	38.702    	     0	
+                                    	2048	  1	853.633	1898.150	42.051    	     0	
+                                    	1536	  1	920.938	1495.620	41.309    	     0	
+                                    	384	  1	1150.646	383.560	36.883    	     0	
+                                    	512	  1	1101.128	510.360	37.884    	     0	
+                                    	256	  1	1254.710	259.360	35.407    	     0	
+ deadlin                            	1024	  1	390.831	1027.580	39.833    	     0	
+                                    	768	  1	425.691	771.420	38.641    	     0	
+                                    	2048	  1	349.093	2050.340	42.398    	     0	
+                                    	1536	  1	372.777	1537.820	41.369    	     0	
+                                    	384	  1	480.560	389.590	35.743    	     0	
+                                    	512	  1	449.944	517.030	36.995    	     0	
+                                    	256	  1	515.630	261.850	33.964    	     0	
+ vidyo3                             	1024	  1	170.986	1027.030	39.030    	     0	
+                                    	768	  1	176.321	773.100	38.209    	     0	
+                                    	2048	  1	154.336	2046.790	40.820    	     0	
+                                    	1536	  1	160.522	1535.370	40.090    	     0	
+                                    	384	  1	201.642	392.700	35.997    	     0	
+                                    	512	  1	190.832	519.580	36.957    	     0	
+                                    	256	  1	220.042	265.800	34.446    	     0	
+ bowing                             	1024	  1	1066.504	638.630	44.606    	     0	
+                                    	768	  1	868.712	497.980	43.891    	     0	
+                                    	2048	  1	973.160	1040.290	45.524    	     0	
+                                    	1536	  1	1094.847	876.400	45.211    	     0	
+                                    	384	  1	1259.774	269.540	42.144    	     0	
+                                    	512	  1	1056.550	347.310	42.860    	     0	
+                                    	256	  1	1383.005	184.240	40.937    	     0	
+ wine_tastin                        	1024	  1	283.214	1027.010	38.752    	     0	
+                                    	768	  1	304.112	771.330	37.512    	     0	
+                                    	2048	  1	240.692	2048.810	41.301    	     0	
+                                    	1536	  1	257.269	1537.710	40.289    	     0	
+                                    	384	  1	362.395	398.510	34.415    	     0	
+                                    	512	  1	338.995	523.090	35.820    	     0	
+                                    	256	  1	387.436	274.960	32.266    	     0	
+ mother_daughte                     	1024	  1	1061.395	956.480	42.691    	     0	
+                                    	768	  1	1083.474	745.950	42.272    	     0	
+                                    	2048	  1	978.190	1556.370	43.373    	     0	
+                                    	1536	  1	838.724	1317.690	43.151    	     0	
+                                    	384	  1	1088.467	383.940	40.764    	     0	
+                                    	512	  1	1114.314	509.260	41.338    	     0	
+                                    	256	  1	1273.869	256.020	39.746    	     0	
+ stud                               	1024	  1	1105.624	968.220	41.261    	     0	
+                                    	768	  1	1158.125	745.280	40.520    	     0	
+                                    	2048	  1	1035.493	1556.160	42.503    	     0	
+                                    	1536	  1	1058.311	1332.680	42.113    	     0	
+                                    	384	  1	1290.792	383.090	38.652    	     0	
+                                    	512	  1	1147.547	506.150	39.471    	     0	
+                                    	256	  1	1400.414	256.950	37.492    	     0	
+ forema                             	1024	  1	606.192	1024.030	37.951    	     0	
+                                    	768	  1	607.567	767.800	36.806    	     0	
+                                    	2048	  1	512.580	2044.800	40.792    	     0	
+                                    	1536	  1	550.657	1534.220	39.590    	     0	
+                                    	384	  1	746.233	383.990	34.034    	     0	
+                                    	512	  1	698.547	512.800	35.160    	     0	
+                                    	256	  1	867.651	257.390	32.392    	     0	
+ vidyo1                             	1024	  1	166.185	1025.490	39.916    	     0	
+                                    	768	  1	174.484	772.360	39.090    	     0	
+                                    	2048	  1	148.400	2047.180	41.596    	     0	
+                                    	1536	  1	153.701	1533.960	40.939    	     0	
+                                    	384	  1	194.940	391.930	36.874    	     0	
+                                    	512	  1	184.979	518.580	37.846    	     0	
+                                    	256	  1	213.783	265.060	35.469    	     0	
+ new                                	1024	  1	933.393	1016.970	40.676    	     0	
+                                    	768	  1	989.090	763.670	39.351    	     0	
+                                    	2048	  1	843.064	1960.270	42.962    	     0	
+                                    	1536	  1	871.513	1520.310	42.145    	     0	
+                                    	384	  1	1140.576	387.200	35.699    	     0	
+                                    	512	  1	1093.302	511.120	37.006    	     0	
+                                    	256	  1	1039.717	265.020	33.867    	     0	
+ Tberg_3people_Motion               	1024	  1	125.912	1028.160	32.355    	     0	
+                                    	768	  1	136.392	773.340	30.938    	     0	
+                                    	2048	  1	107.118	2050.660	35.275    	     0	
+                                    	1536	  1	114.369	1537.840	34.111    	     0	
+                                    	384	  1	163.948	409.570	27.342    	     0	
+                                    	512	  1	150.518	519.910	28.790    	     0	
+                                    	256	  1	173.612	345.290	26.152    	     0	
+ Bourn                              	1024	  1	323.862	1023.100	39.305    	     0	
+                                    	768	  1	345.120	767.400	38.105    	     0	
+                                    	2048	  1	272.245	2045.580	41.594    	     0	
+                                    	1536	  1	293.278	1534.890	40.710    	     0	
+                                    	384	  1	416.039	385.370	34.755    	     0	
+                                    	512	  1	389.243	513.440	36.436    	     0	
+                                    	256	  1	466.307	258.120	32.626    	     0	
+ MSHD_2peopl                        	1024	  1	386.470	1026.110	37.487    	     0	
+                                    	768	  1	415.869	770.320	35.997    	     0	
+                                    	2048	  1	332.527	2049.230	40.860    	     0	
+                                    	1536	  1	348.459	1536.890	39.500    	     0	
+                                    	384	  1	500.493	387.470	32.448    	     0	
+                                    	512	  1	465.206	515.430	33.943    	     0	
+                                    	256	  1	537.170	259.390	30.318    	     0	
+ Logi9000_smallmotion_bright_6      	1024	  1	516.273	1019.890	43.253    	     0	
+                                    	768	  1	539.495	763.720	42.387    	     0	
+                                    	2048	  1	439.709	1972.560	45.137    	     0	
+                                    	1536	  1	476.729	1525.770	44.412    	     0	
+                                    	384	  1	595.569	386.630	40.001    	     0	
+                                    	512	  1	565.667	513.350	41.065    	     0	
+                                    	256	  1	675.368	258.120	38.279    	     0	
+ MSlife_Zhuling_12                  	1024	  1	149.936	1038.070	38.877    	     0	
+                                    	768	  1	157.771	784.310	37.793    	     0	
+                                    	2048	  1	124.326	2058.050	40.871    	     0	
+                                    	1536	  1	132.385	1543.570	40.103    	     0	
+                                    	384	  1	180.689	404.900	34.750    	     0	
+                                    	512	  1	167.787	531.710	36.179    	     0	
+                                    	256	  1	192.516	282.220	32.493    	     0	

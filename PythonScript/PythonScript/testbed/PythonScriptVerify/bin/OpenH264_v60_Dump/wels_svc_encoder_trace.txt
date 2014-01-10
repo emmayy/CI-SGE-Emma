@@ -1,0 +1,4 @@
+[0x0042EC18 @ Wels Encoder v0.0.1 13-11-14 16:32:30.151]: INFO wels_init_encoder_ext() exit, overall memory usage: 2395189 bytes
+[0x0042EC18 @ Wels Encoder v0.0.1 13-11-14 16:32:30.152]: DBUG wels_init_encoder_ext(), ctx= 0x0042EC18.
+[0x0042EC18 @ Wels Encoder v0.0.1 13-11-14 16:32:31.117]: INFO CWbxH264SVCEncoder::Unintialize()..
+[0x0042EC18 @ Wels Encoder v0.0.1 13-11-14 16:32:31.117]: INFO wels_uninit_encoder_ext(), ctx= 0042EC18, thread_count= 1, multiple_thread_idc= 1.

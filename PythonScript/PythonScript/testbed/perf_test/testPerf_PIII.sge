@@ -1,0 +1,41 @@
+#!/bin/bash
+# The script to run serial job
+# This version run on CPU PIII(Gary)
+# Work directory:/opt/sge62u2_1/SGE_room2/Oasis/Test
+# 
+# SGE submission options
+#$ -q general.q         		# Select the queue
+##$ -l h_rt=00:10:00           	# Set 10 minutes of wall clock time
+##$ -cwd                      	# Change to current working directory
+#$ -V                         	# Export environment variables into script
+##$ -t 2-8:3                  	# Set the array indices
+#$ -N svc_test                	# The name of job
+##$ -a                         	# request the launch time of job
+#$ -S /bin/bash			# Shell category
+##$ -o				# terminal output file
+##$ -e				# terminal error file
+#$ -j y				# combine error file with outout file
+##$ -pe			        # Select the parallel environment
+##$ -R y                         # Switch on resource reservation
+
+# mail event (`e' `b' `a' `n' `s')
+#$ -m ebas
+												
+#$ -notify			# notify job before killing or suspending it 
+#$ -now n			# start the job immediately or not 
+
+# mail list, notify these email addresses
+#$ -M root@sge-qmaster											
+
+# work directory
+#$ -wd /opt/sge62u2_1/SGE_room2/Oasis/Test/TestPerf												
+
+# Run the analysis program
+# /opt/n1ge6/default/warehouse/svc/testbed.sh qp.para
+
+/opt/sge62u2_1/SGE_room2/Oasis/Test/TestPerf/testPerf_4.0.sh tp_para.cfg
+
+# if you are submitting an array job, please use variable of $SGE_TASK_ID 
+# to customize the input, and configure the option of '-t' such like '1-100:2'
+
+

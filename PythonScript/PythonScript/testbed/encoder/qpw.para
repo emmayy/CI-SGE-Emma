@@ -1,0 +1,110 @@
+#test name
+test_data_directory="./" 	#the user may specify directory for test data and test result sperately, it's usefull when the tester work in mount mode. 
+test_result_directory="./"	#the tester may set data directory at remote linux machine, set result directory at the mounted device, to speed the testing.
+case_name="Wels QP Test"
+#name of this test case
+
+#the total number of tested codecs
+codec_num=2
+
+#always pick encoder 1, decoders are different combination, for wels encoder tests 
+same_encoder_flag=1
+ 
+#codec configuration 1
+
+codec_name[1]="Encoder 1"
+preprocessor[1]=""
+#encoder[1]="./h264enc.exe -L 0 -R 2 -T 1 -G 2 -q _TEST_POINTS -o _OUTPUT_PATH  _INPUT_PATH  _FRAME_WIDTH*_FRAME_HEIGHT"
+encoder[1]="./h264enc.exe -cf 1 -frin 15 -iper 60 -drc 1 -lqp _TEST_POINTS -bf _OUTPUT_PATH -org _INPUT_PATH -sw _FRAME_WIDTH -sh _FRAME_HEIGHT -rec temp_rec.yuv" 
+packer[1]=""
+nsimulator[1]=""
+unpacker[1]=""
+decoder[1]="./h264dec.exe _INPUT_PATH _OUTPUT_PATH"
+postprocesser[1]=""
+
+#codec configuration 2
+codec_name[2]="Encoder 2"
+preprocessor[2]=""
+#encoder[2]="./h264enc.exe -i 40 -L 1 -R 2 -T 1 -G 2 -q _TEST_POINTS -o _OUTPUT_PATH  _INPUT_PATH  _FRAME_WIDTH*_FRAME_HEIGHT"
+#encoder[2]="./h264enc.exe -cf 1 -frin 15 -iper 100 -drc 1 -lqp _TEST_POINTS -bf _OUTPUT_PATH -org _INPUT_PATH -sw _FRAME_WIDTH -sh _FRAME_HEIGHT -rec temp_rec.yuv" 
+encoder[2]=""
+packer[2]=""
+nsimulator[2]=""
+unpacker[2]=""
+decoder[2]="./ldecod.exe -i _INPUT_PATH -o _OUTPUT_PATH"
+postprocesser[2]=""
+
+#codec configuration 3
+codec_name[3]="Encoder 3"
+preprocessor[3]=""
+encoder[3]="./h264enc.exe -i 60 -L 1 -R 2 -T 1 -G 2 -q _TEST_POINTS -F _FRAME_RATE  -o _OUTPUT_PATH  _INPUT_PATH  _FRAME_WIDTH*_FRAME_HEIGHT"
+packer[3]=""
+nsimulator[3]=""
+unpacker[3]=""
+decoder[3]="./h264dec.exe _INPUT_PATH _OUTPUT_PATH"
+postprocesser[3]=""
+
+#plot PSNR per frame
+plot_frame_psnr_flag=1
+plot_frame_bits_flag=1
+plot_frame_ssim_flag=1
+plot_rate_psnr_flag=1
+plot_rate_ssim_flag=1
+plot_rate_vqm_flag=1
+log_rate_flag=0 
+
+#Quality Evaluation Method
+enable_psnr_flag=1
+enable_vqm_flag=1
+enable_ssim_flag=1
+
+#enable the diff comparsion between codec n stream and codec 1 stream
+enable_rec_diff_flag=1
+enable_ref_diff_flag=1
+
+vqm_paring_type=0  	# 0 for NONE(not split), 1 for SPLIT
+vqm_segment_length=300 #length of each vqm segment, should be 5-10s in time
+vqm_segment_freq=300 #distance between two vqm segment
+
+
+#bitrate comparison flag, it should be set to 0 in Lose Ratio Mode 
+enable_bitrate_flag=1 
+
+#delete medium data
+delete_medium_yuv_flag=0
+delete_all_result_yuv_flag=0
+delete_all_data_yuv_flag=0 #only valid when test_data_directory != test_result_directory
+
+#Test Points
+tp_num=3
+tp_type=1  #predefined test point: 1 for QP, 2 for Bitrate, 3 for Lose Ratio, 4 or null for user defined
+tp_name="QP" #
+tp_value[1]=28
+tp_value[2]=30
+tp_value[3]=32
+tp_value[4]=34
+tp_value[5]=36
+
+#test sequences
+seq_num=1
+seq_name[1]="bus_qcif" 	#file name of the sequence, the sequence must be located in current directory.
+seq_width[1]=176	       #frame width of the video sequence
+seq_height[1]=144	       #frame height of the video sequence
+seq_fps[1]=15			#_FRAME_rate of the video sequence, not must, default 30 
+seq_bitrate[1]=64000		#bit_rate of the video sequence, not must
+seq_loops[1]=2			#loops for long testing, not must, default 1
+
+seq_name[2]="bus_cif" 	#file name of the sequence, the sequence must be located in current directory.
+seq_width[2]=352	       #frame width of the video sequence
+seq_height[2]=288	       #frame height of the video sequence
+seq_fps[2]=15
+seq_bitrate[2]=144000
+seq_loops[2]=1
+
+seq_name[3]="foreman_cif"
+seq_width[3]=352
+seq_height[3]=288
+seq_fps[3]=15			
+seq_bitrate[3]=200000
+seq_loops[3]=10
+

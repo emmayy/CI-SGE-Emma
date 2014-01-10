@@ -1,0 +1,17 @@
+
+SEQ_DIR  							D:\test_sequence\HEVC
+MAX_PROCESS_NUMBER 		4	
+
+EXEPATH LIST					.\\bin\\M_08	.\\bin\\M_08_S 		
+
+GOP	LIST							1 2 4 8
+
+QP LIST								24
+
+LTR SWITCH LIST						0 1
+
+LTR NUMBER LIST				4
+
+
+
+
