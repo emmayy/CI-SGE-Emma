@@ -1,0 +1,174 @@
+CurrDir is /opt/VideoTest/CI-for-Git/CI-Git-Karina/TestSpace
+2
+
+***********************************************
+all test start!
+
+***********************************************
+prepare all test data folder
+delete iterm is:  /opt/VideoTest/CI-for-Git/CI-Git-Karina/TestSpace/AllTestData
+test Set is  CiscoVT2people_320x192.yuv Logi7500_320x192.yuv 
+case set name is CIF
+
+subfolder is /opt/VideoTest/CI-for-Git/CI-Git-Karina/TestSpace/AllTestData/TestSetCIF/CiscoVT2people_320x192.yuv
+case parameters are :  case.cfg  TestSetCIF_CiscoVT2people_320x192.yuv.csv  CIF
+************usage***********
+ ./run_*.sh  case.cfg OutputCaseFile  TestSetIndex:CIF VGA XGA 720p 1080p HEVC  SetSpecial
+****************************
+
+case generating ......
+all case info has been  output to file TestSetCIF_CiscoVT2people_320x192.yuv.csv 
+Frames=      10 
+GOPsize=     1 
+SliceSize=   1500
+ScreenContentSignal=  0 
+EnableRC=          0 1 
+RCMode=            0 1 
+TargetBitrate=     100 200 300 400 
+InitialQP=         24 26 36 
+EntropyCodingMode=  0 
+SliceMode=          0 1 2 3 4 
+SliceNum=           0 
+MultipleThreadIdc=  1 2 4 8 
+EnableLongTermReference= 1 0 
+LoopFilterDisableIDC=    0 1 2 
+subfolder is /opt/VideoTest/CI-for-Git/CI-Git-Karina/TestSpace/AllTestData/TestSetCIF/Logi7500_320x192.yuv
+case parameters are :  case.cfg  TestSetCIF_Logi7500_320x192.yuv.csv  CIF
+************usage***********
+ ./run_*.sh  case.cfg OutputCaseFile  TestSetIndex:CIF VGA XGA 720p 1080p HEVC  SetSpecial
+****************************
+
+case generating ......
+all case info has been  output to file TestSetCIF_Logi7500_320x192.yuv.csv 
+Frames=      10 
+GOPsize=     1 
+SliceSize=   1500
+ScreenContentSignal=  0 
+EnableRC=          0 1 
+RCMode=            0 1 
+TargetBitrate=     100 200 300 400 
+InitialQP=         24 26 36 
+EntropyCodingMode=  0 
+SliceMode=          0 1 2 3 4 
+SliceNum=           0 
+MultipleThreadIdc=  1 2 4 8 
+EnableLongTermReference= 1 0 
+LoopFilterDisableIDC=    0 1 2 
+test Set is 
+case set name is VGA
+
+test Set is 
+case set name is XGA
+
+test Set is 
+case set name is 720p
+
+test Set is 
+case set name is 1080p
+
+test Set is 
+case set name is HEVC
+
+test Set is 
+case set name is Special
+
+
+***********************************************
+running all test, please wait......
+
+configure file is ./cfg/case.cfg 
+main
+main cfg ./cfg/case.cfg
+main cfg ./cfg/case.cfg
+
+parse test set info
+cofigurefile is ./cfg/case.cfg
+main cfg ./cfg/case.cfg
+
+***************************************************************
+test Set is  CiscoVT2people_320x192.yuv Logi7500_320x192.yuv 
+
+ 
+***************************************************************
+CiscoVT2people_320x192.yuv is under testing....
+SequenceDir is /opt/VideoTest/CI-for-Git/CI-Git-Karina/TestSpace/AllTestData/TestSetCIF/CiscoVT2people_320x192.yuv
+sequence path is /opt/TestSequence/CIF/CiscoVT2people_320x192.yuv 
+codec folder is codec_benchmark codec_target
+
+***********************************************************
+TestSetCIF_CiscoVT2people_320x192.yuv
+total case  Num is :  1260
+pass  case  Num is : 1260
+unpass case Num is : 0 
+issue bitstream can be found in .../AllTestData/TestSetCIF/issue
+detail result  can be found in .../AllTestData/TestSetCIF/result
+***********************************************************
+
+
+***********************************************************
+detail file include:
+../AllTestData/TestSetCIF/result/  TestSetCIF_CiscoVT2people_320x192.yuv_AllCaseOutput.csv
+../AllTestData/TestSetCIF/result/  ../result/TestSetCIF_CiscoVT2people_320x192.yuv.TestLog
+../AllTestData/TestSetCIF/result/  ../result/TestSetCIF_CiscoVT2people_320x192.yuv.Summary
+../AllTestData/TestSetCIF/result/   ../result/TestSetCIF_CiscoVT2people_320x192.yuv.passFlag
+***********************************************************
+
+ 
+***************************************************************
+Logi7500_320x192.yuv is under testing....
+SequenceDir is /opt/VideoTest/CI-for-Git/CI-Git-Karina/TestSpace/AllTestData/TestSetCIF/Logi7500_320x192.yuv
+sequence path is /opt/TestSequence/CIF/Logi7500_320x192.yuv 
+codec folder is codec_benchmark codec_target
+
+***********************************************************
+TestSetCIF_Logi7500_320x192.yuv
+total case  Num is :  1260
+pass  case  Num is : 1260
+unpass case Num is : 0 
+issue bitstream can be found in .../AllTestData/TestSetCIF/issue
+detail result  can be found in .../AllTestData/TestSetCIF/result
+***********************************************************
+
+
+***********************************************************
+detail file include:
+../AllTestData/TestSetCIF/result/  TestSetCIF_Logi7500_320x192.yuv_AllCaseOutput.csv
+../AllTestData/TestSetCIF/result/  ../result/TestSetCIF_Logi7500_320x192.yuv.TestLog
+../AllTestData/TestSetCIF/result/  ../result/TestSetCIF_Logi7500_320x192.yuv.Summary
+../AllTestData/TestSetCIF/result/   ../result/TestSetCIF_Logi7500_320x192.yuv.passFlag
+***********************************************************
+
+
+***************************************************************
+test Set is 
+
+Test one set: TestSetVGA there is no yuv in this set!
+
+***************************************************************
+test Set is 
+
+Test one set: TestSetXGA there is no yuv in this set!
+
+***************************************************************
+test Set is 
+
+Test one set: TestSet720p there is no yuv in this set!
+
+***************************************************************
+test Set is 
+
+Test one set: TestSet1080p there is no yuv in this set!
+
+***************************************************************
+test Set is 
+
+Test one set: TestSetHEVC there is no yuv in this set!
+
+***************************************************************
+test Set is 
+
+Test one set: TestSetSpecial there is no yuv in this set!
+
+final checking ....
+AllPass
+all case pass!
